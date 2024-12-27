@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|d:\\gitprojects\\repos\\blazingquiz.web\\blazingquiz.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|solutionrelative:blazingquiz.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|d:\\gitprojects\\repos\\blazingquiz.web\\blazingquiz.api\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|solutionrelative:blazingquiz.api\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|d:\\gitprojects\\repos\\blazingquiz.web\\blazingquiz.api\\services\\studentquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|solutionrelative:blazingquiz.api\\services\\studentquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|d:\\gitprojects\\repos\\blazingquiz.web\\blazingquiz.api\\endpoints\\quizendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|solutionrelative:blazingquiz.api\\endpoints\\quizendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|d:\\gitprojects\\repos\\blazingquiz.web\\blazingquiz.api\\endpoints\\categoryendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|solutionrelative:blazingquiz.api\\endpoints\\categoryendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|d:\\gitprojects\\repos\\blazingquiz.web\\blazingquiz.api\\endpoints\\adminendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|solutionrelative:blazingquiz.api\\endpoints\\adminendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|d:\\gitprojects\\repos\\blazingquiz.web\\blazingquiz.api\\endpoints\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA1645-E1FF-4FF7-A3D6-22D37D3B6302}|BlazingQuiz.Api\\BlazingQuiz.Api.csproj|solutionrelative:blazingquiz.api\\endpoints\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A89A07A-7849-4502-8B21-400CCBC8BB6C}|BlazingQuiz.Mobile\\BlazingQuiz.Mobile.csproj|d:\\gitprojects\\repos\\blazingquiz.web\\blazingquiz.mobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A89A07A-7849-4502-8B21-400CCBC8BB6C}|BlazingQuiz.Mobile\\BlazingQuiz.Mobile.csproj|solutionrelative:blazingquiz.mobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB032977-BF96-45BE-83D1-911461CAF6AC}|BlazingQuiz.Web\\BlazingQuiz.Web.csproj|d:\\gitprojects\\repos\\blazingquiz.web\\blazingquiz.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB032977-BF96-45BE-83D1-911461CAF6AC}|BlazingQuiz.Web\\BlazingQuiz.Web.csproj|solutionrelative:blazingquiz.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB032977-BF96-45BE-83D1-911461CAF6AC}|BlazingQuiz.Web\\BlazingQuiz.Web.csproj|d:\\gitprojects\\repos\\blazingquiz.web\\blazingquiz.web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FB032977-BF96-45BE-83D1-911461CAF6AC}|BlazingQuiz.Web\\BlazingQuiz.Web.csproj|solutionrelative:blazingquiz.web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazingQuiz.Api\\appsettings.json",
+              "ToolTip": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\appsettings.json",
+              "RelativeToolTip": "BlazingQuiz.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T23:59:26.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\Services\\QuizService.cs",
+              "RelativeDocumentMoniker": "BlazingQuiz.Api\\Services\\QuizService.cs",
+              "ToolTip": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\Services\\QuizService.cs",
+              "RelativeToolTip": "BlazingQuiz.Api\\Services\\QuizService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:57:10.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentQuizService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\Services\\StudentQuizService.cs",
+              "RelativeDocumentMoniker": "BlazingQuiz.Api\\Services\\StudentQuizService.cs",
+              "ToolTip": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\Services\\StudentQuizService.cs",
+              "RelativeToolTip": "BlazingQuiz.Api\\Services\\StudentQuizService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:57:09.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizEndpoints.cs",
+              "DocumentMoniker": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\Endpoints\\QuizEndpoints.cs",
+              "RelativeDocumentMoniker": "BlazingQuiz.Api\\Endpoints\\QuizEndpoints.cs",
+              "ToolTip": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\Endpoints\\QuizEndpoints.cs",
+              "RelativeToolTip": "BlazingQuiz.Api\\Endpoints\\QuizEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:57:06.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryEndpoints.cs",
+              "DocumentMoniker": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\Endpoints\\CategoryEndpoints.cs",
+              "RelativeDocumentMoniker": "BlazingQuiz.Api\\Endpoints\\CategoryEndpoints.cs",
+              "ToolTip": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\Endpoints\\CategoryEndpoints.cs",
+              "RelativeToolTip": "BlazingQuiz.Api\\Endpoints\\CategoryEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:57:05.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminEndpoints.cs",
+              "DocumentMoniker": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\Endpoints\\AdminEndpoints.cs",
+              "RelativeDocumentMoniker": "BlazingQuiz.Api\\Endpoints\\AdminEndpoints.cs",
+              "ToolTip": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\Endpoints\\AdminEndpoints.cs",
+              "RelativeToolTip": "BlazingQuiz.Api\\Endpoints\\AdminEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:57:03.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthEndpoints.cs",
+              "DocumentMoniker": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\Endpoints\\AuthEndpoints.cs",
+              "RelativeDocumentMoniker": "BlazingQuiz.Api\\Endpoints\\AuthEndpoints.cs",
+              "ToolTip": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Api\\Endpoints\\AuthEndpoints.cs",
+              "RelativeToolTip": "BlazingQuiz.Api\\Endpoints\\AuthEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:56:59.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Mobile\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "BlazingQuiz.Mobile\\MauiProgram.cs",
+              "ToolTip": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Mobile\\MauiProgram.cs",
+              "RelativeToolTip": "BlazingQuiz.Mobile\\MauiProgram.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:55:27.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Web\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazingQuiz.Web\\wwwroot\\index.html",
+              "ToolTip": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Web\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazingQuiz.Web\\wwwroot\\index.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-26T12:22:22.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Web\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "BlazingQuiz.Web\\wwwroot\\css\\app.css",
+              "ToolTip": "D:\\GitProjects\\repos\\BlazingQuiz.Web\\BlazingQuiz.Web\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "BlazingQuiz.Web\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-26T12:22:16.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IdentityTeddy2022.bundle.scp.css",
-      "PackagePath": "staticwebassets\\IdentityTeddy2022.bundle.scp.css"
+      "PackagePath": "staticwebassets\\IdentityTeddy2022.fykcv8nlum.bundle.scp.css"
     },
     {
       "Id": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\wwwroot\\css\\site.css",
@@ -243,6 +243,10 @@
     {
       "Id": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.IdentityTeddy2022.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.IdentityTeddy2022.Microsoft.AspNetCore.StaticWebAssets.props",

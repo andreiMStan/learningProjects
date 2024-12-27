@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "1qGVPFbKMR1NuZi8CDO7Ol56F5I1ySskthIcSlVg9P8=",
-  "Source": "aaaa",
-  "BasePath": "_content/aaaa",
+  "Hash": "K0uON72fXErdpQTjWxaKnwGK4Cmup29UIjqRsWLGkjM=",
+  "Source": "Auto mapping Mohamadd LAwand",
+  "BasePath": "_content/Auto mapping Mohamadd LAwand",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

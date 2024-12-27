@@ -1,0 +1,144 @@
+﻿@page "/auth/login"
+
+@using System.Security.Claims
+
+@layout EmptyLayout
+@inject NavigationManager NavigationManager
+@inject IAuthApi AuthApi
+@inject IAppState AppState
+
+@inject QuizAuthStateProvider QuizAuthStateProvider
+
+
+
+<div class="container">
+    <div class="row vh-100">
+        <div class="col-11 col-sm-4 mx-auto my-auto border  bg-white shadow-lg">
+            <div class="my-3">
+                <h1 class="h3 fw-bold">Login | Blazing Quiz</h1>
+
+            </div>
+
+            <hr />
+            <EditForm Model="_model" OnValidSubmit="LoginAsync">
+                <DataAnnotationsValidator />
+                <div class="mb-3">
+                    <label class="form-label">UserName:</label>
+
+                    <InputText @bind-Value="_model.UserName" class="form-control" />
+                    <ValidationMessage For="()=>_model.UserName" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Password:</label>
+                    <InputText type="password" @bind-Value="_model.Password" class="form-control" />
+                    <ValidationMessage For="()=>_model.Password" />
+
+                </div>
+
+                @if (_error != null)
+                {
+                    <div class="mb-3 bg-danger text-white p-2">
+                        <p>@_error</p>
+                    </div>
+                }
+                <div class="mb-3 d-flex justify-content-between">
+
+                    @if (!_isBusy)
+
+                    {
+                        <a href="auth/register" class="btn btn-outline-primary" > Register </a>
+                        <button type="submit" class="btn btn-success">Login</button>
+                    }
+                    else
+                    {
+                        <button type="button" disabled class="btn btn-secondary">Logging-in....</button>
+
+                    }
+                </div>
+            </EditForm>
+        </div>
+    </div>
+</div>
+
+@code {
+    private LoginDto _model = new();
+    private bool _isBusy;
+    private string? _error;
+
+    protected override void OnInitialized()
+    {
+        if (QuizAuthStateProvider.IsLoggedIn)
+        {
+            // NavigationManager.NavigateTo("/", replace: true);
+           RedirectToHome(replace:true);
+        }
+    }
+    private async Task LoginAsync()
+
+    {
+        _error = null;
+        _isBusy = true;
+
+        try
+        {
+            AppState.ShowLoader("Logging in");
+            var authResponse = await AuthApi.LoginAsync(_model);
+            if (authResponse.HasError)
+            {
+                //show error allert
+                _error = authResponse.ErrorMessage;
+                return;
+            }
+            //see the login token in some storage
+            //implement provide
+            //navigate to protected page
+            var loggedInUser = authResponse.User;
+            await QuizAuthStateProvider.SetLoginAsync(loggedInUser);
+
+            RedirectToHome();
+
+        } 
+        catch (Exception ex)
+        {
+            _error = ex.Message;
+        }
+        finally
+        {
+            _isBusy = false;
+            AppState.HideLoader();
+
+        }
+    }
+
+    // private void RedirectToHome(bool replace=false)
+    // {
+    //     var redirectTo = QuizAuthStateProvider.User.Role
+    //         switch
+    //     {
+    //         nameof(UserRole.Student) => "student/home",
+    //         _ => "/"
+    //     };
+
+    //     NavigationManager.NavigateTo(redirectTo, replace);
+
+    // }
+
+    private void RedirectToHome(bool replace = false)
+    {
+        var redirectTo = QuizAuthStateProvider.User.Role switch
+        {
+            nameof(UserRole.Student) => "student/home",
+       //     nameof(UserRole.Admin) => "admin/home",
+            //_ => "/auth/login" // Default for unknown roles unauthorized
+            _ => "/" // Default for unknown roles unauthorized
+        };
+
+        NavigationManager.NavigateTo(redirectTo, replace);
+    }
+
+
+
+
+
+}

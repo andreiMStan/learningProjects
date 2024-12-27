@@ -1,2 +1,0 @@
-D:\GitProjects\NET 7  Build CRUD with Web API EF Core Repository Mohamaa Lawand\NET 7  Build CRUD with Web API EF Core Repository Mohamaa Lawand\obj\Debug\net7.0\NET 7  Build CRUD with Web API EF Core Repository Mohamaa Lawand.csproj.AssemblyReference.cache
-D:\GitProjects\NET 7  Build CRUD with Web API EF Core Repository Mohamaa Lawand\NET 7  Build CRUD with Web API EF Core Repository Mohamaa Lawand\obj\Debug\net7.0\NET 7  Build CRUD with Web API EF Core Repository Mohamaa Lawand.GeneratedMSBuildEditorConfig.editorconfig

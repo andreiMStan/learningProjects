@@ -1,0 +1,7 @@
+﻿@using BlazingQuiz.Shared
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Components.QuickGrid
+@using Microsoft.AspNetCore.Components.Sections
+@using BlazingQuiz.Shared.Components.Components
+
+@attribute [Authorize(Roles = nameof(UserRole.Student))]

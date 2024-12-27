@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\Maui LesJackson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\pages\\managetodopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\pages\\managetodopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\pages\\managetodopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\pages\\managetodopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\dataservices\\restdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\dataservices\\restdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\dataservices\\irestdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\dataservices\\irestdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\todomauiapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\todomauiapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\todomauiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\todomauiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6169745B-1B22-42FC-BBD5-9BAE8584BD0B}|ToDoApi\\ToDoApi.csproj|d:\\gitprojects\\maui lesjackson\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6169745B-1B22-42FC-BBD5-9BAE8584BD0B}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|d:\\gitprojects\\maui lesjackson\\todomauiapp\\platforms\\maccatalyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE66CACE-79B7-4D7F-8B25-FBBF9F9908B3}|ToDoMauiApp\\ToDoMauiApp.csproj|solutionrelative:todomauiapp\\platforms\\maccatalyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 35,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\App.xaml",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\App.xaml",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\App.xaml",
+              "RelativeToolTip": "ToDoMauiApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T21:39:28.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\MainPage.xaml",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\MainPage.xaml",
+              "RelativeToolTip": "ToDoMauiApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T21:39:25.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\AppShell.xaml",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\AppShell.xaml",
+              "RelativeToolTip": "ToDoMauiApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T21:39:21.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\MauiProgram.cs",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\MauiProgram.cs",
+              "RelativeToolTip": "ToDoMauiApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:39:04.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\MainPage.xaml.cs",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "ToDoMauiApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:39:04.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRestDataService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\DataServices\\IRestDataService.cs",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\DataServices\\IRestDataService.cs",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\DataServices\\IRestDataService.cs",
+              "RelativeToolTip": "ToDoMauiApp\\DataServices\\IRestDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:36:52.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestDataService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\DataServices\\RestDataService.cs",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\DataServices\\RestDataService.cs",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\DataServices\\RestDataService.cs",
+              "RelativeToolTip": "ToDoMauiApp\\DataServices\\RestDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:36:50.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-27T21:36:07.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageToDoPage.xaml.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\Pages\\ManageToDoPage.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\Pages\\ManageToDoPage.xaml.cs",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\Pages\\ManageToDoPage.xaml.cs",
+              "RelativeToolTip": "ToDoMauiApp\\Pages\\ManageToDoPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:36:54.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ToDoMauiApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T21:36:50.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageToDoPage.xaml",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\Pages\\ManageToDoPage.xaml",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\Pages\\ManageToDoPage.xaml",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\Pages\\ManageToDoPage.xaml",
+              "RelativeToolTip": "ToDoMauiApp\\Pages\\ManageToDoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T21:36:56.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ToDoMauiApp",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\ToDoMauiApp.csproj",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\ToDoMauiApp.csproj",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\ToDoMauiApp.csproj",
+              "RelativeToolTip": "ToDoMauiApp\\ToDoMauiApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T21:36:49.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToDoMauiApp.csproj",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\ToDoMauiApp.csproj",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\ToDoMauiApp.csproj",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\ToDoMauiApp.csproj",
+              "RelativeToolTip": "ToDoMauiApp\\ToDoMauiApp.csproj",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T21:36:44.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ToDoApi",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoApi\\ToDoApi.csproj",
+              "RelativeDocumentMoniker": "ToDoApi\\ToDoApi.csproj",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoApi\\ToDoApi.csproj",
+              "RelativeToolTip": "ToDoApi\\ToDoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T21:38:15.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\Platforms\\MacCatalyst\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoMauiApp\\Platforms\\MacCatalyst\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\Maui LesJackson\\ToDoMauiApp\\Platforms\\MacCatalyst\\Program.cs",
+              "RelativeToolTip": "ToDoMauiApp\\Platforms\\MacCatalyst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:36:09.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

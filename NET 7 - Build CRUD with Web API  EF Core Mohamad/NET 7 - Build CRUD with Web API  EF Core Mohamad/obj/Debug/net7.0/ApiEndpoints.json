@@ -1,0 +1,87 @@
+[
+  {
+    "ContainingType": "NET_7___Build_CRUD_with_Web_API__EF_Core_Mohamad.Controllers.DriversController",
+    "Method": "Get",
+    "RelativePath": "Drivers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NET_7___Build_CRUD_with_Web_API__EF_Core_Mohamad.Controllers.DriversController",
+    "Method": "Post",
+    "RelativePath": "Drivers/AddDriver",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "driver",
+        "Type": "NET_7___Build_CRUD_with_Web_API__EF_Core_Mohamad.Models.Driver",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NET_7___Build_CRUD_with_Web_API__EF_Core_Mohamad.Controllers.DriversController",
+    "Method": "DeleteDriver",
+    "RelativePath": "Drivers/DeleteDriver",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NET_7___Build_CRUD_with_Web_API__EF_Core_Mohamad.Controllers.DriversController",
+    "Method": "Get",
+    "RelativePath": "Drivers/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NET_7___Build_CRUD_with_Web_API__EF_Core_Mohamad.Controllers.DriversController",
+    "Method": "UpdateDriver",
+    "RelativePath": "Drivers/UpdateDriver",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "driver",
+        "Type": "NET_7___Build_CRUD_with_Web_API__EF_Core_Mohamad.Models.Driver",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NET_7___Build_CRUD_with_Web_API__EF_Core_Mohamad.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

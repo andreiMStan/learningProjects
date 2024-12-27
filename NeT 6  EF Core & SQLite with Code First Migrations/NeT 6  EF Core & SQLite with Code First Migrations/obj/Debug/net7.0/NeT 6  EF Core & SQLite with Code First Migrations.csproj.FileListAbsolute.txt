@@ -51,9 +51,13 @@ D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core
 D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\staticwebassets.build.json
 D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\staticwebassets.development.json
 D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\scopedcss\bundle\NeT 6  EF Core & SQLite with Code First Migrations.styles.css
-D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.csproj.CopyComplete
 D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.dll
 D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\refint\NeT 6  EF Core & SQLite with Code First Migrations.dll
 D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.pdb
 D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.genruntimeconfig.cache
 D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\ref\NeT 6  EF Core & SQLite with Code First Migrations.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.staticwebassets.endpoints.json
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\staticwebassets\msbuild.NeT 6  EF Core & SQLite with Code First Migrations.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  E.A4D4C159.Up2Date

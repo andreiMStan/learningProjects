@@ -109,9 +109,10 @@ D:\GitProjects\Xunit Mohammad\XunitFans\obj\Debug\net6.0\XunitFans.GeneratedMSBu
 D:\GitProjects\Xunit Mohammad\XunitFans\obj\Debug\net6.0\XunitFans.AssemblyInfoInputs.cache
 D:\GitProjects\Xunit Mohammad\XunitFans\obj\Debug\net6.0\XunitFans.AssemblyInfo.cs
 D:\GitProjects\Xunit Mohammad\XunitFans\obj\Debug\net6.0\XunitFans.csproj.CoreCompileInputs.cache
-D:\GitProjects\Xunit Mohammad\XunitFans\obj\Debug\net6.0\XunitFans.csproj.CopyComplete
 D:\GitProjects\Xunit Mohammad\XunitFans\obj\Debug\net6.0\XunitFans.dll
 D:\GitProjects\Xunit Mohammad\XunitFans\obj\Debug\net6.0\refint\XunitFans.dll
 D:\GitProjects\Xunit Mohammad\XunitFans\obj\Debug\net6.0\XunitFans.pdb
 D:\GitProjects\Xunit Mohammad\XunitFans\obj\Debug\net6.0\XunitFans.genruntimeconfig.cache
 D:\GitProjects\Xunit Mohammad\XunitFans\obj\Debug\net6.0\ref\XunitFans.dll
+D:\GitProjects\Xunit Mohammad\XunitFans\bin\Debug\net6.0\Unit Moh.staticwebassets.endpoints.json
+D:\GitProjects\Xunit Mohammad\XunitFans\obj\Debug\net6.0\XunitFans.csproj.Up2Date

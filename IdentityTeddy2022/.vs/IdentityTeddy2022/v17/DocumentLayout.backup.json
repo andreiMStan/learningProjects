@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\IdentityTeddy2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Migrations\\20241227211644_Test2024.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentityTeddy2022\\Migrations\\20241227211644_Test2024.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\views\\account\\forgotpassowrd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\views\\account\\forgotpassowrd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\views\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\views\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|d:\\gitprojects\\identityteddy2022\\identityteddy2022\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDECD0E-EAD1-40CC-8B65-F77221150075}|IdentityTeddy2022\\IdentityTeddy2022.csproj|solutionrelative:identityteddy2022\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "IdentityTeddy2022\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T22:32:41.834Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\appsettings.json",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\appsettings.json",
+              "RelativeToolTip": "IdentityTeddy2022\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T10:30:51.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "IdentityTeddy2022\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T00:32:23.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\Services\\EmailSender.cs",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Services\\EmailSender.cs",
+              "RelativeToolTip": "IdentityTeddy2022\\Services\\EmailSender.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAABDwBsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:46:40.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Program.cs",
+              "RelativeToolTip": "IdentityTeddy2022\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:42:38.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\ViewModels\\ForgotPasswordViewModel.cs",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "IdentityTeddy2022\\ViewModels\\ForgotPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:53:07.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgotPassowrd.cshtml",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Account\\ForgotPassowrd.cshtml",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\Views\\Account\\ForgotPassowrd.cshtml",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Account\\ForgotPassowrd.cshtml",
+              "RelativeToolTip": "IdentityTeddy2022\\Views\\Account\\ForgotPassowrd.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T09:52:05.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "IdentityTeddy2022\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T09:52:34.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IdentityTeddy2022\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T09:52:34.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Account\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\Views\\Account\\Lockout.cshtml",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Account\\Lockout.cshtml",
+              "RelativeToolTip": "IdentityTeddy2022\\Views\\Account\\Lockout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T09:48:34.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "IdentityTeddy2022\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T00:46:16.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "IdentityTeddy2022\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T00:48:18.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IdentityTeddy2022\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAA6wCwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T00:34:15.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IdentityTeddy2022\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T00:46:23.393Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241227211644_Test2024.cs",
+              "DocumentMoniker": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Migrations\\20241227211644_Test2024.cs",
+              "RelativeDocumentMoniker": "IdentityTeddy2022\\Migrations\\20241227211644_Test2024.cs",
+              "ToolTip": "D:\\GitProjects\\IdentityTeddy2022\\IdentityTeddy2022\\Migrations\\20241227211644_Test2024.cs",
+              "RelativeToolTip": "IdentityTeddy2022\\Migrations\\20241227211644_Test2024.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:16:45.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

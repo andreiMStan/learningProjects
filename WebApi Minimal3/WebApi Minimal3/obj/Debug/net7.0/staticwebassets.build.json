@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "FZxe1ELfNWL69G1jJbWc4CCKlvTxZMOOq215tjywm5s=",
+  "Hash": "lo6vjEhlRQsEx/i2xQrQjDF+9a7j+IDlow0fRrpcxyU=",
   "Source": "WebApi Minimal3",
   "BasePath": "_content/WebApi Minimal3",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

@@ -25,7 +25,6 @@ D:\GitProjects\WebApi Minimal3\WebApi Minimal3\obj\Debug\net7.0\staticwebassets.
 D:\GitProjects\WebApi Minimal3\WebApi Minimal3\obj\Debug\net7.0\staticwebassets.build.json
 D:\GitProjects\WebApi Minimal3\WebApi Minimal3\obj\Debug\net7.0\staticwebassets.development.json
 D:\GitProjects\WebApi Minimal3\WebApi Minimal3\obj\Debug\net7.0\scopedcss\bundle\WebApi Minimal3.styles.css
-D:\GitProjects\WebApi Minimal3\WebApi Minimal3\obj\Debug\net7.0\WebApi Minimal3.csproj.CopyComplete
 D:\GitProjects\WebApi Minimal3\WebApi Minimal3\obj\Debug\net7.0\WebApi Minimal3.dll
 D:\GitProjects\WebApi Minimal3\WebApi Minimal3\obj\Debug\net7.0\refint\WebApi Minimal3.dll
 D:\GitProjects\WebApi Minimal3\WebApi Minimal3\obj\Debug\net7.0\WebApi Minimal3.pdb
@@ -67,3 +66,8 @@ D:\GitProjects\WebApi Minimal3\WebApi Minimal3\bin\Debug\net7.0\runtimes\win-arm
 D:\GitProjects\WebApi Minimal3\WebApi Minimal3\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\GitProjects\WebApi Minimal3\WebApi Minimal3\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\GitProjects\WebApi Minimal3\WebApi Minimal3\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\GitProjects\WebApi Minimal3\WebApi Minimal3\bin\Debug\net7.0\WebApi Minimal3.staticwebassets.endpoints.json
+D:\GitProjects\WebApi Minimal3\WebApi Minimal3\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\GitProjects\WebApi Minimal3\WebApi Minimal3\obj\Debug\net7.0\staticwebassets\msbuild.WebApi Minimal3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\WebApi Minimal3\WebApi Minimal3\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\WebApi Minimal3\WebApi Minimal3\obj\Debug\net7.0\WebApi M.E1CDD324.Up2Date

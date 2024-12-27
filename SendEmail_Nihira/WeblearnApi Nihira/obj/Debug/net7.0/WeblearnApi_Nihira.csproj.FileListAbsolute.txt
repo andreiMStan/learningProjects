@@ -78,7 +78,6 @@ D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebass
 D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebassets.build.json
 D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebassets.development.json
 D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\scopedcss\bundle\WeblearnApi_Nihira.styles.css
-D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi_Nihira.csproj.CopyComplete
 D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi_Nihira.dll
 D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\refint\WeblearnApi_Nihira.dll
 D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi_Nihira.pdb
@@ -86,3 +85,8 @@ D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi_
 D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\ref\WeblearnApi_Nihira.dll
 D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\bin\Debug\net7.0\WeblearnApi_Nihira.staticwebassets.runtime.json
+D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\bin\Debug\net7.0\WeblearnApi_Nihira.staticwebassets.endpoints.json
+D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebassets\msbuild.WeblearnApi_Nihira.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira\obj\Debug\net7.0\Weblearn.1C6DDC98.Up2Date

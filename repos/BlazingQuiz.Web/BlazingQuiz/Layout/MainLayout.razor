@@ -1,0 +1,34 @@
+﻿@inherits LayoutComponentBase
+@inject QuizAuthStateProvider QuizAuthStateProvider 
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="top-row px-4">
+            <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
+        </div>
+
+        <article class="content px-4">
+            @if(QuizAuthStateProvider.IsInitializing)
+            {
+
+                <p>Initializing state..</p>
+            }
+            else{
+                @Body
+            }
+        </article>
+    </main>
+</div>
+
+@code{
+    protected override async Task OnInitializedAsync()
+    {
+        while (QuizAuthStateProvider.IsInitializing)
+        {
+            await Task.Delay(500);
+        }
+    }
+}

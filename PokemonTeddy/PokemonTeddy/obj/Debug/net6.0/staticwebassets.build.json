@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "bKnh8q/gE5hBJe241QDs4HeWzWivIFoyY8rcvjPIYGQ=",
+  "Hash": "w5Wnd7raaxbTenv0IJLl5vmnyVXrc6ZBicIJsxQEQZQ=",
   "Source": "PokemonTeddy",
   "BasePath": "_content/PokemonTeddy",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

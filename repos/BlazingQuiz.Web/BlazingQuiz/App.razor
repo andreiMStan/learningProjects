@@ -1,0 +1,24 @@
+﻿<Router AppAssembly="@typeof(App).Assembly">
+    <Found Context="routeData">
+        <AuthorizeRouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
+        <FocusOnNavigate RouteData="@routeData" Selector="h1" />
+    </Found>
+    <NotFound>
+        <PageTitle>Not found</PageTitle>
+        <LayoutView Layout="@typeof(MainLayout)">
+            <p role="alert">Sorry, there's nothing at this address.</p>
+        </LayoutView>
+    </NotFound>
+</Router>
+
+@inject QuizAuthStateProvider QuizAuthStateProvider
+@code{
+    protected override async Task OnInitializedAsync(){
+
+        await QuizAuthStateProvider.InitializeAsync();
+        //blazor works ,initialized in async 
+        // read this and start and go to render the page ui
+        //come here and complete and render again , apply csharp logic
+
+    }
+}

@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BlazingQuiz.Shared.Components/background.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\background.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"378"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Dec 2024 23:30:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingQuiz.Shared.Components/background.x2rx4ajns0.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\background.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x2rx4ajns0"},{"Name":"integrity","Value":"sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY="},{"Name":"label","Value":"_content/BlazingQuiz.Shared.Components/background.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"378"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Dec 2024 23:30:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingQuiz.Shared.Components/BlazingQuiz.Shared.Components.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BlazingQuiz.Shared.Components.p03q1b507w.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N3F8CEKbr9ilzMFtCRQ8A5jB5\u002BGEBwNjacunhbJK068="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2510"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022N3F8CEKbr9ilzMFtCRQ8A5jB5\u002BGEBwNjacunhbJK068=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Dec 2024 11:31:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingQuiz.Shared.Components/BlazingQuiz.Shared.Components.p03q1b507w.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BlazingQuiz.Shared.Components.p03q1b507w.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p03q1b507w"},{"Name":"integrity","Value":"sha256-N3F8CEKbr9ilzMFtCRQ8A5jB5\u002BGEBwNjacunhbJK068="},{"Name":"label","Value":"_content/BlazingQuiz.Shared.Components/BlazingQuiz.Shared.Components.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2510"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022N3F8CEKbr9ilzMFtCRQ8A5jB5\u002BGEBwNjacunhbJK068=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Dec 2024 11:31:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingQuiz.Shared.Components/common.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\common.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9w6X1lyJkEloe8yJ0NwYJ0z7JHmUGFJJpcrKlgoVofo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"150"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229w6X1lyJkEloe8yJ0NwYJ0z7JHmUGFJJpcrKlgoVofo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 24 Dec 2024 13:57:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingQuiz.Shared.Components/common.fmlixojymd.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\common.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fmlixojymd"},{"Name":"integrity","Value":"sha256-9w6X1lyJkEloe8yJ0NwYJ0z7JHmUGFJJpcrKlgoVofo="},{"Name":"label","Value":"_content/BlazingQuiz.Shared.Components/common.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"150"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229w6X1lyJkEloe8yJ0NwYJ0z7JHmUGFJJpcrKlgoVofo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 24 Dec 2024 13:57:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingQuiz.Shared.Components/exampleJsInterop.6pqz8bsss0.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\exampleJsInterop.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6pqz8bsss0"},{"Name":"integrity","Value":"sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1\u002B76qQ8B4="},{"Name":"label","Value":"_content/BlazingQuiz.Shared.Components/exampleJsInterop.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"247"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1\u002B76qQ8B4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Dec 2024 23:30:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazingQuiz.Shared.Components/exampleJsInterop.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\exampleJsInterop.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1\u002B76qQ8B4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"247"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1\u002B76qQ8B4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Dec 2024 23:30:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

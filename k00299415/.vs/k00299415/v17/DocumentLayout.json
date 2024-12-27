@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\k00299415\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA18611-DE4D-40BC-8A6B-3058B6DCDCD9}|k00299415\\k00299415.csproj|d:\\gitprojects\\k00299415\\k00299415\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA18611-DE4D-40BC-8A6B-3058B6DCDCD9}|k00299415\\k00299415.csproj|solutionrelative:k00299415\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrei\\AppData\\Local\\SourceServer\\fb8aabaea5141224a8d3ef734b5902c1cb1905b8e7c4641ea386afe2edd6ac68\\src\\libraries\\System.Runtime.Numerics\\src\\System\\Numerics\\BigNumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BigNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\AppData\\Local\\SourceServer\\fb8aabaea5141224a8d3ef734b5902c1cb1905b8e7c4641ea386afe2edd6ac68\\src\\libraries\\System.Runtime.Numerics\\src\\System\\Numerics\\BigNumber.cs",
+              "ToolTip": "C:\\Users\\Andrei\\AppData\\Local\\SourceServer\\fb8aabaea5141224a8d3ef734b5902c1cb1905b8e7c4641ea386afe2edd6ac68\\src\\libraries\\System.Runtime.Numerics\\src\\System\\Numerics\\BigNumber.cs",
+              "ViewState": "AQIAAHQBAAAAAAAAAEBCwH8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:15:38.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\k00299415\\k00299415\\Program.cs",
+              "RelativeDocumentMoniker": "k00299415\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\k00299415\\k00299415\\Program.cs",
+              "RelativeToolTip": "k00299415\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:32:58.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 151,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

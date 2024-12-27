@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "EWryXM5lpTQ18Oef6nzGfynFW4yjwwg44Qlc8q3kN38=",
+  "Hash": "PIEzl3egpYW8dybnr0wn0uxmMN9BwTrT/dndFQmP7nw=",
   "Source": "NET 7 - Build CRUD with Web API  EF Core Mohamad",
   "BasePath": "_content/NET 7 - Build CRUD with Web API  EF Core Mohamad",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

@@ -1,0 +1,7 @@
+D:\GitProjects\StudentService CRUD\StudentService CRUD\obj\Debug\net7.0\StudentService CRUD.csproj.AssemblyReference.cache
+D:\GitProjects\StudentService CRUD\StudentService CRUD\obj\Debug\net7.0\StudentService CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\StudentService CRUD\StudentService CRUD\obj\Debug\net7.0\StudentService CRUD.AssemblyInfoInputs.cache
+D:\GitProjects\StudentService CRUD\StudentService CRUD\obj\Debug\net7.0\StudentService CRUD.AssemblyInfo.cs
+D:\GitProjects\StudentService CRUD\StudentService CRUD\obj\Debug\net7.0\StudentService CRUD.csproj.CoreCompileInputs.cache
+D:\GitProjects\StudentService CRUD\StudentService CRUD\obj\Debug\net7.0\StudentService CRUD.MvcApplicationPartsAssemblyInfo.cs
+D:\GitProjects\StudentService CRUD\StudentService CRUD\obj\Debug\net7.0\StudentService CRUD.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,106 @@
+
+@implements IDisposable 
+
+@inject IAppState AppState
+
+<label class="fw-bold">
+	<span class="@_textColorClass">@_currentDisplayTime </span>
+	/@_totalDisplayTime
+</label>
+
+@code
+{
+	[Parameter,EditorRequired]
+	public int TotalMinutes { get; set; }
+
+	[Parameter]
+	public EventCallback OnTimerStop{ get; set; }
+
+	private DateTime _totaltime;
+	private string _totalDisplayTime = "" ;
+	private string _currentDisplayTime = "00:00";
+	private string _textColorClass = "";
+	private PeriodicTimer? _periodicTImer;
+
+	protected override void OnInitialized()
+	{
+		_totalDisplayTime = $"{TotalMinutes.ToString().PadLeft(2, '0')}:00";
+
+		_totaltime = DateTime.Now.AddMinutes(TotalMinutes);
+		_periodicTImer = new PeriodicTimer(TimeSpan.FromSeconds(1));
+
+		HandleTimerAsync();
+
+	}	
+	private async Task HandleTimerAsync()
+	{
+		while (await _periodicTImer!.WaitForNextTickAsync())
+		{
+			try
+			{
+				var diff = _totaltime - DateTime.Now;
+				if (diff <= TimeSpan.Zero)
+				{
+					//timer should stop
+					_periodicTImer.Dispose();
+					_periodicTImer = null;
+					await OnTimerStop.InvokeAsync();
+					return;
+				}
+				if (diff.TotalSeconds <= 60)
+				{
+					_textColorClass = "text-danger";
+				}
+				_currentDisplayTime = diff.ToString("mm\\:ss");
+				await InvokeAsync(StateHasChanged);
+			}
+			catch (Exception ex)
+			{
+				AppState.ShowError(ex.Message);
+			}
+
+			// AppState
+		}
+	}
+ 	
+	
+	// 
+	// 	// private async Task HandleTimerAsync()
+	// 		{
+				
+	// try
+	// 	{
+
+	
+	// 	while( await _periodicTImer!.WaitForNextTickAsync())
+	// 	{
+	// 		var diff = _totaltime - DateTime.Now;
+	// 		if (diff<=TimeSpan.Zero)
+	// 		{
+	// 			//timer should stop
+	// 			_periodicTImer.Dispose();
+	// 			_periodicTImer = null;
+	// 			await OnTimerStop.InvokeAsync();
+	// 			return;
+	// 		}
+	// 		if (diff.TotalSeconds<=60)
+	// 		{
+	// 			_textColorClass = "text-danger";
+	// 		}
+	// 		_currentDisplayTime = diff.ToString("mm\\:ss");
+	// 	  await	InvokeAsync(StateHasChanged);
+	// 	}
+	// 	catch (Exception ex)
+	// 	{
+
+	// 		AppState
+	// 	}
+	// }
+	public void Dispose()
+	{
+		if (_periodicTImer !=null)
+		{
+			_periodicTImer.Dispose();
+		}
+	}
+}

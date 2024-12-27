@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|d:\\gitprojects\\net 7 - build crud with web api  ef core mohamad\\net 7 - build crud with web api  ef core mohamad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|solutionrelative:net 7 - build crud with web api  ef core mohamad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|d:\\gitprojects\\net 7 - build crud with web api  ef core mohamad\\net 7 - build crud with web api  ef core mohamad\\core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|solutionrelative:net 7 - build crud with web api  ef core mohamad\\core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|d:\\gitprojects\\net 7 - build crud with web api  ef core mohamad\\net 7 - build crud with web api  ef core mohamad\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|solutionrelative:net 7 - build crud with web api  ef core mohamad\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|d:\\gitprojects\\net 7 - build crud with web api  ef core mohamad\\net 7 - build crud with web api  ef core mohamad\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|solutionrelative:net 7 - build crud with web api  ef core mohamad\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|d:\\gitprojects\\net 7 - build crud with web api  ef core mohamad\\net 7 - build crud with web api  ef core mohamad\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|solutionrelative:net 7 - build crud with web api  ef core mohamad\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|d:\\gitprojects\\net 7 - build crud with web api  ef core mohamad\\net 7 - build crud with web api  ef core mohamad\\core\\repositories\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|solutionrelative:net 7 - build crud with web api  ef core mohamad\\core\\repositories\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|d:\\gitprojects\\net 7 - build crud with web api  ef core mohamad\\net 7 - build crud with web api  ef core mohamad\\core\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|solutionrelative:net 7 - build crud with web api  ef core mohamad\\core\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|d:\\gitprojects\\net 7 - build crud with web api  ef core mohamad\\net 7 - build crud with web api  ef core mohamad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|solutionrelative:net 7 - build crud with web api  ef core mohamad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|d:\\gitprojects\\net 7 - build crud with web api  ef core mohamad\\net 7 - build crud with web api  ef core mohamad\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|solutionrelative:net 7 - build crud with web api  ef core mohamad\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|d:\\gitprojects\\net 7 - build crud with web api  ef core mohamad\\net 7 - build crud with web api  ef core mohamad\\core\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|solutionrelative:net 7 - build crud with web api  ef core mohamad\\core\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|d:\\gitprojects\\net 7 - build crud with web api  ef core mohamad\\net 7 - build crud with web api  ef core mohamad\\core\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC0E4C5-8BEA-407B-BEBA-1C782705E528}|NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj|solutionrelative:net 7 - build crud with web api  ef core mohamad\\core\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Controllers\\DriversController.cs",
+              "ToolTip": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Controllers\\DriversController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowHUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:50:03.679Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\appsettings.json",
+              "RelativeDocumentMoniker": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\appsettings.json",
+              "ToolTip": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\appsettings.json",
+              "RelativeToolTip": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T21:47:41.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Data\\UnitOfWork.cs",
+              "ToolTip": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Data\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:39:40.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\IUnitOfWork.cs",
+              "ToolTip": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\IUnitOfWork.cs",
+              "RelativeToolTip": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:24:04.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DriverRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\Repositories\\DriverRepository.cs",
+              "RelativeDocumentMoniker": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\Repositories\\DriverRepository.cs",
+              "ToolTip": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\Repositories\\DriverRepository.cs",
+              "RelativeToolTip": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\Repositories\\DriverRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:32:38.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Models\\Driver.cs",
+              "ToolTip": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Models\\Driver.cs",
+              "RelativeToolTip": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Models\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:20:05.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwCkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:32:28.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\IGenericRepository.cs",
+              "ToolTip": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\IGenericRepository.cs",
+              "RelativeToolTip": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:18:30.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDriverRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\IDriverRepository.cs",
+              "RelativeDocumentMoniker": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\IDriverRepository.cs",
+              "ToolTip": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\IDriverRepository.cs",
+              "RelativeToolTip": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Core\\IDriverRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:21:57.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Program.cs",
+              "RelativeDocumentMoniker": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Program.cs",
+              "RelativeToolTip": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:41:18.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Data\\ApiDbContext.cs",
+              "ToolTip": "D:\\GitProjects\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\NET 7 - Build CRUD with Web API  EF Core Mohamad\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "NET 7 - Build CRUD with Web API  EF Core Mohamad\\Data\\ApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T20:18:24.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\LinqExamPrep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63457E93-7079-4C90-8421-F57E431BB335}|LINQPART2\\LINQPART2.csproj|d:\\gitprojects\\linqexamprep\\linqpart2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63457E93-7079-4C90-8421-F57E431BB335}|LINQPART2\\LINQPART2.csproj|solutionrelative:linqpart2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90ABFE78-8CC2-4A5C-A6F9-7F4F016A0653}|LinqExamPrep\\LinqExamPrep.csproj|d:\\gitprojects\\linqexamprep\\linqexamprep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90ABFE78-8CC2-4A5C-A6F9-7F4F016A0653}|LinqExamPrep\\LinqExamPrep.csproj|solutionrelative:linqexamprep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90ABFE78-8CC2-4A5C-A6F9-7F4F016A0653}|LinqExamPrep\\LinqExamPrep.csproj|d:\\gitprojects\\linqexamprep\\linqexamprep\\linqexamprep.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{90ABFE78-8CC2-4A5C-A6F9-7F4F016A0653}|LinqExamPrep\\LinqExamPrep.csproj|solutionrelative:linqexamprep\\linqexamprep.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinqExamPrep.csproj",
+              "DocumentMoniker": "D:\\GitProjects\\LinqExamPrep\\LinqExamPrep\\LinqExamPrep.csproj",
+              "RelativeDocumentMoniker": "LinqExamPrep\\LinqExamPrep.csproj",
+              "ToolTip": "D:\\GitProjects\\LinqExamPrep\\LinqExamPrep\\LinqExamPrep.csproj",
+              "RelativeToolTip": "LinqExamPrep\\LinqExamPrep.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T11:16:37.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\LinqExamPrep\\LINQPART2\\Program.cs",
+              "RelativeDocumentMoniker": "LINQPART2\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\LinqExamPrep\\LINQPART2\\Program.cs",
+              "RelativeToolTip": "LINQPART2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:38:32.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\LinqExamPrep\\LinqExamPrep\\Program.cs",
+              "RelativeDocumentMoniker": "LinqExamPrep\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\LinqExamPrep\\LinqExamPrep\\Program.cs",
+              "RelativeToolTip": "LinqExamPrep\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:37:44.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 15,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

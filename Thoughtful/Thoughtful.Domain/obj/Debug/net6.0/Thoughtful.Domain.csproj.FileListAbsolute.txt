@@ -1,7 +1,6 @@
 D:\GitProjects\Thoughtful\Thoughtful.Domain\bin\Debug\net6.0\Thoughtful.Domain.deps.json
 D:\GitProjects\Thoughtful\Thoughtful.Domain\bin\Debug\net6.0\Thoughtful.Domain.dll
 D:\GitProjects\Thoughtful\Thoughtful.Domain\bin\Debug\net6.0\Thoughtful.Domain.pdb
-D:\GitProjects\Thoughtful\Thoughtful.Domain\obj\Debug\net6.0\Thoughtful.Domain.csproj.AssemblyReference.cache
 D:\GitProjects\Thoughtful\Thoughtful.Domain\obj\Debug\net6.0\Thoughtful.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\GitProjects\Thoughtful\Thoughtful.Domain\obj\Debug\net6.0\Thoughtful.Domain.AssemblyInfoInputs.cache
 D:\GitProjects\Thoughtful\Thoughtful.Domain\obj\Debug\net6.0\Thoughtful.Domain.AssemblyInfo.cs

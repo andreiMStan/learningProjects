@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "qSICV+WR83oNGFzEWkfKXxm8viexNIy9QrAXaQfx7dE=",
+  "Hash": "knwHqP7J40veapt1/bg7RfZBI9jEYAWtcCuAOGK3c+M=",
   "Source": "SendEmail Nihira",
   "BasePath": "_content/SendEmail Nihira",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "8PUt/q/ff1k6fWuTgIg/hNUsCsHNy1csMVutOWylvgE=",
+  "Hash": "6DCLpXtbtxpLacFF87J26I68JuIwIELkyh7v6P/DZ5I=",
   "Source": "NET 7 - Minimal APIs - New Features  Mohamad",
   "BasePath": "_content/NET 7 - Minimal APIs - New Features  Mohamad",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

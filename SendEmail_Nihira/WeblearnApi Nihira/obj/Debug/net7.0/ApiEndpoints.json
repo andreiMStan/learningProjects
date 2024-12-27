@@ -1,0 +1,336 @@
+[
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.AuthorizeController",
+    "Method": "GenerateRefreshToken",
+    "RelativePath": "api/Authorize/GenerateRefreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "WeblearnApi_Nihira.Modal.TokenResponse",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.AuthorizeController",
+    "Method": "GenerateToken",
+    "RelativePath": "api/Authorize/GenerateToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userCred",
+        "Type": "WeblearnApi_Nihira.Modal.UserCred",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.CustomerController",
+    "Method": "Create",
+    "RelativePath": "api/Customer/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_data",
+        "Type": "WeblearnApi_Nihira.Modal.CustomerModal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.CustomerController",
+    "Method": "GetAll",
+    "RelativePath": "api/Customer/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.CustomerController",
+    "Method": "GetByCode",
+    "RelativePath": "api/Customer/GetByCode",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.CustomerController",
+    "Method": "Remove",
+    "RelativePath": "api/Customer/Remove",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.CustomerController",
+    "Method": "Update",
+    "RelativePath": "api/Customer/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_data",
+        "Type": "WeblearnApi_Nihira.Modal.CustomerModal",
+        "IsRequired": true
+      },
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "DBMultiUploadImage",
+    "RelativePath": "api/Product/DBMultiUploadImage",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileCollection",
+        "Type": "Microsoft.AspNetCore.Http.IFormFileCollection",
+        "IsRequired": false
+      },
+      {
+        "Name": "productCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "Download",
+    "RelativePath": "api/Product/Download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productcode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "GetDBMultiImage",
+    "RelativePath": "api/Product/GetDBMultiImage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productcode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "GetImage",
+    "RelativePath": "api/Product/GetImage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productcode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "GetMultiImage",
+    "RelativePath": "api/Product/GetMultiImage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productcode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "MultiDownload",
+    "RelativePath": "api/Product/MultiDownload",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "MultiRemove",
+    "RelativePath": "api/Product/MultiRemove",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productcode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "MultiUploadImage",
+    "RelativePath": "api/Product/MultiUploadImage",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileCollection",
+        "Type": "Microsoft.AspNetCore.Http.IFormFileCollection",
+        "IsRequired": false
+      },
+      {
+        "Name": "productCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "Remove",
+    "RelativePath": "api/Product/Remove",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productcode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "RemoveFile",
+    "RelativePath": "api/Product/RemoveFile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productcode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "RemoveFileByImage",
+    "RelativePath": "api/Product/RemoveFileByImage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imageName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "RemoveImageByName",
+    "RelativePath": "api/Product/RemoveImageByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imageName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeblearnApi_Nihira.Controllers.ProductController",
+    "Method": "UploadImage",
+    "RelativePath": "api/Product/UploadImage",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "productCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

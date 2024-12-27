@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "PkEntWQMieI7cjJ1YVRuhSK+nxXMNmH2ShdjgfQFhmk=",
+  "Hash": "Rnfkvo6PCm4xxiitDcJ2zovCeBFdwqGa74SQBp0vHfs=",
   "Source": "MongoDbDemo",
   "BasePath": "_content/MongoDbDemo",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

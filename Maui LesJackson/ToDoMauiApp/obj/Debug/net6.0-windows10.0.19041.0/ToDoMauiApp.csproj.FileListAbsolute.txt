@@ -1,0 +1,5 @@
+D:\GitProjects\Maui LesJackson\ToDoMauiApp\obj\Debug\net6.0-windows10.0.19041.0\ToDoMauiApp.csproj.AssemblyReference.cache
+D:\GitProjects\Maui LesJackson\ToDoMauiApp\obj\Debug\net6.0-windows10.0.19041.0\ToDoMauiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\Maui LesJackson\ToDoMauiApp\obj\Debug\net6.0-windows10.0.19041.0\ToDoMauiApp.AssemblyInfoInputs.cache
+D:\GitProjects\Maui LesJackson\ToDoMauiApp\obj\Debug\net6.0-windows10.0.19041.0\ToDoMauiApp.AssemblyInfo.cs
+D:\GitProjects\Maui LesJackson\ToDoMauiApp\obj\Debug\net6.0-windows10.0.19041.0\ToDoMauiApp.csproj.CoreCompileInputs.cache

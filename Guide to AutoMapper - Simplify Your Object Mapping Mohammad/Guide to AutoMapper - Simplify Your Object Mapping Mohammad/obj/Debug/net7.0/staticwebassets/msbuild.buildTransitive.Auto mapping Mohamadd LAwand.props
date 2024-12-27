@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Auto mapping Mohamadd LAwand.props" />
+</Project>

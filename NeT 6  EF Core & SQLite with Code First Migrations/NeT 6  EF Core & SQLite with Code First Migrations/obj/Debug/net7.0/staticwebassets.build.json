@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "9+r4sbIblxai9BasAkgChneHPGRcnyBNxohiYQ6ng4c=",
+  "Hash": "ylNoH+pLg8yNNbYH4IuwFulhsai4bYaC9ap7sLBx8gg=",
   "Source": "NeT 6  EF Core & SQLite with Code First Migrations",
   "BasePath": "_content/NeT 6  EF Core & SQLite with Code First Migrations",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

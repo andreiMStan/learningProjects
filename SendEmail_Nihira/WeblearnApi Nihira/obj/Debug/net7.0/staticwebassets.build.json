@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7ppCoJ71zlfwFqT8dArZObIguDgTXuGJJFejhgKwwOM=",
+  "Hash": "mHYcuWL1uCUI5DTWpsWQ2cygL1ZzqxgG7RZ086600n8=",
   "Source": "WeblearnApi_Nihira",
   "BasePath": "_content/WeblearnApi_Nihira",
   "Mode": "Default",
@@ -22,16 +22,104 @@
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\wwwroot\\",
       "BasePath": "_content/WeblearnApi_Nihira",
-      "RelativePath": "Upload/product/012342/124314.jpg",
+      "RelativePath": "Upload/product/012342/124314#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "itceo5zxrf",
+      "Integrity": "ZvRSAP2kgsAGXpJVv8R6l5WLi9OVZIt8Qfw5zvq2HG0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Upload\\product\\012342\\124314.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Upload/product/012342/124314.itceo5zxrf.jpg",
+      "AssetFile": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\wwwroot\\Upload\\product\\012342\\124314.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZvRSAP2kgsAGXpJVv8R6l5WLi9OVZIt8Qfw5zvq2HG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Sep 2024 19:42:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "itceo5zxrf"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/product/012342/124314.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZvRSAP2kgsAGXpJVv8R6l5WLi9OVZIt8Qfw5zvq2HG0="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/product/012342/124314.jpg",
+      "AssetFile": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\wwwroot\\Upload\\product\\012342\\124314.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZvRSAP2kgsAGXpJVv8R6l5WLi9OVZIt8Qfw5zvq2HG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Sep 2024 19:42:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZvRSAP2kgsAGXpJVv8R6l5WLi9OVZIt8Qfw5zvq2HG0="
+        }
+      ]
     }
   ]
 }

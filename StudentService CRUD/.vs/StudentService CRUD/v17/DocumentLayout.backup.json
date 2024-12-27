@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\StudentService CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|d:\\gitprojects\\studentservice crud\\studentservice crud\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|solutionrelative:studentservice crud\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|d:\\gitprojects\\studentservice crud\\studentservice crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|solutionrelative:studentservice crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|d:\\gitprojects\\studentservice crud\\studentservice crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|solutionrelative:studentservice crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|d:\\gitprojects\\studentservice crud\\studentservice crud\\domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|solutionrelative:studentservice crud\\domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|d:\\gitprojects\\studentservice crud\\studentservice crud\\domain\\models\\relative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|solutionrelative:studentservice crud\\domain\\models\\relative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|d:\\gitprojects\\studentservice crud\\studentservice crud\\domain\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|solutionrelative:studentservice crud\\domain\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|d:\\gitprojects\\studentservice crud\\studentservice crud\\domain\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88E415A-E8F0-449D-88AF-8F312B875F0A}|StudentService CRUD\\StudentService CRUD.csproj|solutionrelative:studentservice crud\\domain\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentService CRUD\\appsettings.json",
+              "ToolTip": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\appsettings.json",
+              "RelativeToolTip": "StudentService CRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T22:18:00.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentService CRUD\\Services\\StudentService.cs",
+              "ToolTip": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentService CRUD\\Services\\StudentService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:56:45.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Relative.cs",
+              "DocumentMoniker": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\Domain\\Models\\Relative.cs",
+              "RelativeDocumentMoniker": "StudentService CRUD\\Domain\\Models\\Relative.cs",
+              "ToolTip": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\Domain\\Models\\Relative.cs",
+              "RelativeToolTip": "StudentService CRUD\\Domain\\Models\\Relative.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:06:46.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "StudentService CRUD\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\Program.cs",
+              "RelativeToolTip": "StudentService CRUD\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA5wEAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:48:31.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\Domain\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "StudentService CRUD\\Domain\\Models\\AuditLog.cs",
+              "ToolTip": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\Domain\\Models\\AuditLog.cs",
+              "RelativeToolTip": "StudentService CRUD\\Domain\\Models\\AuditLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:02:46.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\Domain\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentService CRUD\\Domain\\Models\\Student.cs",
+              "ToolTip": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\Domain\\Models\\Student.cs",
+              "RelativeToolTip": "StudentService CRUD\\Domain\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:01:33.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\Domain\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "StudentService CRUD\\Domain\\Models\\Address.cs",
+              "ToolTip": "D:\\GitProjects\\StudentService CRUD\\StudentService CRUD\\Domain\\Models\\Address.cs",
+              "RelativeToolTip": "StudentService CRUD\\Domain\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:05:32.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

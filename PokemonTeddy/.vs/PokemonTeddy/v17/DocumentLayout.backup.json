@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\PokemonTeddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Migrations\\20241227215852_Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PokemonTeddy\\Migrations\\20241227215852_Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\repository\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\repository\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\interfaces\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\interfaces\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\interfaces\\ireviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\interfaces\\ireviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\dtos\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\dtos\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\controllers\\reviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\controllers\\reviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\repository\\reviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\repository\\reviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\repository\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\repository\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\interfaces\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\interfaces\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|d:\\gitprojects\\pokemonteddy\\pokemonteddy\\models\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DDF0D-F279-4379-890F-375B4240F933}|PokemonTeddy\\PokemonTeddy.csproj|solutionrelative:pokemonteddy\\models\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "PokemonTeddy\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:12:17.656Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "PokemonTeddy\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:13:56.088Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReviewerController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Controllers\\ReviewerController.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Controllers\\ReviewerController.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Controllers\\ReviewerController.cs",
+              "RelativeToolTip": "PokemonTeddy\\Controllers\\ReviewerController.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAABCwHwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:36:50.372Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\appsettings.json",
+              "RelativeDocumentMoniker": "PokemonTeddy\\appsettings.json",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\appsettings.json",
+              "RelativeToolTip": "PokemonTeddy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T14:31:38.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Data\\DataContext.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Data\\DataContext.cs",
+              "RelativeToolTip": "PokemonTeddy\\Data\\DataContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:53:36.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Controllers\\PokemonController.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "PokemonTeddy\\Controllers\\PokemonController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAkwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:36:30.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Repository\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Repository\\ReviewRepository.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Repository\\ReviewRepository.cs",
+              "RelativeToolTip": "PokemonTeddy\\Repository\\ReviewRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA/wBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:20:50.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PokemonRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Repository\\PokemonRepository.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Repository\\PokemonRepository.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Repository\\PokemonRepository.cs",
+              "RelativeToolTip": "PokemonTeddy\\Repository\\PokemonRepository.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAcwEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:56:55.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "PokemonTeddy\\Interfaces\\IReviewRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAApwBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:50:21.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IReviewerRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Interfaces\\IReviewerRepository.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Interfaces\\IReviewerRepository.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Interfaces\\IReviewerRepository.cs",
+              "RelativeToolTip": "PokemonTeddy\\Interfaces\\IReviewerRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:34:59.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPokemonRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Interfaces\\IPokemonRepository.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Interfaces\\IPokemonRepository.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Interfaces\\IPokemonRepository.cs",
+              "RelativeToolTip": "PokemonTeddy\\Interfaces\\IPokemonRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:56:58.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Controllers\\OwnerController.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "PokemonTeddy\\Controllers\\OwnerController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAA1wIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:45:39.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "PokemonTeddy\\Controllers\\ReviewController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAABCwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:36:32.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OwnerDto.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Dtos\\OwnerDto.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Dtos\\OwnerDto.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Dtos\\OwnerDto.cs",
+              "RelativeToolTip": "PokemonTeddy\\Dtos\\OwnerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:17:49.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReviewerRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Repository\\ReviewerRepository.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Repository\\ReviewerRepository.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Repository\\ReviewerRepository.cs",
+              "RelativeToolTip": "PokemonTeddy\\Repository\\ReviewerRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:35:04.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Controllers\\CountryController.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "PokemonTeddy\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAA1wHwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:53:20.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "PokemonTeddy\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAAIwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:53:21.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OwnerRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Repository\\OwnerRepository.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Repository\\OwnerRepository.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Repository\\OwnerRepository.cs",
+              "RelativeToolTip": "PokemonTeddy\\Repository\\OwnerRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAABAwD0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:57:22.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Repository\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Repository\\CountryRepository.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Repository\\CountryRepository.cs",
+              "RelativeToolTip": "PokemonTeddy\\Repository\\CountryRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA/wCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:08:06.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Interfaces\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Interfaces\\ICountryRepository.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Interfaces\\ICountryRepository.cs",
+              "RelativeToolTip": "PokemonTeddy\\Interfaces\\ICountryRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIBDwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:05:16.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOwnerRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Interfaces\\IOwnerRepository.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Interfaces\\IOwnerRepository.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Interfaces\\IOwnerRepository.cs",
+              "RelativeToolTip": "PokemonTeddy\\Interfaces\\IOwnerRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAABHwBEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:05:45.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Reviewer.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Models\\Reviewer.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Models\\Reviewer.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Models\\Reviewer.cs",
+              "RelativeToolTip": "PokemonTeddy\\Models\\Reviewer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:49:49.39Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241227215852_Test.cs",
+              "DocumentMoniker": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Migrations\\20241227215852_Test.cs",
+              "RelativeDocumentMoniker": "PokemonTeddy\\Migrations\\20241227215852_Test.cs",
+              "ToolTip": "D:\\GitProjects\\PokemonTeddy\\PokemonTeddy\\Migrations\\20241227215852_Test.cs",
+              "RelativeToolTip": "PokemonTeddy\\Migrations\\20241227215852_Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:58:52.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

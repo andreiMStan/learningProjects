@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\SendEmail_Nihira\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\Migrations\\20241227220542_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeblearnApi Nihira\\Migrations\\20241227220542_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC33240-EDFE-482D-AE82-09CCA3E7C3A1}|WeblearnApi Nihira\\WeblearnApi_Nihira.csproj|d:\\gitprojects\\sendemail_nihira\\weblearnapi nihira\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BC33240-EDFE-482D-AE82-09CCA3E7C3A1}|WeblearnApi Nihira\\WeblearnApi_Nihira.csproj|solutionrelative:weblearnapi nihira\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC33240-EDFE-482D-AE82-09CCA3E7C3A1}|WeblearnApi Nihira\\WeblearnApi_Nihira.csproj|d:\\gitprojects\\sendemail_nihira\\weblearnapi nihira\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC33240-EDFE-482D-AE82-09CCA3E7C3A1}|WeblearnApi Nihira\\WeblearnApi_Nihira.csproj|solutionrelative:weblearnapi nihira\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\appsettings.json",
+              "RelativeDocumentMoniker": "WeblearnApi Nihira\\appsettings.json",
+              "ToolTip": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\appsettings.json",
+              "RelativeToolTip": "WeblearnApi Nihira\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T22:04:03.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WeblearnApi Nihira\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WeblearnApi Nihira\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:23:18.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 151,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241227220542_test.cs",
+              "DocumentMoniker": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\Migrations\\20241227220542_test.cs",
+              "RelativeDocumentMoniker": "WeblearnApi Nihira\\Migrations\\20241227220542_test.cs",
+              "ToolTip": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\Migrations\\20241227220542_test.cs",
+              "RelativeToolTip": "WeblearnApi Nihira\\Migrations\\20241227220542_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:05:42.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

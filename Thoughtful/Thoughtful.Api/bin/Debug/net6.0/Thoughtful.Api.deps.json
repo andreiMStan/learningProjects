@@ -532,12 +532,18 @@
           "Thoughtful.Domain": "1.0.0"
         },
         "runtime": {
-          "Dal.dll": {}
+          "Dal.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Thoughtful.Domain/1.0.0": {
         "runtime": {
-          "Thoughtful.Domain.dll": {}
+          "Thoughtful.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

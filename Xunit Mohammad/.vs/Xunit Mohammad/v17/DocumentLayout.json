@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\Xunit Mohammad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF8F7FB-16B7-42F0-AA44-AE9E6EB904F2}|XunitFans\\XunitFans.csproj|d:\\gitprojects\\xunit mohammad\\xunitfans\\systems\\controllers\\testfanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF8F7FB-16B7-42F0-AA44-AE9E6EB904F2}|XunitFans\\XunitFans.csproj|solutionrelative:xunitfans\\systems\\controllers\\testfanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF8F7FB-16B7-42F0-AA44-AE9E6EB904F2}|XunitFans\\XunitFans.csproj|d:\\gitprojects\\xunit mohammad\\xunitfans\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF8F7FB-16B7-42F0-AA44-AE9E6EB904F2}|XunitFans\\XunitFans.csproj|solutionrelative:xunitfans\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF8F7FB-16B7-42F0-AA44-AE9E6EB904F2}|XunitFans\\XunitFans.csproj|d:\\gitprojects\\xunit mohammad\\xunitfans\\systems\\services\\testfanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF8F7FB-16B7-42F0-AA44-AE9E6EB904F2}|XunitFans\\XunitFans.csproj|solutionrelative:xunitfans\\systems\\services\\testfanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF8F7FB-16B7-42F0-AA44-AE9E6EB904F2}|XunitFans\\XunitFans.csproj|d:\\gitprojects\\xunit mohammad\\xunitfans\\helpers\\mockhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF8F7FB-16B7-42F0-AA44-AE9E6EB904F2}|XunitFans\\XunitFans.csproj|solutionrelative:xunitfans\\helpers\\mockhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF8F7FB-16B7-42F0-AA44-AE9E6EB904F2}|XunitFans\\XunitFans.csproj|d:\\gitprojects\\xunit mohammad\\xunitfans\\fixtures\\fansfixtures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF8F7FB-16B7-42F0-AA44-AE9E6EB904F2}|XunitFans\\XunitFans.csproj|solutionrelative:xunitfans\\fixtures\\fansfixtures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB1C826-9AD9-4144-A0C3-84737DF2DB05}|Unit Moh\\Unit Moh.csproj|d:\\gitprojects\\xunit mohammad\\unit moh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB1C826-9AD9-4144-A0C3-84737DF2DB05}|Unit Moh\\Unit Moh.csproj|solutionrelative:unit moh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB1C826-9AD9-4144-A0C3-84737DF2DB05}|Unit Moh\\Unit Moh.csproj|d:\\gitprojects\\xunit mohammad\\unit moh\\services\\fanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB1C826-9AD9-4144-A0C3-84737DF2DB05}|Unit Moh\\Unit Moh.csproj|solutionrelative:unit moh\\services\\fanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB1C826-9AD9-4144-A0C3-84737DF2DB05}|Unit Moh\\Unit Moh.csproj|d:\\gitprojects\\xunit mohammad\\unit moh\\services\\interfaces\\ifanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB1C826-9AD9-4144-A0C3-84737DF2DB05}|Unit Moh\\Unit Moh.csproj|solutionrelative:unit moh\\services\\interfaces\\ifanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB1C826-9AD9-4144-A0C3-84737DF2DB05}|Unit Moh\\Unit Moh.csproj|d:\\gitprojects\\xunit mohammad\\unit moh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EB1C826-9AD9-4144-A0C3-84737DF2DB05}|Unit Moh\\Unit Moh.csproj|solutionrelative:unit moh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB1C826-9AD9-4144-A0C3-84737DF2DB05}|Unit Moh\\Unit Moh.csproj|d:\\gitprojects\\xunit mohammad\\unit moh\\controllers\\fanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB1C826-9AD9-4144-A0C3-84737DF2DB05}|Unit Moh\\Unit Moh.csproj|solutionrelative:unit moh\\controllers\\fanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB1C826-9AD9-4144-A0C3-84737DF2DB05}|Unit Moh\\Unit Moh.csproj|d:\\gitprojects\\xunit mohammad\\unit moh\\configuration\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB1C826-9AD9-4144-A0C3-84737DF2DB05}|Unit Moh\\Unit Moh.csproj|solutionrelative:unit moh\\configuration\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 990,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Xunit Mohammad\\XunitFans\\Usings.cs",
+              "RelativeDocumentMoniker": "XunitFans\\Usings.cs",
+              "ToolTip": "D:\\GitProjects\\Xunit Mohammad\\XunitFans\\Usings.cs",
+              "RelativeToolTip": "XunitFans\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:41:31.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockHttpHandler.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Xunit Mohammad\\XunitFans\\Helpers\\MockHttpHandler.cs",
+              "RelativeDocumentMoniker": "XunitFans\\Helpers\\MockHttpHandler.cs",
+              "ToolTip": "D:\\GitProjects\\Xunit Mohammad\\XunitFans\\Helpers\\MockHttpHandler.cs",
+              "RelativeToolTip": "XunitFans\\Helpers\\MockHttpHandler.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwD4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T00:30:27.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestFanService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Xunit Mohammad\\XunitFans\\Systems\\Services\\TestFanService.cs",
+              "RelativeDocumentMoniker": "XunitFans\\Systems\\Services\\TestFanService.cs",
+              "ToolTip": "D:\\GitProjects\\Xunit Mohammad\\XunitFans\\Systems\\Services\\TestFanService.cs",
+              "RelativeToolTip": "XunitFans\\Systems\\Services\\TestFanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:05:24.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FanService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Xunit Mohammad\\Unit Moh\\Services\\FanService.cs",
+              "RelativeDocumentMoniker": "Unit Moh\\Services\\FanService.cs",
+              "ToolTip": "D:\\GitProjects\\Xunit Mohammad\\Unit Moh\\Services\\FanService.cs",
+              "RelativeToolTip": "Unit Moh\\Services\\FanService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:25:03.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Xunit Mohammad\\Unit Moh\\Program.cs",
+              "RelativeDocumentMoniker": "Unit Moh\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\Xunit Mohammad\\Unit Moh\\Program.cs",
+              "RelativeToolTip": "Unit Moh\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:25:35.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FansFixtures.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Xunit Mohammad\\XunitFans\\Fixtures\\FansFixtures.cs",
+              "RelativeDocumentMoniker": "XunitFans\\Fixtures\\FansFixtures.cs",
+              "ToolTip": "D:\\GitProjects\\Xunit Mohammad\\XunitFans\\Fixtures\\FansFixtures.cs",
+              "RelativeToolTip": "XunitFans\\Fixtures\\FansFixtures.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:26:23.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestFansController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Xunit Mohammad\\XunitFans\\Systems\\Controllers\\TestFansController.cs",
+              "RelativeDocumentMoniker": "XunitFans\\Systems\\Controllers\\TestFansController.cs",
+              "ToolTip": "D:\\GitProjects\\Xunit Mohammad\\XunitFans\\Systems\\Controllers\\TestFansController.cs",
+              "RelativeToolTip": "XunitFans\\Systems\\Controllers\\TestFansController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:05:09.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFanService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Xunit Mohammad\\Unit Moh\\Services\\Interfaces\\IFanService.cs",
+              "RelativeDocumentMoniker": "Unit Moh\\Services\\Interfaces\\IFanService.cs",
+              "ToolTip": "D:\\GitProjects\\Xunit Mohammad\\Unit Moh\\Services\\Interfaces\\IFanService.cs",
+              "RelativeToolTip": "Unit Moh\\Services\\Interfaces\\IFanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:24:24.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\Xunit Mohammad\\Unit Moh\\appsettings.json",
+              "RelativeDocumentMoniker": "Unit Moh\\appsettings.json",
+              "ToolTip": "D:\\GitProjects\\Xunit Mohammad\\Unit Moh\\appsettings.json",
+              "RelativeToolTip": "Unit Moh\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T22:22:37.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FansController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Xunit Mohammad\\Unit Moh\\Controllers\\FansController.cs",
+              "RelativeDocumentMoniker": "Unit Moh\\Controllers\\FansController.cs",
+              "ToolTip": "D:\\GitProjects\\Xunit Mohammad\\Unit Moh\\Controllers\\FansController.cs",
+              "RelativeToolTip": "Unit Moh\\Controllers\\FansController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:30:55.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Xunit Mohammad\\Unit Moh\\Configuration\\ApiService.cs",
+              "RelativeDocumentMoniker": "Unit Moh\\Configuration\\ApiService.cs",
+              "ToolTip": "D:\\GitProjects\\Xunit Mohammad\\Unit Moh\\Configuration\\ApiService.cs",
+              "RelativeToolTip": "Unit Moh\\Configuration\\ApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:23:35.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

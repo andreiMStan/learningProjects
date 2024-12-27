@@ -1,0 +1,13 @@
+[
+  {
+    "ContainingType": "Unit_Moh.Controllers.FansController",
+    "Method": "Get",
+    "RelativePath": "api/Fans",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "GetFans"
+  }
+]

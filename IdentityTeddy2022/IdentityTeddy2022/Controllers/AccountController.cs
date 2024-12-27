@@ -91,18 +91,18 @@ namespace IdentityTeddy2022.Controllers
 		}
 
 
-	//	[HttpGet]
-	//	public IActionResult ForgotPassword()
-	//	{
-	//		return View();
-	//	}
+		//	[HttpGet]
+		//	public IActionResult ForgotPassword()
+		//	{
+		//		return View();
+		//	}
 
-	//	[HttpPost]
-	//	public IActionResult		ForgotPassword()
-	//	{
+		//	[HttpPost]
+		//	public IActionResult		ForgotPassword()
+		//	{
 
-	//	}
-	//}
+		//	}
+		//}
 
+	}
 }
-

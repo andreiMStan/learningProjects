@@ -9,9 +9,9 @@ D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.
 D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
 D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
 D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
-D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
 D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.dll
 D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\refint\Dal.dll
 D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.pdb
 D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.genruntimeconfig.cache
 D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\ref\Dal.dll
+D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.csproj.Up2Date

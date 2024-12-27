@@ -1,0 +1,119 @@
+﻿
+@inject QuizAuthStateProvider QuizAuthStateProvider
+@inject NavigationManager NavigationManager
+
+
+@* 
+<input type="checkbox" title="Navigation menu" class="navbar-toggler" />
+
+<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="student/home" Match="NavLinkMatch.All">
+                Home
+            </NavLink>
+        </div>
+
+
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="student/my-quizes">
+                My Quizes
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <a role="button"
+               class="nav-link" @onclick="LogoutAsync">
+                Logout
+            </a>
+        </div>
+
+
+
+    </nav>
+</div> *@
+
+@* @if (_menuOpened) *@
+@* { *@
+
+<div class="offcanvas offcanvas-start show" tabindex="-1" id="offcanvasWithBackdrop" aria-labelledby="offcanvasWithBackdropLabel"
+style="visibility:visible;" aria-model="true" role="dialog">
+    <div class="offcanvas-header">
+       @*  <h5 class="offcanvas-title" id="offcanvasWithBackdropLabel">Offcanvas with backdrop</h5>
+        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"
+                @onclick="OnMenuClosed"></button> *@
+
+                    <div class="flyout-header">
+                        <h2 class="fw-bold h1">Blazing Quiz</h2>
+
+                    </div>
+    </div>
+    <div class="offcanvas-body">
+        <nav class="flex-column">
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="student/home" Match="NavLinkMatch.All" 
+                @onclick="OnMenuClosed">
+                    Home
+                </NavLink>
+            </div>
+
+            <div class="nav-item px-3">
+                <NavLink class="nav-link" href="student/my-quizes" @onclick="OnMenuClosed">
+                    My Quizes
+                </NavLink>
+
+
+            </div>
+
+            <div class="nav-item px-3">
+                <a role="button"
+                class="nav-link" @onclick="LogoutAsync">
+                    Logout
+                </a>
+            </div>
+        </nav>
+
+        
+
+
+    </div>
+
+    <div class="flyout-footer">
+        <lable class="m-0 p-0">
+            Developed by<a href="https://youtube.com/@@andreistan"
+                           class="text-white fw-bold text-decoration-underline">Andrei Stan</a>
+        </lable>
+
+    </div>
+</div>
+<div class="offcanvas-backdrop fade show" @onclick="OnMenuClosed"></div>
+@code {
+    [Parameter]
+    public EventCallback OnMenuClosed { get; set; }
+
+
+
+    private async Task LogoutAsync()
+    {
+        await QuizAuthStateProvider.SetLogoutAsync();
+        NavigationManager.NavigateTo("/auth/login", replace: true);
+    }
+}
+
+@* } *@
+@* 
+@code{
+
+    // private bool _menuOpened=false;
+
+    // private void ToggleMenu()
+    // {
+    //     _menuOpened = !_menuOpened;
+    // }
+    private async Task LogoutAsync()
+    {
+        await QuizAuthStateProvider.SetLogoutAsync();
+        NavigationManager.NavigateTo("/auth/login", replace: true);
+    }
+} *@

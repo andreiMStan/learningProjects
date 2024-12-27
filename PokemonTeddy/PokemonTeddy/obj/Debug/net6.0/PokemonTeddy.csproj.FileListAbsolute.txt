@@ -24,7 +24,6 @@ D:\GitProjects\PokemonTeddy\PokemonTeddy\obj\Debug\net6.0\staticwebassets.pack.j
 D:\GitProjects\PokemonTeddy\PokemonTeddy\obj\Debug\net6.0\staticwebassets.build.json
 D:\GitProjects\PokemonTeddy\PokemonTeddy\obj\Debug\net6.0\staticwebassets.development.json
 D:\GitProjects\PokemonTeddy\PokemonTeddy\obj\Debug\net6.0\scopedcss\bundle\PokemonTeddy.styles.css
-D:\GitProjects\PokemonTeddy\PokemonTeddy\obj\Debug\net6.0\PokemonTeddy.csproj.CopyComplete
 D:\GitProjects\PokemonTeddy\PokemonTeddy\obj\Debug\net6.0\PokemonTeddy.dll
 D:\GitProjects\PokemonTeddy\PokemonTeddy\obj\Debug\net6.0\refint\PokemonTeddy.dll
 D:\GitProjects\PokemonTeddy\PokemonTeddy\obj\Debug\net6.0\PokemonTeddy.pdb
@@ -65,3 +64,8 @@ D:\GitProjects\PokemonTeddy\PokemonTeddy\bin\Debug\net6.0\runtimes\win\lib\netst
 D:\GitProjects\PokemonTeddy\PokemonTeddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\GitProjects\PokemonTeddy\PokemonTeddy\bin\Debug\net6.0\AutoMapper.dll
 D:\GitProjects\PokemonTeddy\PokemonTeddy\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GitProjects\PokemonTeddy\PokemonTeddy\bin\Debug\net6.0\PokemonTeddy.staticwebassets.endpoints.json
+D:\GitProjects\PokemonTeddy\PokemonTeddy\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\GitProjects\PokemonTeddy\PokemonTeddy\obj\Debug\net6.0\staticwebassets\msbuild.PokemonTeddy.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\PokemonTeddy\PokemonTeddy\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\PokemonTeddy\PokemonTeddy\obj\Debug\net6.0\PokemonT.2858F01E.Up2Date

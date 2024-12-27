@@ -1,0 +1,38 @@
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\appsettings.Development.json
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\appsettings.json
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\Auto mapping Mohamadd LAwand.staticwebassets.endpoints.json
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\Auto mapping Mohamadd LAwand.exe
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\Auto mapping Mohamadd LAwand.deps.json
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\Auto mapping Mohamadd LAwand.runtimeconfig.json
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\Auto mapping Mohamadd LAwand.dll
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\Auto mapping Mohamadd LAwand.pdb
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\AutoMapper.dll
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\Auto mapping Mohamadd LAwand.csproj.AssemblyReference.cache
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\Auto mapping Mohamadd LAwand.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\Auto mapping Mohamadd LAwand.AssemblyInfoInputs.cache
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\Auto mapping Mohamadd LAwand.AssemblyInfo.cs
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\Auto mapping Mohamadd LAwand.csproj.CoreCompileInputs.cache
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\Auto mapping Mohamadd LAwand.MvcApplicationPartsAssemblyInfo.cs
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\Auto mapping Mohamadd LAwand.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\scopedcss\bundle\Auto mapping Mohamadd LAwand.styles.css
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\staticwebassets.build.json
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\staticwebassets.development.json
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\staticwebassets\msbuild.Auto mapping Mohamadd LAwand.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\staticwebassets\msbuild.Auto mapping Mohamadd LAwand.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\staticwebassets\msbuild.build.Auto mapping Mohamadd LAwand.props
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Auto mapping Mohamadd LAwand.props
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Auto mapping Mohamadd LAwand.props
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\Auto map.9036C05F.Up2Date
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\Auto mapping Mohamadd LAwand.dll
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\refint\Auto mapping Mohamadd LAwand.dll
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\Auto mapping Mohamadd LAwand.pdb
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\Auto mapping Mohamadd LAwand.genruntimeconfig.cache
+D:\GitProjects\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\Guide to AutoMapper - Simplify Your Object Mapping Mohammad\obj\Debug\net7.0\ref\Auto mapping Mohamadd LAwand.dll

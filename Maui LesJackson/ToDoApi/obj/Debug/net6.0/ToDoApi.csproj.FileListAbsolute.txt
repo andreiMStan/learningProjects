@@ -24,7 +24,6 @@ D:\GitProjects\Maui LesJackson\ToDoApi\obj\Debug\net6.0\staticwebassets.pack.jso
 D:\GitProjects\Maui LesJackson\ToDoApi\obj\Debug\net6.0\staticwebassets.build.json
 D:\GitProjects\Maui LesJackson\ToDoApi\obj\Debug\net6.0\staticwebassets.development.json
 D:\GitProjects\Maui LesJackson\ToDoApi\obj\Debug\net6.0\scopedcss\bundle\ToDoApi.styles.css
-D:\GitProjects\Maui LesJackson\ToDoApi\obj\Debug\net6.0\ToDoApi.csproj.CopyComplete
 D:\GitProjects\Maui LesJackson\ToDoApi\obj\Debug\net6.0\ToDoApi.dll
 D:\GitProjects\Maui LesJackson\ToDoApi\obj\Debug\net6.0\refint\ToDoApi.dll
 D:\GitProjects\Maui LesJackson\ToDoApi\obj\Debug\net6.0\ToDoApi.pdb
@@ -57,3 +56,8 @@ D:\GitProjects\Maui LesJackson\ToDoApi\bin\Debug\net6.0\runtimes\win-arm\native\
 D:\GitProjects\Maui LesJackson\ToDoApi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\GitProjects\Maui LesJackson\ToDoApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\GitProjects\Maui LesJackson\ToDoApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\GitProjects\Maui LesJackson\ToDoApi\bin\Debug\net6.0\ToDoApi.staticwebassets.endpoints.json
+D:\GitProjects\Maui LesJackson\ToDoApi\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\GitProjects\Maui LesJackson\ToDoApi\obj\Debug\net6.0\staticwebassets\msbuild.ToDoApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\Maui LesJackson\ToDoApi\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\Maui LesJackson\ToDoApi\obj\Debug\net6.0\ToDoApi.csproj.Up2Date

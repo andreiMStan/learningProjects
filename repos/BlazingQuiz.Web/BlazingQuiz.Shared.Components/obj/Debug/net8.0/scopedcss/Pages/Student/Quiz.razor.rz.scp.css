@@ -1,0 +1,9 @@
+.option-box[b-ly2iwfe8vt]
+{
+    transition:all ease 0.2s;
+}
+.option-box:hover[b-ly2iwfe8vt]{
+    border-radius:10px;
+    box-shadow:0 0 18px 1px #bebebe;
+
+}

@@ -11960,3 +11960,971 @@ WHERE [t].[productcode] = @__productcode_0
 2024-09-14 10:40:20.538 +01:00 [DBG] Connection id "0HN6KK4MM60CN" sending FIN because: "The client closed the connection."
 2024-09-14 10:40:20.540 +01:00 [DBG] The connection queue processing loop for 0HN6KK4MM60CN completed.
 2024-09-14 10:40:20.540 +01:00 [DBG] Connection id "0HN6KK4MM60CN" stopped.
+2024-12-27 23:05:41.657 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-12-27 23:05:42.270 +01:00 [DBG] Entity Framework Core 7.0.5 initialized 'LearndataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.5' with options: None
+2024-12-27 23:05:42.496 +01:00 [DBG] 'LearndataContext' disposed.
+2024-12-27 23:05:53.534 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-12-27 23:05:54.072 +01:00 [DBG] Entity Framework Core 7.0.5 initialized 'LearndataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.5' with options: None
+2024-12-27 23:05:54.120 +01:00 [DBG] Creating DbConnection.
+2024-12-27 23:05:55.928 +01:00 [DBG] Created DbConnection. (1803ms).
+2024-12-27 23:05:55.934 +01:00 [DBG] Migrating using database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:05:55.993 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:05:58.782 +01:00 [DBG] An error occurred using the connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:05:58.783 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:05:58.784 +01:00 [DBG] An error occurred using the connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:05:58.879 +01:00 [DBG] Creating DbConnection.
+2024-12-27 23:05:58.879 +01:00 [DBG] Created DbConnection. (0ms).
+2024-12-27 23:05:58.879 +01:00 [DBG] Opening connection to database 'master' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:05:58.898 +01:00 [DBG] Opened connection to database 'master' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:05:58.903 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:05:58.911 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (6ms).
+2024-12-27 23:05:58.914 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (12ms).
+2024-12-27 23:05:58.922 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [learnApi];
+2024-12-27 23:05:59.394 +01:00 [INF] Executed DbCommand (460ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [learnApi];
+2024-12-27 23:05:59.398 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:05:59.398 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:05:59.398 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:05:59.398 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [learnApi] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2024-12-27 23:06:00.163 +01:00 [INF] Executed DbCommand (764ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [learnApi] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2024-12-27 23:06:00.165 +01:00 [DBG] Closing connection to database 'master' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.182 +01:00 [DBG] Closed connection to database 'master' on server 'localhost\SQLEXPRESS' (8ms).
+2024-12-27 23:06:00.188 +01:00 [DBG] Disposing connection to database 'master' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.190 +01:00 [DBG] Disposed connection to database '' on server '' (2ms).
+2024-12-27 23:06:00.191 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.197 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.197 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:00.197 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:00.197 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:00.198 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-12-27 23:06:00.213 +01:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-12-27 23:06:00.213 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.214 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (0ms).
+2024-12-27 23:06:00.372 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:00.372 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:00.372 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:00.372 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.373 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.373 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2024-12-27 23:06:00.393 +01:00 [INF] Executed DbCommand (20ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2024-12-27 23:06:00.394 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.394 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (0ms).
+2024-12-27 23:06:00.395 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.395 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.395 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:00.395 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:00.395 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:00.395 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-12-27 23:06:00.397 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-12-27 23:06:00.397 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.397 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (0ms).
+2024-12-27 23:06:00.401 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2024-12-27 23:06:00.402 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2024-12-27 23:06:00.402 +01:00 [DBG] Initialized DbCommand for 'ExecuteScalar' (0ms).
+2024-12-27 23:06:00.402 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.402 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.403 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-12-27 23:06:00.441 +01:00 [INF] Executed DbCommand (39ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-12-27 23:06:00.442 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.447 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (5ms).
+2024-12-27 23:06:00.454 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-12-27 23:06:00.455 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-12-27 23:06:00.455 +01:00 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-12-27 23:06:00.455 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.456 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.457 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-12-27 23:06:00.514 +01:00 [INF] Executed DbCommand (57ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-12-27 23:06:00.527 +01:00 [DBG] Closing data reader to 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.529 +01:00 [DBG] A data reader for 'learnApi' on server 'localhost\SQLEXPRESS' is being disposed after spending 4ms reading results.
+2024-12-27 23:06:00.530 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.530 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (0ms).
+2024-12-27 23:06:00.555 +01:00 [INF] Applying migration '20240830175210_FirstMigration'.
+2024-12-27 23:06:00.653 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.653 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:00.656 +01:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2024-12-27 23:06:00.682 +01:00 [DBG] Began transaction with isolation level 'ReadCommitted'.
+2024-12-27 23:06:00.683 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:00.683 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:00.686 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (2ms).
+2024-12-27 23:06:00.686 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [customerdetail] (
+    [Code] varchar(50) NOT NULL,
+    [Name] varchar(50) NOT NULL,
+    [Email] varchar(50) NULL,
+    [Phone] varchar(50) NULL,
+    [Creditlimit] decimal(18,2) NULL,
+    [IsActive] bit NULL,
+    [Statusname] nvarchar(max) NULL
+);
+2024-12-27 23:06:00.733 +01:00 [INF] Executed DbCommand (46ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [customerdetail] (
+    [Code] varchar(50) NOT NULL,
+    [Name] varchar(50) NOT NULL,
+    [Email] varchar(50) NULL,
+    [Phone] varchar(50) NULL,
+    [Creditlimit] decimal(18,2) NULL,
+    [IsActive] bit NULL,
+    [Statusname] nvarchar(max) NULL
+);
+2024-12-27 23:06:00.734 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:00.734 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:00.734 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:00.735 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_customer] (
+    [Code] varchar(50) NOT NULL,
+    [Name] varchar(50) NOT NULL,
+    [Email] varchar(50) NULL,
+    [Phone] varchar(50) NULL,
+    [Creditlimit] decimal(18,2) NULL,
+    [IsActive] bit NULL,
+    [Taxcode] int NULL,
+    CONSTRAINT [PK_tbl_customer] PRIMARY KEY ([Code])
+);
+2024-12-27 23:06:01.173 +01:00 [INF] Executed DbCommand (439ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_customer] (
+    [Code] varchar(50) NOT NULL,
+    [Name] varchar(50) NOT NULL,
+    [Email] varchar(50) NULL,
+    [Phone] varchar(50) NULL,
+    [Creditlimit] decimal(18,2) NULL,
+    [IsActive] bit NULL,
+    [Taxcode] int NULL,
+    CONSTRAINT [PK_tbl_customer] PRIMARY KEY ([Code])
+);
+2024-12-27 23:06:01.174 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:01.174 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.174 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.174 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_menu] (
+    [code] nvarchar(50) NOT NULL,
+    [name] nvarchar(200) NOT NULL,
+    [status] bit NULL,
+    CONSTRAINT [PK_tbl_menu] PRIMARY KEY ([code])
+);
+2024-12-27 23:06:01.267 +01:00 [INF] Executed DbCommand (93ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_menu] (
+    [code] nvarchar(50) NOT NULL,
+    [name] nvarchar(200) NOT NULL,
+    [status] bit NULL,
+    CONSTRAINT [PK_tbl_menu] PRIMARY KEY ([code])
+);
+2024-12-27 23:06:01.267 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:01.267 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.268 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.268 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_otpManager] (
+    [id] int NOT NULL IDENTITY,
+    [username] varchar(50) NULL,
+    [otptext] varchar(10) NOT NULL,
+    [otptype] varchar(20) NULL,
+    [expiration] datetime NOT NULL,
+    [createddate] datetime NULL,
+    CONSTRAINT [PK_tbl_otpManager] PRIMARY KEY ([id])
+);
+2024-12-27 23:06:01.298 +01:00 [INF] Executed DbCommand (31ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_otpManager] (
+    [id] int NOT NULL IDENTITY,
+    [username] varchar(50) NULL,
+    [otptext] varchar(10) NOT NULL,
+    [otptype] varchar(20) NULL,
+    [expiration] datetime NOT NULL,
+    [createddate] datetime NULL,
+    CONSTRAINT [PK_tbl_otpManager] PRIMARY KEY ([id])
+);
+2024-12-27 23:06:01.299 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:01.299 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.299 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.299 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_product] (
+    [code] varchar(50) NOT NULL,
+    [name] varchar(max) NULL,
+    [price] decimal(18,2) NULL,
+    CONSTRAINT [PK_tbl_product] PRIMARY KEY ([code])
+);
+2024-12-27 23:06:01.323 +01:00 [INF] Executed DbCommand (24ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_product] (
+    [code] varchar(50) NOT NULL,
+    [name] varchar(max) NULL,
+    [price] decimal(18,2) NULL,
+    CONSTRAINT [PK_tbl_product] PRIMARY KEY ([code])
+);
+2024-12-27 23:06:01.324 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:01.324 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.324 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.324 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_productimage] (
+    [id] int NOT NULL IDENTITY,
+    [productcode] varchar(50) NULL,
+    [productimage] image NULL,
+    CONSTRAINT [PK_tbl_productimage] PRIMARY KEY ([id])
+);
+2024-12-27 23:06:01.347 +01:00 [INF] Executed DbCommand (23ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_productimage] (
+    [id] int NOT NULL IDENTITY,
+    [productcode] varchar(50) NULL,
+    [productimage] image NULL,
+    CONSTRAINT [PK_tbl_productimage] PRIMARY KEY ([id])
+);
+2024-12-27 23:06:01.347 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:01.347 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.347 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.347 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_pwdManger] (
+    [id] int NOT NULL IDENTITY,
+    [username] nvarchar(50) NOT NULL,
+    [password] nvarchar(200) NOT NULL,
+    [ModifyDate] datetime NULL,
+    CONSTRAINT [PK_tbl_pwdManger] PRIMARY KEY ([id])
+);
+2024-12-27 23:06:01.354 +01:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_pwdManger] (
+    [id] int NOT NULL IDENTITY,
+    [username] nvarchar(50) NOT NULL,
+    [password] nvarchar(200) NOT NULL,
+    [ModifyDate] datetime NULL,
+    CONSTRAINT [PK_tbl_pwdManger] PRIMARY KEY ([id])
+);
+2024-12-27 23:06:01.354 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:01.355 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.355 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.355 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_refreshtoken] (
+    [userid] varchar(50) NOT NULL,
+    [tokenid] varchar(50) NULL,
+    [refreshtoken] varchar(max) NULL,
+    CONSTRAINT [PK_tbl_refreshtoken] PRIMARY KEY ([userid])
+);
+2024-12-27 23:06:01.390 +01:00 [INF] Executed DbCommand (35ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_refreshtoken] (
+    [userid] varchar(50) NOT NULL,
+    [tokenid] varchar(50) NULL,
+    [refreshtoken] varchar(max) NULL,
+    CONSTRAINT [PK_tbl_refreshtoken] PRIMARY KEY ([userid])
+);
+2024-12-27 23:06:01.390 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:01.391 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.391 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.391 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_role] (
+    [code] nvarchar(50) NOT NULL,
+    [name] nvarchar(200) NOT NULL,
+    [status] bit NULL,
+    CONSTRAINT [PK_tbl_role] PRIMARY KEY ([code])
+);
+2024-12-27 23:06:01.410 +01:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_role] (
+    [code] nvarchar(50) NOT NULL,
+    [name] nvarchar(200) NOT NULL,
+    [status] bit NULL,
+    CONSTRAINT [PK_tbl_role] PRIMARY KEY ([code])
+);
+2024-12-27 23:06:01.411 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:01.411 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.411 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.411 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_rolepermission] (
+    [id] int NOT NULL IDENTITY,
+    [userrole] nvarchar(50) NOT NULL,
+    [menucode] nvarchar(50) NOT NULL,
+    [haveview] bit NOT NULL,
+    [haveadd] bit NOT NULL,
+    [haveedit] bit NOT NULL,
+    [havedelete] bit NOT NULL,
+    CONSTRAINT [PK_tbl_rolepermission] PRIMARY KEY ([id])
+);
+2024-12-27 23:06:01.458 +01:00 [INF] Executed DbCommand (47ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_rolepermission] (
+    [id] int NOT NULL IDENTITY,
+    [userrole] nvarchar(50) NOT NULL,
+    [menucode] nvarchar(50) NOT NULL,
+    [haveview] bit NOT NULL,
+    [haveadd] bit NOT NULL,
+    [haveedit] bit NOT NULL,
+    [havedelete] bit NOT NULL,
+    CONSTRAINT [PK_tbl_rolepermission] PRIMARY KEY ([id])
+);
+2024-12-27 23:06:01.676 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:01.676 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.676 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.676 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_tempuser] (
+    [id] int NOT NULL IDENTITY,
+    [code] varchar(50) NOT NULL,
+    [name] varchar(250) NOT NULL,
+    [email] varchar(100) NULL,
+    [phone] varchar(20) NULL,
+    [password] varchar(50) NULL,
+    CONSTRAINT [tbl_tempuser1] PRIMARY KEY ([id])
+);
+2024-12-27 23:06:01.691 +01:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_tempuser] (
+    [id] int NOT NULL IDENTITY,
+    [code] varchar(50) NOT NULL,
+    [name] varchar(250) NOT NULL,
+    [email] varchar(100) NULL,
+    [phone] varchar(20) NULL,
+    [password] varchar(50) NULL,
+    CONSTRAINT [tbl_tempuser1] PRIMARY KEY ([id])
+);
+2024-12-27 23:06:01.691 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:01.692 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.692 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.692 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_user] (
+    [username] varchar(50) NOT NULL,
+    [name] varchar(250) NOT NULL,
+    [email] varchar(100) NULL,
+    [phone] varchar(20) NULL,
+    [password] varchar(50) NULL,
+    [isactive] bit NULL,
+    [role] varchar(50) NULL,
+    [islocked] bit NULL,
+    [failattempt] int NULL,
+    CONSTRAINT [PK_tbl_user] PRIMARY KEY ([username])
+);
+2024-12-27 23:06:01.707 +01:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [tbl_user] (
+    [username] varchar(50) NOT NULL,
+    [name] varchar(250) NOT NULL,
+    [email] varchar(100) NULL,
+    [phone] varchar(20) NULL,
+    [password] varchar(50) NULL,
+    [isactive] bit NULL,
+    [role] varchar(50) NULL,
+    [islocked] bit NULL,
+    [failattempt] int NULL,
+    CONSTRAINT [PK_tbl_user] PRIMARY KEY ([username])
+);
+2024-12-27 23:06:01.707 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:01.707 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.707 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.707 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20240830175210_FirstMigration', N'7.0.5');
+2024-12-27 23:06:01.735 +01:00 [INF] Executed DbCommand (28ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20240830175210_FirstMigration', N'7.0.5');
+2024-12-27 23:06:01.737 +01:00 [DBG] Committing transaction.
+2024-12-27 23:06:01.744 +01:00 [DBG] Committed transaction.
+2024-12-27 23:06:01.746 +01:00 [DBG] Disposing transaction.
+2024-12-27 23:06:01.747 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:01.747 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (0ms).
+2024-12-27 23:06:01.747 +01:00 [INF] Applying migration '20241227220542_test'.
+2024-12-27 23:06:01.766 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:01.766 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:01.766 +01:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2024-12-27 23:06:01.768 +01:00 [DBG] Began transaction with isolation level 'ReadCommitted'.
+2024-12-27 23:06:01.768 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-12-27 23:06:01.768 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.768 +01:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-12-27 23:06:01.769 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20241227220542_test', N'7.0.5');
+2024-12-27 23:06:01.770 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20241227220542_test', N'7.0.5');
+2024-12-27 23:06:01.770 +01:00 [DBG] Committing transaction.
+2024-12-27 23:06:01.775 +01:00 [DBG] Committed transaction.
+2024-12-27 23:06:01.775 +01:00 [DBG] Disposing transaction.
+2024-12-27 23:06:01.775 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:01.775 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (0ms).
+2024-12-27 23:06:01.778 +01:00 [DBG] 'LearndataContext' disposed.
+2024-12-27 23:06:01.779 +01:00 [DBG] Disposing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:06:01.779 +01:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-12-27 23:06:19.813 +01:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-12-27 23:06:20.553 +01:00 [DBG] Hosting starting
+2024-12-27 23:06:21.010 +01:00 [INF] User profile is available. Using 'C:\Users\andre\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-27 23:06:21.023 +01:00 [DBG] Reading data from file 'C:\Users\andre\AppData\Local\ASP.NET\DataProtection-Keys\key-96f42aaf-6b4d-4929-a504-d8561de153ed.xml'.
+2024-12-27 23:06:21.058 +01:00 [DBG] Found key {96f42aaf-6b4d-4929-a504-d8561de153ed}.
+2024-12-27 23:06:21.082 +01:00 [DBG] Considering key {96f42aaf-6b4d-4929-a504-d8561de153ed} with expiration date 2025-03-15 19:15:11Z as default key.
+2024-12-27 23:06:21.086 +01:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-12-27 23:06:21.088 +01:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-12-27 23:06:21.090 +01:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-12-27 23:06:21.094 +01:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-12-27 23:06:21.096 +01:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-12-27 23:06:21.098 +01:00 [DBG] Using key {96f42aaf-6b4d-4929-a504-d8561de153ed} as the default key.
+2024-12-27 23:06:21.099 +01:00 [DBG] Key ring with default key {96f42aaf-6b4d-4929-a504-d8561de153ed} was loaded during application startup.
+2024-12-27 23:06:22.844 +01:00 [INF] Now listening on: https://localhost:7149
+2024-12-27 23:06:22.846 +01:00 [INF] Now listening on: http://localhost:5053
+2024-12-27 23:06:22.847 +01:00 [DBG] Loaded hosting startup assembly WeblearnApi_Nihira
+2024-12-27 23:06:22.847 +01:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2024-12-27 23:06:22.847 +01:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-12-27 23:06:22.847 +01:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-12-27 23:06:22.945 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-27 23:06:22.948 +01:00 [INF] Hosting environment: Development
+2024-12-27 23:06:22.950 +01:00 [INF] Content root path: D:\GitProjects\SendEmail_Nihira\WeblearnApi Nihira
+2024-12-27 23:06:22.950 +01:00 [DBG] Hosting started
+2024-12-27 23:06:23.224 +01:00 [DBG] Connection id "0HN96OAPMPK4M" received FIN.
+2024-12-27 23:06:23.233 +01:00 [DBG] Connection id "0HN96OAPMPK4M" accepted.
+2024-12-27 23:06:23.235 +01:00 [DBG] Connection id "0HN96OAPMPK4M" started.
+2024-12-27 23:06:23.433 +01:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-12-27 23:06:23.492 +01:00 [DBG] Connection id "0HN96OAPMPK4M" stopped.
+2024-12-27 23:06:23.496 +01:00 [DBG] Connection id "0HN96OAPMPK4M" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-27 23:06:24.033 +01:00 [DBG] Connection id "0HN96OAPMPK4N" accepted.
+2024-12-27 23:06:24.037 +01:00 [DBG] Connection id "0HN96OAPMPK4N" started.
+2024-12-27 23:06:24.302 +01:00 [DBG] Connection id "0HN96OAPMPK4O" accepted.
+2024-12-27 23:06:24.303 +01:00 [DBG] Connection id "0HN96OAPMPK4O" started.
+2024-12-27 23:06:24.373 +01:00 [DBG] Connection 0HN96OAPMPK4O established using the following protocol: "Tls12"
+2024-12-27 23:06:24.373 +01:00 [DBG] Connection 0HN96OAPMPK4N established using the following protocol: "Tls12"
+2024-12-27 23:06:24.605 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7149/swagger - -
+2024-12-27 23:06:25.725 +01:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-12-27 23:06:25.788 +01:00 [DBG] No candidates found for the request path '/swagger'
+2024-12-27 23:06:25.789 +01:00 [DBG] Request did not match any endpoints
+2024-12-27 23:06:25.857 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7149/swagger - - - 301 0 - 1214.6633ms
+2024-12-27 23:06:25.969 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7149/swagger/index.html - -
+2024-12-27 23:06:25.988 +01:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2024-12-27 23:06:25.988 +01:00 [DBG] Request did not match any endpoints
+2024-12-27 23:06:26.171 +01:00 [DBG] Connection id "0HN96OAPMPK4O" received FIN.
+2024-12-27 23:06:26.175 +01:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-12-27 23:06:26.182 +01:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-12-27 23:06:26.188 +01:00 [DBG] Connection id "0HN96OAPMPK4O" is closed. The last processed stream ID was 0.
+2024-12-27 23:06:26.188 +01:00 [DBG] Connection id "0HN96OAPMPK4O" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-27 23:06:26.201 +01:00 [DBG] The connection queue processing loop for 0HN96OAPMPK4O completed.
+2024-12-27 23:06:26.203 +01:00 [DBG] Connection id "0HN96OAPMPK4O" stopped.
+2024-12-27 23:06:26.305 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7149/swagger/swagger-ui.css - -
+2024-12-27 23:06:26.306 +01:00 [DBG] No candidates found for the request path '/swagger/swagger-ui.css'
+2024-12-27 23:06:26.306 +01:00 [DBG] Request did not match any endpoints
+2024-12-27 23:06:26.312 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7149/swagger/swagger-ui-bundle.js - -
+2024-12-27 23:06:26.312 +01:00 [DBG] No candidates found for the request path '/swagger/swagger-ui-bundle.js'
+2024-12-27 23:06:26.312 +01:00 [DBG] Request did not match any endpoints
+2024-12-27 23:06:26.322 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7149/swagger/swagger-ui-standalone-preset.js - -
+2024-12-27 23:06:26.322 +01:00 [DBG] No candidates found for the request path '/swagger/swagger-ui-standalone-preset.js'
+2024-12-27 23:06:26.322 +01:00 [DBG] Request did not match any endpoints
+2024-12-27 23:06:26.335 +01:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-12-27 23:06:26.337 +01:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-12-27 23:06:26.338 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7149/swagger/index.html - - - 200 - text/html;charset=utf-8 368.0100ms
+2024-12-27 23:06:26.355 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7149/_vs/browserLink - -
+2024-12-27 23:06:26.379 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7149/_framework/aspnetcore-browser-refresh.js - -
+2024-12-27 23:06:26.425 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7149/_framework/aspnetcore-browser-refresh.js - - - 200 13788 application/javascript;+charset=utf-8 46.3596ms
+2024-12-27 23:06:26.454 +01:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-12-27 23:06:26.454 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7149/swagger/swagger-ui.css - - - 200 143943 text/css 148.8783ms
+2024-12-27 23:06:26.738 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-12-27 23:06:26.739 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7149/swagger/swagger-ui-standalone-preset.js - - - 200 339486 text/javascript 417.7487ms
+2024-12-27 23:06:26.820 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7149/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 465.4244ms
+2024-12-27 23:06:26.926 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-12-27 23:06:26.926 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7149/swagger/swagger-ui-bundle.js - - - 200 1096145 text/javascript 614.4573ms
+2024-12-27 23:06:27.256 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7149/swagger/v1/swagger.json - -
+2024-12-27 23:06:27.264 +01:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2024-12-27 23:06:27.264 +01:00 [DBG] Request did not match any endpoints
+2024-12-27 23:06:27.307 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7149/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 50.3212ms
+2024-12-27 23:06:27.417 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7149/swagger/favicon-32x32.png - -
+2024-12-27 23:06:27.417 +01:00 [DBG] No candidates found for the request path '/swagger/favicon-32x32.png'
+2024-12-27 23:06:27.418 +01:00 [DBG] Request did not match any endpoints
+2024-12-27 23:06:27.419 +01:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-12-27 23:06:27.419 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7149/swagger/favicon-32x32.png - - - 200 628 image/png 2.3320ms
+2024-12-27 23:06:36.182 +01:00 [DBG] Connection id "0HN96OAPMPK4N" received FIN.
+2024-12-27 23:06:36.183 +01:00 [DBG] Connection id "0HN96OAPMPK4N" is closed. The last processed stream ID was 17.
+2024-12-27 23:06:36.183 +01:00 [DBG] Connection id "0HN96OAPMPK4N" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-27 23:06:36.184 +01:00 [DBG] The connection queue processing loop for 0HN96OAPMPK4N completed.
+2024-12-27 23:06:36.184 +01:00 [DBG] Connection id "0HN96OAPMPK4N" stopped.
+2024-12-27 23:09:03.104 +01:00 [DBG] Connection id "0HN96OAPMPK4P" accepted.
+2024-12-27 23:09:03.104 +01:00 [DBG] Connection id "0HN96OAPMPK4P" started.
+2024-12-27 23:09:03.109 +01:00 [DBG] Connection 0HN96OAPMPK4P established using the following protocol: "Tls12"
+2024-12-27 23:09:03.118 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7149/api/Authorize/GenerateToken application/json 47
+2024-12-27 23:09:03.143 +01:00 [DBG] 1 candidate(s) found for the request path '/api/Authorize/GenerateToken'
+2024-12-27 23:09:03.149 +01:00 [DBG] Endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)' with route pattern 'api/Authorize/GenerateToken' is valid for the request path '/api/Authorize/GenerateToken'
+2024-12-27 23:09:03.150 +01:00 [DBG] Request matched endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:09:03.151 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:09:03.154 +01:00 [DBG] The request has an origin header: 'https://localhost:7149'.
+2024-12-27 23:09:03.155 +01:00 [INF] CORS policy execution failed.
+2024-12-27 23:09:03.155 +01:00 [INF] Request origin https://localhost:7149 does not have permission to access the resource.
+2024-12-27 23:09:03.160 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:09:06.181 +01:00 [DBG] AuthenticationScheme: Bearer was not authenticated.
+2024-12-27 23:09:06.185 +01:00 [INF] Executing endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:09:06.238 +01:00 [INF] Route matched with {action = "GenerateToken", controller = "Authorize"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateToken(WeblearnApi_Nihira.Modal.UserCred) on controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira).
+2024-12-27 23:09:06.243 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-12-27 23:09:06.244 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-12-27 23:09:06.246 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-12-27 23:09:06.246 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-12-27 23:09:06.246 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-12-27 23:09:06.249 +01:00 [DBG] Executing controller factory for controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira)
+2024-12-27 23:09:06.546 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-12-27 23:09:06.611 +01:00 [DBG] Executed controller factory for controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira)
+2024-12-27 23:09:06.643 +01:00 [DBG] Attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' ...
+2024-12-27 23:09:06.646 +01:00 [DBG] Attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' using the name '' in request data ...
+2024-12-27 23:09:06.647 +01:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'.
+2024-12-27 23:09:06.652 +01:00 [DBG] Connection id "0HN96OAPMPK4P", Request id "0HN96OAPMPK4P:00000001": started reading request body.
+2024-12-27 23:09:06.652 +01:00 [DBG] Connection id "0HN96OAPMPK4P", Request id "0HN96OAPMPK4P:00000001": done reading request body.
+2024-12-27 23:09:06.655 +01:00 [DBG] JSON input formatter succeeded, deserializing to type 'WeblearnApi_Nihira.Modal.UserCred'
+2024-12-27 23:09:06.655 +01:00 [DBG] Done attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:09:06.656 +01:00 [DBG] Done attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:09:06.656 +01:00 [DBG] Attempting to validate the bound parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' ...
+2024-12-27 23:09:06.667 +01:00 [DBG] Done attempting to validate the bound parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:09:07.731 +01:00 [DBG] Entity Framework Core 7.0.5 initialized 'LearndataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.5' with options: None
+2024-12-27 23:09:08.500 +01:00 [DBG] Compiling query expression: 
+'DbSet<TblUser>()
+    .FirstOrDefault(item => item.Username == __userCred_userName_0 && item.Password == __userCred_password_1)'
+2024-12-27 23:09:08.812 +01:00 [DBG] Generated query execution expression: 
+'queryContext => ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync<TblUser>(
+    asyncEnumerable: new SingleQueryingEnumerable<TblUser>(
+        (RelationalQueryContext)queryContext, 
+        RelationalCommandCache.QueryExpression(
+            Projection Mapping:
+                EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: TblUser.Username (string) Required PK AfterSave:Throw MaxLength(50) Ansi, 0], [Property: TblUser.Email (string) MaxLength(100) Ansi, 1], [Property: TblUser.Failattempt (int?), 2], [Property: TblUser.Isactive (bool?), 3], [Property: TblUser.Islocked (bool?), 4], [Property: TblUser.Name (string) Required MaxLength(250) Ansi, 5], [Property: TblUser.Password (string) MaxLength(50) Ansi, 6], [Property: TblUser.Phone (string) MaxLength(20) Ansi, 7], [Property: TblUser.Role (string) MaxLength(50) Ansi, 8] }
+            SELECT TOP(1) t.username, t.email, t.failattempt, t.isactive, t.islocked, t.name, t.password, t.phone, t.role
+            FROM tbl_user AS t
+            WHERE (t.username == @__userCred_userName_0) && (t.password == @__userCred_password_1)), 
+        null, 
+        Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, TblUser>, 
+        WeblearnApi_Nihira.Repos.LearndataContext, 
+        False, 
+        False, 
+        True
+    ), 
+    cancellationToken: queryContext.CancellationToken)'
+2024-12-27 23:09:08.861 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-12-27 23:09:08.863 +01:00 [DBG] Creating DbConnection.
+2024-12-27 23:09:08.911 +01:00 [DBG] Created DbConnection. (44ms).
+2024-12-27 23:09:08.918 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (58ms).
+2024-12-27 23:09:08.932 +01:00 [DBG] Initialized DbCommand for 'ExecuteReader' (72ms).
+2024-12-27 23:09:08.940 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:09:09.867 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:09:09.890 +01:00 [DBG] Executing DbCommand [Parameters=[@__userCred_userName_0='?' (Size = 50) (DbType = AnsiString), @__userCred_password_1='?' (Size = 50) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[username], [t].[email], [t].[failattempt], [t].[isactive], [t].[islocked], [t].[name], [t].[password], [t].[phone], [t].[role]
+FROM [tbl_user] AS [t]
+WHERE [t].[username] = @__userCred_userName_0 AND [t].[password] = @__userCred_password_1
+2024-12-27 23:09:10.196 +01:00 [INF] Executed DbCommand (298ms) [Parameters=[@__userCred_userName_0='?' (Size = 50) (DbType = AnsiString), @__userCred_password_1='?' (Size = 50) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[username], [t].[email], [t].[failattempt], [t].[isactive], [t].[islocked], [t].[name], [t].[password], [t].[phone], [t].[role]
+FROM [tbl_user] AS [t]
+WHERE [t].[username] = @__userCred_userName_0 AND [t].[password] = @__userCred_password_1
+2024-12-27 23:09:10.245 +01:00 [DBG] Closing data reader to 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:09:10.261 +01:00 [DBG] A data reader for 'learnApi' on server 'localhost\SQLEXPRESS' is being disposed after spending 52ms reading results.
+2024-12-27 23:09:10.267 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:09:10.279 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (11ms).
+2024-12-27 23:09:10.288 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2024-12-27 23:09:10.292 +01:00 [DBG] No information found on request to perform content negotiation.
+2024-12-27 23:09:10.293 +01:00 [DBG] Attempting to select the first output formatter in the output formatters list which supports a content type from the explicitly specified content types '["application/problem+json","application/problem+xml","application/problem+json","application/problem+xml"]'.
+2024-12-27 23:09:10.296 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/problem+json' to write the response.
+2024-12-27 23:09:10.297 +01:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-12-27 23:09:10.312 +01:00 [INF] Executed action WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira) in 4056.3896ms
+2024-12-27 23:09:10.313 +01:00 [INF] Executed endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:09:10.318 +01:00 [DBG] 'LearndataContext' disposed.
+2024-12-27 23:09:10.327 +01:00 [DBG] Disposing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:09:10.330 +01:00 [DBG] Disposed connection to database '' on server '' (2ms).
+2024-12-27 23:09:10.331 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7149/api/Authorize/GenerateToken application/json 47 - 401 - application/problem+json;+charset=utf-8 7212.9934ms
+2024-12-27 23:09:16.381 +01:00 [DBG] Connection id "0HN96OAPMPK4P" received FIN.
+2024-12-27 23:09:16.381 +01:00 [DBG] Connection id "0HN96OAPMPK4P" is closed. The last processed stream ID was 1.
+2024-12-27 23:09:16.381 +01:00 [DBG] Connection id "0HN96OAPMPK4P" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-27 23:09:16.382 +01:00 [DBG] The connection queue processing loop for 0HN96OAPMPK4P completed.
+2024-12-27 23:09:16.382 +01:00 [DBG] Connection id "0HN96OAPMPK4P" stopped.
+2024-12-27 23:10:15.609 +01:00 [DBG] Connection id "0HN96OAPMPK4Q" accepted.
+2024-12-27 23:10:15.611 +01:00 [DBG] Connection id "0HN96OAPMPK4Q" started.
+2024-12-27 23:10:15.613 +01:00 [DBG] Connection 0HN96OAPMPK4Q established using the following protocol: "Tls12"
+2024-12-27 23:10:15.621 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7149/api/Authorize/GenerateToken application/json 81
+2024-12-27 23:10:15.643 +01:00 [DBG] 1 candidate(s) found for the request path '/api/Authorize/GenerateToken'
+2024-12-27 23:10:15.653 +01:00 [DBG] Endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)' with route pattern 'api/Authorize/GenerateToken' is valid for the request path '/api/Authorize/GenerateToken'
+2024-12-27 23:10:15.663 +01:00 [DBG] Request matched endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:10:15.663 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:10:15.693 +01:00 [DBG] The request has an origin header: 'https://localhost:7149'.
+2024-12-27 23:10:15.693 +01:00 [INF] CORS policy execution failed.
+2024-12-27 23:10:15.693 +01:00 [INF] Request origin https://localhost:7149 does not have permission to access the resource.
+2024-12-27 23:10:15.693 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:10:15.695 +01:00 [DBG] AuthenticationScheme: Bearer was not authenticated.
+2024-12-27 23:10:15.695 +01:00 [INF] Executing endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:10:15.695 +01:00 [INF] Route matched with {action = "GenerateToken", controller = "Authorize"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateToken(WeblearnApi_Nihira.Modal.UserCred) on controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira).
+2024-12-27 23:10:15.695 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-12-27 23:10:15.695 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-12-27 23:10:15.695 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-12-27 23:10:15.695 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-12-27 23:10:15.695 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-12-27 23:10:15.696 +01:00 [DBG] Executing controller factory for controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira)
+2024-12-27 23:10:15.697 +01:00 [DBG] Executed controller factory for controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira)
+2024-12-27 23:10:15.697 +01:00 [DBG] Attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' ...
+2024-12-27 23:10:15.698 +01:00 [DBG] Attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' using the name '' in request data ...
+2024-12-27 23:10:15.698 +01:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'.
+2024-12-27 23:10:15.698 +01:00 [DBG] Connection id "0HN96OAPMPK4Q", Request id "0HN96OAPMPK4Q:00000001": started reading request body.
+2024-12-27 23:10:15.698 +01:00 [DBG] Connection id "0HN96OAPMPK4Q", Request id "0HN96OAPMPK4Q:00000001": done reading request body.
+2024-12-27 23:10:15.699 +01:00 [DBG] JSON input formatter succeeded, deserializing to type 'WeblearnApi_Nihira.Modal.UserCred'
+2024-12-27 23:10:15.699 +01:00 [DBG] Done attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:10:15.699 +01:00 [DBG] Done attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:10:15.699 +01:00 [DBG] Attempting to validate the bound parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' ...
+2024-12-27 23:10:15.699 +01:00 [DBG] Done attempting to validate the bound parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:10:15.715 +01:00 [DBG] Entity Framework Core 7.0.5 initialized 'LearndataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.5' with options: None
+2024-12-27 23:10:15.720 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-12-27 23:10:15.720 +01:00 [DBG] Creating DbConnection.
+2024-12-27 23:10:15.721 +01:00 [DBG] Created DbConnection. (0ms).
+2024-12-27 23:10:15.721 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-12-27 23:10:15.721 +01:00 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-12-27 23:10:15.721 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:10:15.723 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:10:15.724 +01:00 [DBG] Executing DbCommand [Parameters=[@__userCred_userName_0='?' (Size = 50) (DbType = AnsiString), @__userCred_password_1='?' (Size = 50) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[username], [t].[email], [t].[failattempt], [t].[isactive], [t].[islocked], [t].[name], [t].[password], [t].[phone], [t].[role]
+FROM [tbl_user] AS [t]
+WHERE [t].[username] = @__userCred_userName_0 AND [t].[password] = @__userCred_password_1
+2024-12-27 23:10:15.733 +01:00 [INF] Executed DbCommand (6ms) [Parameters=[@__userCred_userName_0='?' (Size = 50) (DbType = AnsiString), @__userCred_password_1='?' (Size = 50) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[username], [t].[email], [t].[failattempt], [t].[isactive], [t].[islocked], [t].[name], [t].[password], [t].[phone], [t].[role]
+FROM [tbl_user] AS [t]
+WHERE [t].[username] = @__userCred_userName_0 AND [t].[password] = @__userCred_password_1
+2024-12-27 23:10:15.734 +01:00 [DBG] Closing data reader to 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:10:15.734 +01:00 [DBG] A data reader for 'learnApi' on server 'localhost\SQLEXPRESS' is being disposed after spending 0ms reading results.
+2024-12-27 23:10:15.734 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:10:15.734 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (0ms).
+2024-12-27 23:10:15.735 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2024-12-27 23:10:15.735 +01:00 [DBG] No information found on request to perform content negotiation.
+2024-12-27 23:10:15.735 +01:00 [DBG] Attempting to select the first output formatter in the output formatters list which supports a content type from the explicitly specified content types '["application/problem+json","application/problem+xml","application/problem+json","application/problem+xml"]'.
+2024-12-27 23:10:15.735 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/problem+json' to write the response.
+2024-12-27 23:10:15.735 +01:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-12-27 23:10:15.736 +01:00 [INF] Executed action WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira) in 39.9873ms
+2024-12-27 23:10:15.736 +01:00 [INF] Executed endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:10:15.736 +01:00 [DBG] 'LearndataContext' disposed.
+2024-12-27 23:10:15.737 +01:00 [DBG] Disposing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:10:15.737 +01:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-12-27 23:10:15.737 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7149/api/Authorize/GenerateToken application/json 81 - 401 - application/problem+json;+charset=utf-8 115.8056ms
+2024-12-27 23:10:16.489 +01:00 [DBG] Connection id "0HN96OAPMPK4Q" received FIN.
+2024-12-27 23:10:16.489 +01:00 [DBG] Connection id "0HN96OAPMPK4Q" is closed. The last processed stream ID was 1.
+2024-12-27 23:10:16.489 +01:00 [DBG] Connection id "0HN96OAPMPK4Q" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-27 23:10:16.490 +01:00 [DBG] The connection queue processing loop for 0HN96OAPMPK4Q completed.
+2024-12-27 23:10:16.490 +01:00 [DBG] Connection id "0HN96OAPMPK4Q" stopped.
+2024-12-27 23:16:06.553 +01:00 [DBG] Connection id "0HN96OAPMPK4R" accepted.
+2024-12-27 23:16:06.553 +01:00 [DBG] Connection id "0HN96OAPMPK4R" started.
+2024-12-27 23:16:06.583 +01:00 [DBG] Connection 0HN96OAPMPK4R established using the following protocol: "Tls12"
+2024-12-27 23:16:06.585 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7149/api/Authorize/GenerateToken application/json 78
+2024-12-27 23:16:06.585 +01:00 [DBG] 1 candidate(s) found for the request path '/api/Authorize/GenerateToken'
+2024-12-27 23:16:06.585 +01:00 [DBG] Endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)' with route pattern 'api/Authorize/GenerateToken' is valid for the request path '/api/Authorize/GenerateToken'
+2024-12-27 23:16:06.585 +01:00 [DBG] Request matched endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:16:06.585 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:16:06.602 +01:00 [DBG] The request has an origin header: 'https://localhost:7149'.
+2024-12-27 23:16:06.603 +01:00 [INF] CORS policy execution failed.
+2024-12-27 23:16:06.603 +01:00 [INF] Request origin https://localhost:7149 does not have permission to access the resource.
+2024-12-27 23:16:06.603 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:16:06.608 +01:00 [DBG] AuthenticationScheme: Bearer was not authenticated.
+2024-12-27 23:16:06.609 +01:00 [INF] Executing endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:16:06.609 +01:00 [INF] Route matched with {action = "GenerateToken", controller = "Authorize"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateToken(WeblearnApi_Nihira.Modal.UserCred) on controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira).
+2024-12-27 23:16:06.609 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-12-27 23:16:06.609 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-12-27 23:16:06.609 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-12-27 23:16:06.609 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-12-27 23:16:06.609 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-12-27 23:16:06.609 +01:00 [DBG] Executing controller factory for controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira)
+2024-12-27 23:16:06.612 +01:00 [DBG] Executed controller factory for controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira)
+2024-12-27 23:16:06.612 +01:00 [DBG] Attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' ...
+2024-12-27 23:16:06.612 +01:00 [DBG] Attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' using the name '' in request data ...
+2024-12-27 23:16:06.612 +01:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'.
+2024-12-27 23:16:06.612 +01:00 [DBG] Connection id "0HN96OAPMPK4R", Request id "0HN96OAPMPK4R:00000001": started reading request body.
+2024-12-27 23:16:06.612 +01:00 [DBG] Connection id "0HN96OAPMPK4R", Request id "0HN96OAPMPK4R:00000001": done reading request body.
+2024-12-27 23:16:06.612 +01:00 [DBG] JSON input formatter succeeded, deserializing to type 'WeblearnApi_Nihira.Modal.UserCred'
+2024-12-27 23:16:06.612 +01:00 [DBG] Done attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:16:06.612 +01:00 [DBG] Done attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:16:06.612 +01:00 [DBG] Attempting to validate the bound parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' ...
+2024-12-27 23:16:06.612 +01:00 [DBG] Done attempting to validate the bound parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:16:06.702 +01:00 [DBG] Entity Framework Core 7.0.5 initialized 'LearndataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.5' with options: None
+2024-12-27 23:16:06.703 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-12-27 23:16:06.704 +01:00 [DBG] Creating DbConnection.
+2024-12-27 23:16:06.704 +01:00 [DBG] Created DbConnection. (0ms).
+2024-12-27 23:16:06.704 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-12-27 23:16:06.704 +01:00 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-12-27 23:16:06.704 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:07.017 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:07.020 +01:00 [DBG] Executing DbCommand [Parameters=[@__userCred_userName_0='?' (Size = 50) (DbType = AnsiString), @__userCred_password_1='?' (Size = 50) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[username], [t].[email], [t].[failattempt], [t].[isactive], [t].[islocked], [t].[name], [t].[password], [t].[phone], [t].[role]
+FROM [tbl_user] AS [t]
+WHERE [t].[username] = @__userCred_userName_0 AND [t].[password] = @__userCred_password_1
+2024-12-27 23:16:07.058 +01:00 [INF] Executed DbCommand (32ms) [Parameters=[@__userCred_userName_0='?' (Size = 50) (DbType = AnsiString), @__userCred_password_1='?' (Size = 50) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[username], [t].[email], [t].[failattempt], [t].[isactive], [t].[islocked], [t].[name], [t].[password], [t].[phone], [t].[role]
+FROM [tbl_user] AS [t]
+WHERE [t].[username] = @__userCred_userName_0 AND [t].[password] = @__userCred_password_1
+2024-12-27 23:16:07.058 +01:00 [DBG] Closing data reader to 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:07.058 +01:00 [DBG] A data reader for 'learnApi' on server 'localhost\SQLEXPRESS' is being disposed after spending 0ms reading results.
+2024-12-27 23:16:07.058 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:07.058 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (0ms).
+2024-12-27 23:16:07.059 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2024-12-27 23:16:07.059 +01:00 [DBG] No information found on request to perform content negotiation.
+2024-12-27 23:16:07.059 +01:00 [DBG] Attempting to select the first output formatter in the output formatters list which supports a content type from the explicitly specified content types '["application/problem+json","application/problem+xml","application/problem+json","application/problem+xml"]'.
+2024-12-27 23:16:07.059 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/problem+json' to write the response.
+2024-12-27 23:16:07.059 +01:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-12-27 23:16:07.059 +01:00 [INF] Executed action WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira) in 450.3941ms
+2024-12-27 23:16:07.060 +01:00 [INF] Executed endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:16:07.060 +01:00 [DBG] 'LearndataContext' disposed.
+2024-12-27 23:16:07.060 +01:00 [DBG] Disposing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:07.060 +01:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-12-27 23:16:07.060 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7149/api/Authorize/GenerateToken application/json 78 - 401 - application/problem+json;+charset=utf-8 475.2903ms
+2024-12-27 23:16:07.146 +01:00 [DBG] Connection id "0HN96OAPMPK4R" received FIN.
+2024-12-27 23:16:07.147 +01:00 [DBG] Connection id "0HN96OAPMPK4R" is closed. The last processed stream ID was 1.
+2024-12-27 23:16:07.147 +01:00 [DBG] Connection id "0HN96OAPMPK4R" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-27 23:16:07.148 +01:00 [DBG] The connection queue processing loop for 0HN96OAPMPK4R completed.
+2024-12-27 23:16:07.149 +01:00 [DBG] Connection id "0HN96OAPMPK4R" stopped.
+2024-12-27 23:16:13.745 +01:00 [DBG] Connection id "0HN96OAPMPK4S" accepted.
+2024-12-27 23:16:13.746 +01:00 [DBG] Connection id "0HN96OAPMPK4S" started.
+2024-12-27 23:16:13.748 +01:00 [DBG] Connection 0HN96OAPMPK4S established using the following protocol: "Tls12"
+2024-12-27 23:16:13.750 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7149/api/Authorize/GenerateToken application/json 68
+2024-12-27 23:16:13.750 +01:00 [DBG] 1 candidate(s) found for the request path '/api/Authorize/GenerateToken'
+2024-12-27 23:16:13.750 +01:00 [DBG] Endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)' with route pattern 'api/Authorize/GenerateToken' is valid for the request path '/api/Authorize/GenerateToken'
+2024-12-27 23:16:13.750 +01:00 [DBG] Request matched endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:16:13.750 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:16:13.750 +01:00 [DBG] The request has an origin header: 'https://localhost:7149'.
+2024-12-27 23:16:13.751 +01:00 [INF] CORS policy execution failed.
+2024-12-27 23:16:13.751 +01:00 [INF] Request origin https://localhost:7149 does not have permission to access the resource.
+2024-12-27 23:16:13.751 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:16:13.753 +01:00 [DBG] AuthenticationScheme: Bearer was not authenticated.
+2024-12-27 23:16:13.754 +01:00 [INF] Executing endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:16:13.754 +01:00 [INF] Route matched with {action = "GenerateToken", controller = "Authorize"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateToken(WeblearnApi_Nihira.Modal.UserCred) on controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira).
+2024-12-27 23:16:13.754 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-12-27 23:16:13.754 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-12-27 23:16:13.754 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-12-27 23:16:13.754 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-12-27 23:16:13.754 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-12-27 23:16:13.754 +01:00 [DBG] Executing controller factory for controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira)
+2024-12-27 23:16:13.754 +01:00 [DBG] Executed controller factory for controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira)
+2024-12-27 23:16:13.755 +01:00 [DBG] Attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' ...
+2024-12-27 23:16:13.755 +01:00 [DBG] Attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' using the name '' in request data ...
+2024-12-27 23:16:13.755 +01:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'.
+2024-12-27 23:16:13.755 +01:00 [DBG] Connection id "0HN96OAPMPK4S", Request id "0HN96OAPMPK4S:00000001": started reading request body.
+2024-12-27 23:16:13.755 +01:00 [DBG] Connection id "0HN96OAPMPK4S", Request id "0HN96OAPMPK4S:00000001": done reading request body.
+2024-12-27 23:16:13.755 +01:00 [DBG] JSON input formatter succeeded, deserializing to type 'WeblearnApi_Nihira.Modal.UserCred'
+2024-12-27 23:16:13.755 +01:00 [DBG] Done attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:16:13.755 +01:00 [DBG] Done attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:16:13.756 +01:00 [DBG] Attempting to validate the bound parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' ...
+2024-12-27 23:16:13.756 +01:00 [DBG] Done attempting to validate the bound parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:16:13.758 +01:00 [DBG] Entity Framework Core 7.0.5 initialized 'LearndataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.5' with options: None
+2024-12-27 23:16:13.758 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-12-27 23:16:13.759 +01:00 [DBG] Creating DbConnection.
+2024-12-27 23:16:13.759 +01:00 [DBG] Created DbConnection. (0ms).
+2024-12-27 23:16:13.759 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-12-27 23:16:13.759 +01:00 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-12-27 23:16:13.759 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:13.759 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:13.759 +01:00 [DBG] Executing DbCommand [Parameters=[@__userCred_userName_0='?' (Size = 50) (DbType = AnsiString), @__userCred_password_1='?' (Size = 50) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[username], [t].[email], [t].[failattempt], [t].[isactive], [t].[islocked], [t].[name], [t].[password], [t].[phone], [t].[role]
+FROM [tbl_user] AS [t]
+WHERE [t].[username] = @__userCred_userName_0 AND [t].[password] = @__userCred_password_1
+2024-12-27 23:16:13.781 +01:00 [INF] Executed DbCommand (19ms) [Parameters=[@__userCred_userName_0='?' (Size = 50) (DbType = AnsiString), @__userCred_password_1='?' (Size = 50) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[username], [t].[email], [t].[failattempt], [t].[isactive], [t].[islocked], [t].[name], [t].[password], [t].[phone], [t].[role]
+FROM [tbl_user] AS [t]
+WHERE [t].[username] = @__userCred_userName_0 AND [t].[password] = @__userCred_password_1
+2024-12-27 23:16:13.781 +01:00 [DBG] Closing data reader to 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:13.781 +01:00 [DBG] A data reader for 'learnApi' on server 'localhost\SQLEXPRESS' is being disposed after spending 0ms reading results.
+2024-12-27 23:16:13.781 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:13.782 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (0ms).
+2024-12-27 23:16:13.783 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2024-12-27 23:16:13.783 +01:00 [DBG] No information found on request to perform content negotiation.
+2024-12-27 23:16:13.783 +01:00 [DBG] Attempting to select the first output formatter in the output formatters list which supports a content type from the explicitly specified content types '["application/problem+json","application/problem+xml","application/problem+json","application/problem+xml"]'.
+2024-12-27 23:16:13.783 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/problem+json' to write the response.
+2024-12-27 23:16:13.783 +01:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-12-27 23:16:13.784 +01:00 [INF] Executed action WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira) in 29.6176ms
+2024-12-27 23:16:13.784 +01:00 [INF] Executed endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:16:13.784 +01:00 [DBG] 'LearndataContext' disposed.
+2024-12-27 23:16:13.784 +01:00 [DBG] Disposing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:13.784 +01:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-12-27 23:16:13.785 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7149/api/Authorize/GenerateToken application/json 68 - 401 - application/problem+json;+charset=utf-8 34.7908ms
+2024-12-27 23:16:17.171 +01:00 [DBG] Connection id "0HN96OAPMPK4S" received FIN.
+2024-12-27 23:16:17.171 +01:00 [DBG] Connection id "0HN96OAPMPK4S" is closed. The last processed stream ID was 1.
+2024-12-27 23:16:17.171 +01:00 [DBG] Connection id "0HN96OAPMPK4S" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-27 23:16:17.171 +01:00 [DBG] The connection queue processing loop for 0HN96OAPMPK4S completed.
+2024-12-27 23:16:17.172 +01:00 [DBG] Connection id "0HN96OAPMPK4S" stopped.
+2024-12-27 23:16:24.627 +01:00 [DBG] Connection id "0HN96OAPMPK4T" accepted.
+2024-12-27 23:16:24.627 +01:00 [DBG] Connection id "0HN96OAPMPK4T" started.
+2024-12-27 23:16:24.630 +01:00 [DBG] Connection 0HN96OAPMPK4T established using the following protocol: "Tls12"
+2024-12-27 23:16:24.632 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7149/api/Customer/Create application/json 150
+2024-12-27 23:16:24.633 +01:00 [DBG] 1 candidate(s) found for the request path '/api/Customer/Create'
+2024-12-27 23:16:24.633 +01:00 [DBG] Endpoint 'WeblearnApi_Nihira.Controllers.CustomerController.Create (WeblearnApi_Nihira)' with route pattern 'api/Customer/Create' is valid for the request path '/api/Customer/Create'
+2024-12-27 23:16:24.634 +01:00 [DBG] Request matched endpoint 'WeblearnApi_Nihira.Controllers.CustomerController.Create (WeblearnApi_Nihira)'
+2024-12-27 23:16:24.658 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:16:24.658 +01:00 [DBG] The request has an origin header: 'https://localhost:7149'.
+2024-12-27 23:16:24.658 +01:00 [INF] CORS policy execution failed.
+2024-12-27 23:16:24.658 +01:00 [INF] Request origin https://localhost:7149 does not have permission to access the resource.
+2024-12-27 23:16:24.658 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:16:24.658 +01:00 [DBG] AuthenticationScheme: Bearer was not authenticated.
+2024-12-27 23:16:24.665 +01:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-12-27 23:16:24.675 +01:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-12-27 23:16:24.676 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7149/api/Customer/Create application/json 150 - 401 0 - 43.8509ms
+2024-12-27 23:16:24.676 +01:00 [DBG] Connection id "0HN96OAPMPK4T", Request id "0HN96OAPMPK4T:00000001": started reading request body.
+2024-12-27 23:16:24.676 +01:00 [DBG] Connection id "0HN96OAPMPK4T", Request id "0HN96OAPMPK4T:00000001": done reading request body.
+2024-12-27 23:16:27.178 +01:00 [DBG] Connection id "0HN96OAPMPK4T" received FIN.
+2024-12-27 23:16:27.178 +01:00 [DBG] Connection id "0HN96OAPMPK4T" is closed. The last processed stream ID was 1.
+2024-12-27 23:16:27.178 +01:00 [DBG] Connection id "0HN96OAPMPK4T" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-27 23:16:27.178 +01:00 [DBG] The connection queue processing loop for 0HN96OAPMPK4T completed.
+2024-12-27 23:16:27.178 +01:00 [DBG] Connection id "0HN96OAPMPK4T" stopped.
+2024-12-27 23:16:42.978 +01:00 [DBG] Connection id "0HN96OAPMPK4U" accepted.
+2024-12-27 23:16:42.980 +01:00 [DBG] Connection id "0HN96OAPMPK4U" started.
+2024-12-27 23:16:43.004 +01:00 [DBG] Connection 0HN96OAPMPK4U established using the following protocol: "Tls12"
+2024-12-27 23:16:43.005 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7149/api/Authorize/GenerateToken application/json 68
+2024-12-27 23:16:43.006 +01:00 [DBG] 1 candidate(s) found for the request path '/api/Authorize/GenerateToken'
+2024-12-27 23:16:43.006 +01:00 [DBG] Endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)' with route pattern 'api/Authorize/GenerateToken' is valid for the request path '/api/Authorize/GenerateToken'
+2024-12-27 23:16:43.006 +01:00 [DBG] Request matched endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:16:43.006 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:16:43.006 +01:00 [DBG] The request has an origin header: 'https://localhost:7149'.
+2024-12-27 23:16:43.006 +01:00 [INF] CORS policy execution failed.
+2024-12-27 23:16:43.006 +01:00 [INF] Request origin https://localhost:7149 does not have permission to access the resource.
+2024-12-27 23:16:43.006 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:16:43.006 +01:00 [DBG] AuthenticationScheme: Bearer was not authenticated.
+2024-12-27 23:16:43.006 +01:00 [INF] Executing endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:16:43.006 +01:00 [INF] Route matched with {action = "GenerateToken", controller = "Authorize"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateToken(WeblearnApi_Nihira.Modal.UserCred) on controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira).
+2024-12-27 23:16:43.006 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-12-27 23:16:43.006 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-12-27 23:16:43.006 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-12-27 23:16:43.006 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-12-27 23:16:43.006 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-12-27 23:16:43.007 +01:00 [DBG] Executing controller factory for controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira)
+2024-12-27 23:16:43.007 +01:00 [DBG] Executed controller factory for controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira)
+2024-12-27 23:16:43.007 +01:00 [DBG] Attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' ...
+2024-12-27 23:16:43.007 +01:00 [DBG] Attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' using the name '' in request data ...
+2024-12-27 23:16:43.007 +01:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'.
+2024-12-27 23:16:43.007 +01:00 [DBG] Connection id "0HN96OAPMPK4U", Request id "0HN96OAPMPK4U:00000001": started reading request body.
+2024-12-27 23:16:43.007 +01:00 [DBG] Connection id "0HN96OAPMPK4U", Request id "0HN96OAPMPK4U:00000001": done reading request body.
+2024-12-27 23:16:43.007 +01:00 [DBG] JSON input formatter succeeded, deserializing to type 'WeblearnApi_Nihira.Modal.UserCred'
+2024-12-27 23:16:43.007 +01:00 [DBG] Done attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:16:43.007 +01:00 [DBG] Done attempting to bind parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:16:43.007 +01:00 [DBG] Attempting to validate the bound parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred' ...
+2024-12-27 23:16:43.007 +01:00 [DBG] Done attempting to validate the bound parameter 'userCred' of type 'WeblearnApi_Nihira.Modal.UserCred'.
+2024-12-27 23:16:43.008 +01:00 [DBG] Entity Framework Core 7.0.5 initialized 'LearndataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.5' with options: None
+2024-12-27 23:16:43.008 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-12-27 23:16:43.008 +01:00 [DBG] Creating DbConnection.
+2024-12-27 23:16:43.008 +01:00 [DBG] Created DbConnection. (0ms).
+2024-12-27 23:16:43.008 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-12-27 23:16:43.009 +01:00 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-12-27 23:16:43.009 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:43.009 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:43.009 +01:00 [DBG] Executing DbCommand [Parameters=[@__userCred_userName_0='?' (Size = 50) (DbType = AnsiString), @__userCred_password_1='?' (Size = 50) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[username], [t].[email], [t].[failattempt], [t].[isactive], [t].[islocked], [t].[name], [t].[password], [t].[phone], [t].[role]
+FROM [tbl_user] AS [t]
+WHERE [t].[username] = @__userCred_userName_0 AND [t].[password] = @__userCred_password_1
+2024-12-27 23:16:43.019 +01:00 [INF] Executed DbCommand (7ms) [Parameters=[@__userCred_userName_0='?' (Size = 50) (DbType = AnsiString), @__userCred_password_1='?' (Size = 50) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[username], [t].[email], [t].[failattempt], [t].[isactive], [t].[islocked], [t].[name], [t].[password], [t].[phone], [t].[role]
+FROM [tbl_user] AS [t]
+WHERE [t].[username] = @__userCred_userName_0 AND [t].[password] = @__userCred_password_1
+2024-12-27 23:16:43.021 +01:00 [DBG] Closing data reader to 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:43.021 +01:00 [DBG] A data reader for 'learnApi' on server 'localhost\SQLEXPRESS' is being disposed after spending 0ms reading results.
+2024-12-27 23:16:43.021 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:43.021 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (0ms).
+2024-12-27 23:16:43.021 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2024-12-27 23:16:43.021 +01:00 [DBG] No information found on request to perform content negotiation.
+2024-12-27 23:16:43.021 +01:00 [DBG] Attempting to select the first output formatter in the output formatters list which supports a content type from the explicitly specified content types '["application/problem+json","application/problem+xml","application/problem+json","application/problem+xml"]'.
+2024-12-27 23:16:43.021 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/problem+json' to write the response.
+2024-12-27 23:16:43.022 +01:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-12-27 23:16:43.022 +01:00 [INF] Executed action WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira) in 15.2407ms
+2024-12-27 23:16:43.022 +01:00 [INF] Executed endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateToken (WeblearnApi_Nihira)'
+2024-12-27 23:16:43.022 +01:00 [DBG] 'LearndataContext' disposed.
+2024-12-27 23:16:43.022 +01:00 [DBG] Disposing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:16:43.022 +01:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-12-27 23:16:43.022 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7149/api/Authorize/GenerateToken application/json 68 - 401 - application/problem+json;+charset=utf-8 17.1688ms
+2024-12-27 23:16:47.205 +01:00 [DBG] Connection id "0HN96OAPMPK4U" received FIN.
+2024-12-27 23:16:47.205 +01:00 [DBG] Connection id "0HN96OAPMPK4U" is closed. The last processed stream ID was 1.
+2024-12-27 23:16:47.205 +01:00 [DBG] Connection id "0HN96OAPMPK4U" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-27 23:16:47.205 +01:00 [DBG] The connection queue processing loop for 0HN96OAPMPK4U completed.
+2024-12-27 23:16:47.206 +01:00 [DBG] Connection id "0HN96OAPMPK4U" stopped.
+2024-12-27 23:17:02.223 +01:00 [DBG] Connection id "0HN96OAPMPK4V" accepted.
+2024-12-27 23:17:02.223 +01:00 [DBG] Connection id "0HN96OAPMPK4V" started.
+2024-12-27 23:17:02.227 +01:00 [DBG] Connection 0HN96OAPMPK4V established using the following protocol: "Tls12"
+2024-12-27 23:17:02.229 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7149/api/Authorize/GenerateRefreshToken application/json 149
+2024-12-27 23:17:02.229 +01:00 [DBG] 1 candidate(s) found for the request path '/api/Authorize/GenerateRefreshToken'
+2024-12-27 23:17:02.229 +01:00 [DBG] Endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateRefreshToken (WeblearnApi_Nihira)' with route pattern 'api/Authorize/GenerateRefreshToken' is valid for the request path '/api/Authorize/GenerateRefreshToken'
+2024-12-27 23:17:02.229 +01:00 [DBG] Request matched endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateRefreshToken (WeblearnApi_Nihira)'
+2024-12-27 23:17:02.229 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:17:02.230 +01:00 [DBG] The request has an origin header: 'https://localhost:7149'.
+2024-12-27 23:17:02.230 +01:00 [INF] CORS policy execution failed.
+2024-12-27 23:17:02.230 +01:00 [INF] Request origin https://localhost:7149 does not have permission to access the resource.
+2024-12-27 23:17:02.230 +01:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-12-27 23:17:02.230 +01:00 [DBG] AuthenticationScheme: Bearer was not authenticated.
+2024-12-27 23:17:02.230 +01:00 [INF] Executing endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateRefreshToken (WeblearnApi_Nihira)'
+2024-12-27 23:17:02.248 +01:00 [INF] Route matched with {action = "GenerateRefreshToken", controller = "Authorize"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateRefreshToken(WeblearnApi_Nihira.Modal.TokenResponse) on controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira).
+2024-12-27 23:17:02.248 +01:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-12-27 23:17:02.249 +01:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-12-27 23:17:02.249 +01:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-12-27 23:17:02.249 +01:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-12-27 23:17:02.249 +01:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-12-27 23:17:02.249 +01:00 [DBG] Executing controller factory for controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira)
+2024-12-27 23:17:02.249 +01:00 [DBG] Executed controller factory for controller WeblearnApi_Nihira.Controllers.AuthorizeController (WeblearnApi_Nihira)
+2024-12-27 23:17:02.249 +01:00 [DBG] Attempting to bind parameter 'token' of type 'WeblearnApi_Nihira.Modal.TokenResponse' ...
+2024-12-27 23:17:02.249 +01:00 [DBG] Attempting to bind parameter 'token' of type 'WeblearnApi_Nihira.Modal.TokenResponse' using the name '' in request data ...
+2024-12-27 23:17:02.249 +01:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'.
+2024-12-27 23:17:02.250 +01:00 [DBG] Connection id "0HN96OAPMPK4V", Request id "0HN96OAPMPK4V:00000001": started reading request body.
+2024-12-27 23:17:02.250 +01:00 [DBG] Connection id "0HN96OAPMPK4V", Request id "0HN96OAPMPK4V:00000001": done reading request body.
+2024-12-27 23:17:02.251 +01:00 [DBG] JSON input formatter succeeded, deserializing to type 'WeblearnApi_Nihira.Modal.TokenResponse'
+2024-12-27 23:17:02.251 +01:00 [DBG] Done attempting to bind parameter 'token' of type 'WeblearnApi_Nihira.Modal.TokenResponse'.
+2024-12-27 23:17:02.251 +01:00 [DBG] Done attempting to bind parameter 'token' of type 'WeblearnApi_Nihira.Modal.TokenResponse'.
+2024-12-27 23:17:02.251 +01:00 [DBG] Attempting to validate the bound parameter 'token' of type 'WeblearnApi_Nihira.Modal.TokenResponse' ...
+2024-12-27 23:17:02.253 +01:00 [DBG] Done attempting to validate the bound parameter 'token' of type 'WeblearnApi_Nihira.Modal.TokenResponse'.
+2024-12-27 23:17:02.256 +01:00 [DBG] Entity Framework Core 7.0.5 initialized 'LearndataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.5' with options: None
+2024-12-27 23:17:02.257 +01:00 [DBG] Compiling query expression: 
+'DbSet<TblRefreshtoken>()
+    .FirstOrDefault(item => item.Refreshtoken == __token_RefreshToken_0)'
+2024-12-27 23:17:02.272 +01:00 [DBG] Generated query execution expression: 
+'queryContext => ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync<TblRefreshtoken>(
+    asyncEnumerable: new SingleQueryingEnumerable<TblRefreshtoken>(
+        (RelationalQueryContext)queryContext, 
+        RelationalCommandCache.QueryExpression(
+            Projection Mapping:
+                EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: TblRefreshtoken.Userid (string) Required PK AfterSave:Throw MaxLength(50) Ansi, 0], [Property: TblRefreshtoken.Refreshtoken (string) Ansi, 1], [Property: TblRefreshtoken.Tokenid (string) MaxLength(50) Ansi, 2] }
+            SELECT TOP(1) t.userid, t.refreshtoken, t.tokenid
+            FROM tbl_refreshtoken AS t
+            WHERE t.refreshtoken == @__token_RefreshToken_0), 
+        null, 
+        Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, TblRefreshtoken>, 
+        WeblearnApi_Nihira.Repos.LearndataContext, 
+        False, 
+        False, 
+        True
+    ), 
+    cancellationToken: queryContext.CancellationToken)'
+2024-12-27 23:17:02.275 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-12-27 23:17:02.275 +01:00 [DBG] Creating DbConnection.
+2024-12-27 23:17:02.275 +01:00 [DBG] Created DbConnection. (0ms).
+2024-12-27 23:17:02.275 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-12-27 23:17:02.277 +01:00 [DBG] Initialized DbCommand for 'ExecuteReader' (2ms).
+2024-12-27 23:17:02.278 +01:00 [DBG] Opening connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:17:02.278 +01:00 [DBG] Opened connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:17:02.278 +01:00 [DBG] Executing DbCommand [Parameters=[@__token_RefreshToken_0='?' (Size = 8000) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[userid], [t].[refreshtoken], [t].[tokenid]
+FROM [tbl_refreshtoken] AS [t]
+WHERE [t].[refreshtoken] = @__token_RefreshToken_0
+2024-12-27 23:17:02.347 +01:00 [INF] Executed DbCommand (62ms) [Parameters=[@__token_RefreshToken_0='?' (Size = 8000) (DbType = AnsiString)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[userid], [t].[refreshtoken], [t].[tokenid]
+FROM [tbl_refreshtoken] AS [t]
+WHERE [t].[refreshtoken] = @__token_RefreshToken_0
+2024-12-27 23:17:02.348 +01:00 [DBG] Closing data reader to 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:17:02.348 +01:00 [DBG] A data reader for 'learnApi' on server 'localhost\SQLEXPRESS' is being disposed after spending 0ms reading results.
+2024-12-27 23:17:02.348 +01:00 [DBG] Closing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:17:02.348 +01:00 [DBG] Closed connection to database 'learnApi' on server 'localhost\SQLEXPRESS' (0ms).
+2024-12-27 23:17:02.348 +01:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2024-12-27 23:17:02.349 +01:00 [DBG] No information found on request to perform content negotiation.
+2024-12-27 23:17:02.349 +01:00 [DBG] Attempting to select the first output formatter in the output formatters list which supports a content type from the explicitly specified content types '["application/problem+json","application/problem+xml","application/problem+json","application/problem+xml"]'.
+2024-12-27 23:17:02.349 +01:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/problem+json' to write the response.
+2024-12-27 23:17:02.349 +01:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-12-27 23:17:02.349 +01:00 [INF] Executed action WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateRefreshToken (WeblearnApi_Nihira) in 100.0617ms
+2024-12-27 23:17:02.349 +01:00 [INF] Executed endpoint 'WeblearnApi_Nihira.Controllers.AuthorizeController.GenerateRefreshToken (WeblearnApi_Nihira)'
+2024-12-27 23:17:02.349 +01:00 [DBG] 'LearndataContext' disposed.
+2024-12-27 23:17:02.349 +01:00 [DBG] Disposing connection to database 'learnApi' on server 'localhost\SQLEXPRESS'.
+2024-12-27 23:17:02.349 +01:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-12-27 23:17:02.349 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7149/api/Authorize/GenerateRefreshToken application/json 149 - 401 - application/problem+json;+charset=utf-8 121.2332ms
+2024-12-27 23:17:07.228 +01:00 [DBG] Connection id "0HN96OAPMPK4V" received FIN.
+2024-12-27 23:17:07.228 +01:00 [DBG] Connection id "0HN96OAPMPK4V" is closed. The last processed stream ID was 1.
+2024-12-27 23:17:07.228 +01:00 [DBG] Connection id "0HN96OAPMPK4V" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-12-27 23:17:07.229 +01:00 [DBG] The connection queue processing loop for 0HN96OAPMPK4V completed.
+2024-12-27 23:17:07.229 +01:00 [DBG] Connection id "0HN96OAPMPK4V" stopped.

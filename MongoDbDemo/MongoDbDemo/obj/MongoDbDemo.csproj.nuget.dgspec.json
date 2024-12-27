@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\MongoDbDemo.csproj",
         "projectName": "MongoDbDemo",
         "projectPath": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\MongoDbDemo.csproj",
-        "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
         "outputPath": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -77,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\Hooboo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E61AEAF-6961-4927-BB95-934543828BC1}|Hooboo\\Hooboo.csproj|d:\\gitprojects\\hooboo\\hooboo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E61AEAF-6961-4927-BB95-934543828BC1}|Hooboo\\Hooboo.csproj|solutionrelative:hooboo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E61AEAF-6961-4927-BB95-934543828BC1}|Hooboo\\Hooboo.csproj|d:\\gitprojects\\hooboo\\hooboo\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E61AEAF-6961-4927-BB95-934543828BC1}|Hooboo\\Hooboo.csproj|solutionrelative:hooboo\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E61AEAF-6961-4927-BB95-934543828BC1}|Hooboo\\Hooboo.csproj|d:\\gitprojects\\hooboo\\hooboo\\premiumaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E61AEAF-6961-4927-BB95-934543828BC1}|Hooboo\\Hooboo.csproj|solutionrelative:hooboo\\premiumaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E61AEAF-6961-4927-BB95-934543828BC1}|Hooboo\\Hooboo.csproj|d:\\gitprojects\\hooboo\\hooboo\\plusaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E61AEAF-6961-4927-BB95-934543828BC1}|Hooboo\\Hooboo.csproj|solutionrelative:hooboo\\plusaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Hooboo\\Hooboo\\Program.cs",
+              "RelativeDocumentMoniker": "Hooboo\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\Hooboo\\Hooboo\\Program.cs",
+              "RelativeToolTip": "Hooboo\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:20:36.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PremiumAccount.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Hooboo\\Hooboo\\PremiumAccount.cs",
+              "RelativeDocumentMoniker": "Hooboo\\PremiumAccount.cs",
+              "ToolTip": "D:\\GitProjects\\Hooboo\\Hooboo\\PremiumAccount.cs",
+              "RelativeToolTip": "Hooboo\\PremiumAccount.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:22:06.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlusAccount.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Hooboo\\Hooboo\\PlusAccount.cs",
+              "RelativeDocumentMoniker": "Hooboo\\PlusAccount.cs",
+              "ToolTip": "D:\\GitProjects\\Hooboo\\Hooboo\\PlusAccount.cs",
+              "RelativeToolTip": "Hooboo\\PlusAccount.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAzwBoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:21:38.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Hooboo\\Hooboo\\Account.cs",
+              "RelativeDocumentMoniker": "Hooboo\\Account.cs",
+              "ToolTip": "D:\\GitProjects\\Hooboo\\Hooboo\\Account.cs",
+              "RelativeToolTip": "Hooboo\\Account.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA+wB0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:21:14.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

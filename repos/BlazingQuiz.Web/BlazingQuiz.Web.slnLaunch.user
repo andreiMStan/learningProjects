@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BlazingQuiz.Api\\BlazingQuiz.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BlazingQuiz.Web\\BlazingQuiz.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

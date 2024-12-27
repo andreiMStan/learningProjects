@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "KfI5iPMlZkzc6iaKTWI5OY1avXIxNORlFMYflcefHxI=",
+  "Hash": "fKzeHGrl/oLK36T/Auk7f4s+YlzBx1HdTnTgllsCr5Y=",
   "Source": "Thoughtful.Api",
   "BasePath": "_content/Thoughtful.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

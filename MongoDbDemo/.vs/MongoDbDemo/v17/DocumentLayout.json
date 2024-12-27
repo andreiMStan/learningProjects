@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\MongoDbDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|d:\\gitprojects\\mongodbdemo\\mongodbdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|solutionrelative:mongodbdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|d:\\gitprojects\\mongodbdemo\\mongodbdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|solutionrelative:mongodbdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|d:\\gitprojects\\mongodbdemo\\mongodbdemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|solutionrelative:mongodbdemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|d:\\gitprojects\\mongodbdemo\\mongodbdemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|solutionrelative:mongodbdemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|d:\\gitprojects\\mongodbdemo\\mongodbdemo\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|solutionrelative:mongodbdemo\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|d:\\gitprojects\\mongodbdemo\\mongodbdemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|solutionrelative:mongodbdemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|d:\\gitprojects\\mongodbdemo\\mongodbdemo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|solutionrelative:mongodbdemo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|d:\\gitprojects\\mongodbdemo\\mongodbdemo\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|solutionrelative:mongodbdemo\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|d:\\gitprojects\\mongodbdemo\\mongodbdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|solutionrelative:mongodbdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|d:\\gitprojects\\mongodbdemo\\mongodbdemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|solutionrelative:mongodbdemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|d:\\gitprojects\\mongodbdemo\\mongodbdemo\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|solutionrelative:mongodbdemo\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|d:\\gitprojects\\mongodbdemo\\mongodbdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FCBBA-F158-4B71-B07D-596A4866FF6E}|MongoDbDemo\\MongoDbDemo.csproj|solutionrelative:mongodbdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "MongoDbDemo\\Services\\ICategoryService.cs",
+              "ToolTip": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "MongoDbDemo\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:08:02.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MongoDbDemo\\Services\\ProductService.cs",
+              "ToolTip": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Services\\ProductService.cs",
+              "RelativeToolTip": "MongoDbDemo\\Services\\ProductService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:15:32.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "MongoDbDemo\\appsettings.json",
+              "ToolTip": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\appsettings.json",
+              "RelativeToolTip": "MongoDbDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T16:40:01.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MongoDbDemo\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Services\\CategoryService.cs",
+              "RelativeToolTip": "MongoDbDemo\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAArwAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:48:12.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MongoDbDemo\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MongoDbDemo\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAswA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:13:17.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MongoDbDemo\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MongoDbDemo\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:30:21.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MongoDbDemo\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Program.cs",
+              "RelativeToolTip": "MongoDbDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:35:23.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MongoDbDemo\\Models\\Product.cs",
+              "ToolTip": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Models\\Product.cs",
+              "RelativeToolTip": "MongoDbDemo\\Models\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:38:23.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MongoDbDemo\\Services\\IProductService.cs",
+              "ToolTip": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Services\\IProductService.cs",
+              "RelativeToolTip": "MongoDbDemo\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:25:52.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MongoDbDemo\\Models\\Category.cs",
+              "ToolTip": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Models\\Category.cs",
+              "RelativeToolTip": "MongoDbDemo\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:36:23.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Models\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "MongoDbDemo\\Models\\DatabaseSettings.cs",
+              "ToolTip": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\Models\\DatabaseSettings.cs",
+              "RelativeToolTip": "MongoDbDemo\\Models\\DatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:43:59.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MongoDbDemo\\WeatherForecast.cs",
+              "ToolTip": "D:\\GitProjects\\MongoDbDemo\\MongoDbDemo\\WeatherForecast.cs",
+              "RelativeToolTip": "MongoDbDemo\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:37:06.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

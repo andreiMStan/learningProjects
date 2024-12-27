@@ -25,9 +25,13 @@ D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs
 D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\staticwebassets.build.json
 D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\staticwebassets.development.json
 D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\scopedcss\bundle\NET 7 - Minimal APIs - New Features  Mohamad.styles.css
-D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\NET 7 - Minimal APIs - New Features  Mohamad.csproj.CopyComplete
 D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\NET 7 - Minimal APIs - New Features  Mohamad.dll
 D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\refint\NET 7 - Minimal APIs - New Features  Mohamad.dll
 D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\NET 7 - Minimal APIs - New Features  Mohamad.pdb
 D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\NET 7 - Minimal APIs - New Features  Mohamad.genruntimeconfig.cache
 D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\ref\NET 7 - Minimal APIs - New Features  Mohamad.dll
+D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\bin\Debug\net7.0\NET 7 - Minimal APIs - New Features  Mohamad.staticwebassets.endpoints.json
+D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\staticwebassets\msbuild.NET 7 - Minimal APIs - New Features  Mohamad.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\NET 7 - Minimal APIs - New Features  Mohamad\NET 7 - Minimal APIs - New Features  Mohamad\obj\Debug\net7.0\NET 7 - .57027802.Up2Date

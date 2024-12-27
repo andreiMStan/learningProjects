@@ -1,0 +1,459 @@
+[
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.AdminEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAdminEndpoints\u003Eb__0_1",
+    "RelativePath": "api/admin/home-data",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.AdminEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAdminEndpoints\u003Eb__0_2",
+    "RelativePath": "api/admin/quizes/{quizId:guid}/students",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quizId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "startIndex",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "fetchQuizInfo",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.AdminEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAdminEndpoints\u003Eb__0_3",
+    "RelativePath": "api/admin/users/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "approveType",
+        "Type": "BlazingQuiz.Shared.UserApprovedFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "startIndex",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.AdminEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAdminEndpoints\u003Eb__0_4",
+    "RelativePath": "api/admin/users/{userId:int}/toggle-status",
+    "HttpMethod": "PATCH",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.AuthEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAuthEndpoints\u003Eb__0_0",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BlazingQuiz.Shared.Dtos.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.AuthEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAuthEndpoints\u003Eb__0_1",
+    "RelativePath": "api/auth/register",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BlazingQuiz.Shared.Dtos.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.CategoryEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCategoryEndpoint\u003Eb__0_0",
+    "RelativePath": "api/categories/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.CategoryEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCategoryEndpoint\u003Eb__0_1",
+    "RelativePath": "api/categories/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BlazingQuiz.Shared.Dtos.CategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.QuizEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapQuizEnpoint\u003Eb__0_0",
+    "RelativePath": "api/quizes/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BlazingQuiz.Shared.Dtos.QuizSaveDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.QuizEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapQuizEnpoint\u003Eb__0_1",
+    "RelativePath": "api/quizes/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.QuizEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapQuizEnpoint\u003Eb__0_3",
+    "RelativePath": "api/quizes/{quizId:guid}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quizId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.QuizEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapQuizEnpoint\u003Eb__0_2",
+    "RelativePath": "api/quizes/{quizId:guid}/questions",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quizId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.StudentQuizEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapStudentQuizEndpoints\u003Eb__1_1",
+    "RelativePath": "api/student/available-quizes",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.StudentQuizEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapStudentQuizEndpoints\u003Eb__1_2",
+    "RelativePath": "api/student/my-quizes",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startIndex",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.StudentQuizEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapStudentQuizEndpoints\u003Eb__1_3",
+    "RelativePath": "api/student/quiz/{quizId:guid}/start",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quizId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.StudentQuizEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapStudentQuizEndpoints\u003Eb__1_7",
+    "RelativePath": "api/student/quiz/{studentQuizId:int}/auto-submit",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentQuizId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.StudentQuizEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapStudentQuizEndpoints\u003Eb__1_8",
+    "RelativePath": "api/student/quiz/{studentQuizId:int}/exit",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentQuizId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.StudentQuizEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapStudentQuizEndpoints\u003Eb__1_4",
+    "RelativePath": "api/student/quiz/{studentQuizId:int}/next-question",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentQuizId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.StudentQuizEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapStudentQuizEndpoints\u003Eb__1_5",
+    "RelativePath": "api/student/quiz/{studentQuizId:int}/save-response",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentQuizId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "BlazingQuiz.Shared.Dtos.StudentQuizQuestionResponeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingQuiz.Api.Endpoints.StudentQuizEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapStudentQuizEndpoints\u003Eb__1_6",
+    "RelativePath": "api/student/quiz/{studentQuizId:int}/submit",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentQuizId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

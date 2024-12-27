@@ -1,0 +1,232 @@
+﻿@page "/admin/add-quiz"
+@page "/admin/edit-quiz/{quizId:guid?}"
+@using Microsoft.Extensions.Options
+
+@inject NavigationManager NavigationManager
+@inject IQuizApi QuizApi
+@inject ICategoryApi CategoryApi
+@inject IJSRuntime JsRuntime
+@inject IAppState AppState
+
+<SectionContent SectionName="pageTitle">
+	@(IsEditCase ? "Update Quiz" : "Add New Quiz")</SectionContent>
+
+<EditForm Model="_quiz" OnValidSubmit="SaveQuizAsync">
+	<DataAnnotationsValidator/>
+	<div class="row">
+		<div class="col-sm-3">
+			<div class="mb-3">
+				<div class="form-label">Category</div>
+				<InputSelect @bind-Value="_quiz.CategoryId" class="form-control">
+					<option value="0">Select Category</option>
+					@foreach (var c in _categories)
+					{
+						<option value="@c.Id">@c.Name</option>
+					}
+				</InputSelect>
+				<ValidationMessage For="()=>_quiz.CategoryId"/>
+
+			</div>
+		</div>
+
+		<div class="col-sm-3">
+			<div class="mb-3">
+				<div class="form-label">Name</div>
+				<InputText @bind-Value="_quiz.Name" class="form-control"/>
+				<ValidationMessage For="()=>_quiz.Name" />
+			</div>
+		</div>
+
+
+		<div class="col-sm-3">
+			<div class="mb-3">
+				<div class="form-label">Total Questions</div>
+				<InputNumber @bind-Value="_quiz.TotalQuestions" class="form-control"/>
+				<ValidationMessage For="()=>_quiz.TotalQuestions" />
+			</div>
+		</div>
+		<div class="col-sm-3">
+			<div class="mb-3">
+				<div class="form-label">Time( in Minutes)</div>
+				<InputNumber @bind-Value="_quiz.TimeInMinutes" class="form-control"/>
+				<ValidationMessage For="()=>_quiz.TimeInMinutes " />
+			</div>
+		</div>
+
+		<hr class="my-2"/>
+		<h3 class="fw-bold ">Questions</h3>
+
+		<ol class="mb-0">
+			@foreach (var q in _quiz.Question)
+			{
+				var random = Guid.NewGuid();
+				<li class="p-3 mb-3 bg-white">
+
+					<textarea @bind="q.Text " class="form-control" rows="3" ></textarea>
+
+
+					<h6 class="my-2 fw-bold">Options</h6>
+					<ol>
+						@foreach (var o in q.Options)
+						{
+							<li class="p-2 mb-2">
+								<div class="input-group">
+									<div class="input-group-text">
+										<input class="form-check-input mt-0" type="radio"
+										name="option_radio_@random"
+										checked="@o.IsCorrect" 
+										@onchange="()=>SetOptionAsCorrectAnswer(q,o)">
+									</div>
+									<input type="text" @bind="o.Text" class="form-control" >
+									<button class="btn btn-danger" type="button" 
+									@onclick="()=>q.Options.Remove(o)">X</button>
+								</div>
+							</li>
+
+						}
+					</ol>	
+
+					<div class="d-flex justify-content-end">
+						<button type="button" class="btn btn-sm btn-info"
+						@onclick="()=>q.Options.Add(new())">Add Option</button>
+					</div>
+				</li>
+			}
+
+		</ol>
+
+		<div class="mt-0  mb-3 d-flex justify-content-center">
+			<button type="button" class="btn btn-info"
+			@onclick="()=>_quiz.Question.Add(GetDefaultEmptyQuestion())">+ Add Question</button>
+		</div>
+		<hr/>
+		<div class="row mb-5 align-items-center">
+			<div class="col-sm-3 ms-auto d-flex justify-content-end ">
+				<div class="form-check form-switch">
+
+					<InputCheckbox @bind-Value="_quiz.IsActive"
+					class="form-check-input" type="checkbox" role="switch" id="quizIsActive"></InputCheckbox>
+					<label class="form-check-label" for="quizIsActive">Is Active?</label>
+				</div>		
+			</div>
+			<div class="col-sm-5 d-grid me-auto">
+				<button type="submit" class="btn btn-success">Save Quiz</button>
+
+			</div>
+		</div>
+	</div>
+
+</EditForm>
+
+
+@code {
+
+	[Parameter]
+	public Guid? QuizId { get; set; }
+
+	public bool IsEditCase => QuizId.HasValue && QuizId.Value != Guid.Empty;
+
+	private QuizSaveDto _quiz = new();
+
+	private CategoryDto[] _categories = [];
+
+	protected override async Task OnInitializedAsync()
+	{
+		if (IsEditCase)
+		{
+			//Fetch  _quiz from the API
+			AppState.ShowLoader("Fetching quiz");
+			var quiz = await QuizApi.GetQuizToEditAsync(QuizId!.Value);
+			AppState.HideLoader();
+
+			if (quiz==null)
+			{
+				NavigationManager.NavigateTo("admin/manage-quizes");
+				return;
+			}
+			_quiz = quiz;
+		}
+		else
+		{
+			var question = GetDefaultEmptyQuestion();
+			_quiz.Question = [question];
+		}
+		AppState.ShowLoader("Fetching categories");
+		_categories = await CategoryApi.GetCategoriesAsync();
+		AppState.HideLoader();
+
+
+	}
+
+	protected override void OnParametersSet()
+	{
+		if (!QuizId.HasValue && _quiz.Id !=Guid.Empty)
+		{
+			//WE were in edit mode and we clicked on add new quiz on the left nave menu
+			_quiz = new();
+
+			_quiz.Question = [GetDefaultEmptyQuestion()];
+
+		}
+	}
+	private QuestionDto GetDefaultEmptyQuestion() =>
+		new QuestionDto
+		{
+			Options = [new (), new ()]
+		};
+
+	private void SetOptionAsCorrectAnswer(QuestionDto q, OptionDto o)
+	{
+		foreach (var option in q.Options)
+		{
+			option.IsCorrect = false;
+		}
+
+		o.IsCorrect = true;
+
+	}
+
+	private async Task SaveQuizAsync()
+	{
+		var errorMessage = _quiz.Validate(); 
+
+		if (!string.IsNullOrEmpty(errorMessage))
+		{
+			await ShowAlertAsync(errorMessage);
+			return;
+		}
+		AppState.ShowLoader("Saving quiz");
+		var response = await QuizApi.SaveQuizAsync(_quiz);
+		if (!response.IsSuccess)
+		{
+			await ShowAlertAsync(response.ErrorMessage);
+			return;
+		}
+		AppState.HideLoader();
+
+		NavigationManager.NavigateTo("/admin/manage-quizes");
+		// if (_quiz.TotalQuestions != _quiz.Question.Count)
+		// {
+		// 	await ShowAlertAsync("Number of question does not match with total questions");
+		// 	return;
+		// }
+
+		// if (_quiz.Question.Any(q=>string.IsNullOrWhiteSpace(q.Text)))
+		// {
+		// 	await ShowAlertAsync("Question text is required");
+		// 	return;
+
+		// }
+
+		// if ( _quiz.Question.Any(q=>q.Options.Count==0))
+		// {
+		// 	await ShowAlertAsync("Options are required for questions");
+		// 	return;
+		// }
+
+
+	}
+
+	private async Task ShowAlertAsync(string message, string title = "Error")
+	=> await JsRuntime.InvokeVoidAsync("alert", $"{title}\n{message}");
+}

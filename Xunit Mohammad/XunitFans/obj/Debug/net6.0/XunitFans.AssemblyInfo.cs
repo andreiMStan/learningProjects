@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XunitFans")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99548d95c7cc4d163819656c0bdbde3e52bb2eb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("XunitFans")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XunitFans")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

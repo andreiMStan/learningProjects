@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Auto mapping Mohamadd LAwand.props" />
+</Project>

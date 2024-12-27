@@ -1,0 +1,36 @@
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\bin\Debug\net6.0\appsettings.Development.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\bin\Debug\net6.0\appsettings.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\bin\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.staticwebassets.endpoints.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\bin\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.exe
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\bin\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.deps.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\bin\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.runtimeconfig.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\bin\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\bin\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.pdb
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.csproj.AssemblyReference.cache
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.AssemblyInfoInputs.cache
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.AssemblyInfo.cs
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.csproj.CoreCompileInputs.cache
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.MvcApplicationPartsAssemblyInfo.cs
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\scopedcss\bundle\RestApi ClaimsRolesPolicy MohammadLa.styles.css
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\staticwebassets\msbuild.RestApi ClaimsRolesPolicy MohammadLa.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\staticwebassets\msbuild.RestApi ClaimsRolesPolicy MohammadLa.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\staticwebassets\msbuild.build.RestApi ClaimsRolesPolicy MohammadLa.props
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RestApi ClaimsRolesPolicy MohammadLa.props
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RestApi ClaimsRolesPolicy MohammadLa.props
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\RestApi .267ACDF3.Up2Date
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\refint\RestApi ClaimsRolesPolicy MohammadLa.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.pdb
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\RestApi ClaimsRolesPolicy MohammadLa.genruntimeconfig.cache
+D:\GitProjects\FormulaOne AuthentificationMohammad\RestApi ClaimsRolesPolicy MohammadLa\obj\Debug\net6.0\ref\RestApi ClaimsRolesPolicy MohammadLa.dll

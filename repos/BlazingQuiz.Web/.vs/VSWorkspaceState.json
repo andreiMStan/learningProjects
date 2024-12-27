@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazingQuiz.Api",
+    "\\BlazingQuiz.Api\\Endpoints",
+    "\\BlazingQuiz.Api\\obj",
+    "\\BlazingQuiz.Api\\Properties",
+    "\\BlazingQuiz.Api\\Services",
+    "\\BlazingQuiz.Mobile",
+    "\\BlazingQuiz.Shared",
+    "\\BlazingQuiz.Shared.Components"
+  ],
+  "SelectedNode": "\\BlazingQuiz.Api\\Services",
+  "PreviewInSolutionExplorer": false
+}

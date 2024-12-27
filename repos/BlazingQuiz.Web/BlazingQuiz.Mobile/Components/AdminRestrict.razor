@@ -1,0 +1,17 @@
+
+@inject NavigationManager NavigationManager 
+@inject QuizAuthStateProvider AuthStateProvider
+
+@code{
+
+	protected override async Task OnInitializedAsync()
+	{
+
+		await App.Current.MainPage
+		.DisplayAlert("Access Denied","Admins are not allowd for this mobile app","Ok");
+
+		await AuthStateProvider.SetLogoutAsync();
+
+		NavigationManager.NavigateTo("auth/login");
+	}
+}

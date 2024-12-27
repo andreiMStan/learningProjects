@@ -24,7 +24,6 @@ D:\GitProjects\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\staticwebassets.pack.j
 D:\GitProjects\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\staticwebassets.build.json
 D:\GitProjects\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\staticwebassets.development.json
 D:\GitProjects\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\scopedcss\bundle\Thoughtful.Api.styles.css
-D:\GitProjects\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\Thoughtful.Api.csproj.CopyComplete
 D:\GitProjects\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\Thoughtful.Api.dll
 D:\GitProjects\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\refint\Thoughtful.Api.dll
 D:\GitProjects\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\Thoughtful.Api.pdb
@@ -71,3 +70,8 @@ D:\GitProjects\Thoughtful\Thoughtful.Api\bin\Debug\net6.0\AutoMapper.dll
 D:\GitProjects\Thoughtful\Thoughtful.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\GitProjects\Thoughtful\Thoughtful.Api\bin\Debug\net6.0\MediatR.dll
 D:\GitProjects\Thoughtful\Thoughtful.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\GitProjects\Thoughtful\Thoughtful.Api\bin\Debug\net6.0\Thoughtful.Api.staticwebassets.endpoints.json
+D:\GitProjects\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\GitProjects\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\staticwebassets\msbuild.Thoughtful.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\Thoughtf.B0C20A6B.Up2Date

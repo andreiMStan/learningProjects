@@ -25,7 +25,6 @@ D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CR
 D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\staticwebassets.build.json
 D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\staticwebassets.development.json
 D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\scopedcss\bundle\NET 7 - Build CRUD with Web API  EF Core Mohamad.styles.css
-D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj.CopyComplete
 D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.dll
 D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\refint\NET 7 - Build CRUD with Web API  EF Core Mohamad.dll
 D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.pdb
@@ -66,3 +65,8 @@ D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CR
 D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.staticwebassets.endpoints.json
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\staticwebassets\msbuild.NET 7 - Build CRUD with Web API  EF Core Mohamad.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - .F29179F9.Up2Date

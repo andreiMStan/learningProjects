@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Thoughtful.Api\\Thoughtful.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Thoughtful.Domain\\Thoughtful.Domain.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Dal\\Dal.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

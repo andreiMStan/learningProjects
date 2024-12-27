@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Refit.HttpClientFactory" Version="7.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlazingQuiz.Shared.Components\BlazingQuiz.Shared.Components.csproj" />
+    <ProjectReference Include="..\BlazingQuiz.Shared\BlazingQuiz.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

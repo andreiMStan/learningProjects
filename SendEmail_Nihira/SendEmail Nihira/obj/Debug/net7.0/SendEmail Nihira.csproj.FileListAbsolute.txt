@@ -37,3 +37,46 @@ D:\GitProjects\SendEmail Nihira\SendEmail Nihira\obj\Debug\net7.0\refint\SendEma
 D:\GitProjects\SendEmail Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmail Nihira.pdb
 D:\GitProjects\SendEmail Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmail Nihira.genruntimeconfig.cache
 D:\GitProjects\SendEmail Nihira\SendEmail Nihira\obj\Debug\net7.0\ref\SendEmail Nihira.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\appsettings.Development.json
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\appsettings.json
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\SendEmail Nihira.staticwebassets.endpoints.json
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\SendEmail Nihira.exe
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\SendEmail Nihira.deps.json
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\SendEmail Nihira.runtimeconfig.json
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\SendEmail Nihira.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\SendEmail Nihira.pdb
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\MailKit.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\MimeKit.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmail Nihira.csproj.AssemblyReference.cache
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmail Nihira.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmail Nihira.AssemblyInfoInputs.cache
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmail Nihira.AssemblyInfo.cs
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmail Nihira.csproj.CoreCompileInputs.cache
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmail Nihira.MvcApplicationPartsAssemblyInfo.cs
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmail Nihira.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\scopedcss\bundle\SendEmail Nihira.styles.css
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\staticwebassets.build.json
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\staticwebassets.development.json
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\staticwebassets\msbuild.SendEmail Nihira.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\staticwebassets\msbuild.SendEmail Nihira.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\staticwebassets\msbuild.build.SendEmail Nihira.props
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SendEmail Nihira.props
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SendEmail Nihira.props
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmai.6460EAC0.Up2Date
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmail Nihira.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\refint\SendEmail Nihira.dll
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmail Nihira.pdb
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\SendEmail Nihira.genruntimeconfig.cache
+D:\GitProjects\SendEmail_Nihira\SendEmail Nihira\obj\Debug\net7.0\ref\SendEmail Nihira.dll

@@ -24,9 +24,13 @@ D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\staticwebassets.pack.jso
 D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\staticwebassets.build.json
 D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\staticwebassets.development.json
 D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\scopedcss\bundle\Unit Moh.styles.css
-D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\Unit Moh.csproj.CopyComplete
 D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\Unit Moh.dll
 D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\refint\Unit Moh.dll
 D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\Unit Moh.pdb
 D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\Unit Moh.genruntimeconfig.cache
 D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\ref\Unit Moh.dll
+D:\GitProjects\Xunit Mohammad\Unit Moh\bin\Debug\net6.0\Unit Moh.staticwebassets.endpoints.json
+D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\staticwebassets\msbuild.Unit Moh.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\Xunit Mohammad\Unit Moh\obj\Debug\net6.0\Unit Moh.csproj.Up2Date
