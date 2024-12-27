@@ -1,0 +1,15 @@
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\bin\Debug\net7.0\No AutoMapper.exe
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\bin\Debug\net7.0\No AutoMapper.deps.json
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\bin\Debug\net7.0\No AutoMapper.runtimeconfig.json
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\bin\Debug\net7.0\No AutoMapper.dll
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\bin\Debug\net7.0\No AutoMapper.pdb
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\obj\Debug\net7.0\No AutoMapper.csproj.AssemblyReference.cache
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\obj\Debug\net7.0\No AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\obj\Debug\net7.0\No AutoMapper.AssemblyInfoInputs.cache
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\obj\Debug\net7.0\No AutoMapper.AssemblyInfo.cs
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\obj\Debug\net7.0\No AutoMapper.csproj.CoreCompileInputs.cache
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\obj\Debug\net7.0\No AutoMapper.dll
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\obj\Debug\net7.0\refint\No AutoMapper.dll
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\obj\Debug\net7.0\No AutoMapper.pdb
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\obj\Debug\net7.0\No AutoMapper.genruntimeconfig.cache
+D:\GitProjects\AutoMapper Dont use codewrinkles\No AutoMapper\obj\Debug\net7.0\ref\No AutoMapper.dll

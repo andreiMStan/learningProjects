@@ -1,0 +1,15 @@
+D:\GitProjects\LinqExamPrep\LINQPART2\bin\Debug\net6.0\LINQPART2.exe
+D:\GitProjects\LinqExamPrep\LINQPART2\bin\Debug\net6.0\LINQPART2.deps.json
+D:\GitProjects\LinqExamPrep\LINQPART2\bin\Debug\net6.0\LINQPART2.runtimeconfig.json
+D:\GitProjects\LinqExamPrep\LINQPART2\bin\Debug\net6.0\LINQPART2.dll
+D:\GitProjects\LinqExamPrep\LINQPART2\bin\Debug\net6.0\LINQPART2.pdb
+D:\GitProjects\LinqExamPrep\LINQPART2\obj\Debug\net6.0\LINQPART2.csproj.AssemblyReference.cache
+D:\GitProjects\LinqExamPrep\LINQPART2\obj\Debug\net6.0\LINQPART2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\LinqExamPrep\LINQPART2\obj\Debug\net6.0\LINQPART2.AssemblyInfoInputs.cache
+D:\GitProjects\LinqExamPrep\LINQPART2\obj\Debug\net6.0\LINQPART2.AssemblyInfo.cs
+D:\GitProjects\LinqExamPrep\LINQPART2\obj\Debug\net6.0\LINQPART2.csproj.CoreCompileInputs.cache
+D:\GitProjects\LinqExamPrep\LINQPART2\obj\Debug\net6.0\LINQPART2.dll
+D:\GitProjects\LinqExamPrep\LINQPART2\obj\Debug\net6.0\refint\LINQPART2.dll
+D:\GitProjects\LinqExamPrep\LINQPART2\obj\Debug\net6.0\LINQPART2.pdb
+D:\GitProjects\LinqExamPrep\LINQPART2\obj\Debug\net6.0\LINQPART2.genruntimeconfig.cache
+D:\GitProjects\LinqExamPrep\LINQPART2\obj\Debug\net6.0\ref\LINQPART2.dll

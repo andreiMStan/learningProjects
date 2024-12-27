@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Migrations\\20241227000304_LastMI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunGroupMVC teddy\\Migrations\\20241227000304_LastMI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\rungroupmvc teddy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\rungroupmvc teddy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\helpers\\claudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\helpers\\claudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\helpers\\ipinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\helpers\\ipinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967BB25E-79DB-4A75-9FFD-5EE3EE549AAD}|RunGroopWebApp.Test\\RunGroopWebApp.Test.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroopwebapp.test\\controller\\clubcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967BB25E-79DB-4A75-9FFD-5EE3EE549AAD}|RunGroopWebApp.Test\\RunGroopWebApp.Test.csproj|solutionrelative:rungroopwebapp.test\\controller\\clubcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967BB25E-79DB-4A75-9FFD-5EE3EE549AAD}|RunGroopWebApp.Test\\RunGroopWebApp.Test.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroopwebapp.test\\rungroopwebapp.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{967BB25E-79DB-4A75-9FFD-5EE3EE549AAD}|RunGroopWebApp.Test\\RunGroopWebApp.Test.csproj|solutionrelative:rungroopwebapp.test\\rungroopwebapp.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\views\\club\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\views\\club\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\repository\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\repository\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967BB25E-79DB-4A75-9FFD-5EE3EE549AAD}|RunGroopWebApp.Test\\RunGroopWebApp.Test.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroopwebapp.test\\repository\\clubrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967BB25E-79DB-4A75-9FFD-5EE3EE549AAD}|RunGroopWebApp.Test\\RunGroopWebApp.Test.csproj|solutionrelative:rungroopwebapp.test\\repository\\clubrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\viewmodels\\userdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\viewmodels\\userdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\views\\race\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\views\\race\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\views\\user\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\views\\user\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|d:\\onedrive - tus mm\\gitprojects\\rungroupmvc teddy\\rungroupmvc teddy\\views\\dashboard\\edituserprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC92B95F-6174-455B-A9E5-675B5B78926D}|RunGroupMVC teddy\\RunGroupMVC teddy.csproj|solutionrelative:rungroupmvc teddy\\views\\dashboard\\edituserprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 209,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClaudinarySettings.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Helpers\\ClaudinarySettings.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Helpers\\ClaudinarySettings.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Helpers\\ClaudinarySettings.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Helpers\\ClaudinarySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:40:31.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Data\\UserRoles.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Data\\UserRoles.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Data\\UserRoles.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Data\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:35:50.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:34:49.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RunGroupMVC teddy",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\RunGroupMVC teddy.csproj",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\RunGroupMVC teddy.csproj",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\RunGroupMVC teddy.csproj",
+              "RelativeToolTip": "RunGroupMVC teddy\\RunGroupMVC teddy.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T23:34:27.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Data\\Seed.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Data\\Seed.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Data\\Seed.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAYwKMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClubControllerTests.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroopWebApp.Test\\Controller\\ClubControllerTests.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp.Test\\Controller\\ClubControllerTests.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroopWebApp.Test\\Controller\\ClubControllerTests.cs",
+              "RelativeToolTip": "RunGroopWebApp.Test\\Controller\\ClubControllerTests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\appsettings.json",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\appsettings.json",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\appsettings.json",
+              "RelativeToolTip": "RunGroupMVC teddy\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAADtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T23:34:01.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPInfo.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Helpers\\IPInfo.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Helpers\\IPInfo.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Helpers\\IPInfo.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Helpers\\IPInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:40:33.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\Club\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Views\\Club\\Detail.cshtml",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\Club\\Detail.cshtml",
+              "RelativeToolTip": "RunGroupMVC teddy\\Views\\Club\\Detail.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T23:10:57.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClubRepository.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Repository\\ClubRepository.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Repository\\ClubRepository.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Repository\\ClubRepository.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Repository\\ClubRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAABHwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RunGroopWebApp.Test",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroopWebApp.Test\\RunGroopWebApp.Test.csproj",
+              "RelativeDocumentMoniker": "RunGroopWebApp.Test\\RunGroopWebApp.Test.csproj",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroopWebApp.Test\\RunGroopWebApp.Test.csproj",
+              "RelativeToolTip": "RunGroopWebApp.Test\\RunGroopWebApp.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T23:33:43.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Program.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Program.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Program.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:33:52.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\appsettings.Development.json",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\appsettings.Development.json",
+              "RelativeToolTip": "RunGroupMVC teddy\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T23:34:10.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\Race\\Create.cshtml",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Views\\Race\\Create.cshtml",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\Race\\Create.cshtml",
+              "RelativeToolTip": "RunGroupMVC teddy\\Views\\Race\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T23:10:57.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Club.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Models\\Club.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Models\\Club.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Models\\Club.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Models\\Club.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Controllers\\ClubController.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Controllers\\ClubController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Repository\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Repository\\DashboardRepository.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Repository\\DashboardRepository.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Repository\\DashboardRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wCIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClubRepositoryTests.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroopWebApp.Test\\Repository\\ClubRepositoryTests.cs",
+              "RelativeDocumentMoniker": "RunGroopWebApp.Test\\Repository\\ClubRepositoryTests.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroopWebApp.Test\\Repository\\ClubRepositoryTests.cs",
+              "RelativeToolTip": "RunGroopWebApp.Test\\Repository\\ClubRepositoryTests.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAABAwFQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDetailViewModel.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\ViewModels\\UserDetailViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\ViewModels\\UserDetailViewModel.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\ViewModels\\UserDetailViewModel.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\ViewModels\\UserDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Models\\AppUser.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Models\\AppUser.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABHwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Models\\Address.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Models\\Address.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RaceController.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Controllers\\RaceController.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Controllers\\RaceController.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Controllers\\RaceController.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Controllers\\RaceController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAhwCMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAA3wC0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "RunGroupMVC teddy\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAABAwDkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T23:10:57.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:10:57.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\Race\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Views\\Race\\Detail.cshtml",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\Race\\Detail.cshtml",
+              "RelativeToolTip": "RunGroupMVC teddy\\Views\\Race\\Detail.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T23:10:57.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\User\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Views\\User\\Detail.cshtml",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\User\\Detail.cshtml",
+              "RelativeToolTip": "RunGroupMVC teddy\\Views\\User\\Detail.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T23:10:57.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "RunGroupMVC teddy\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T23:10:57.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditUserProfile.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\Dashboard\\EditUserProfile.cshtml",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Views\\Dashboard\\EditUserProfile.cshtml",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Views\\Dashboard\\EditUserProfile.cshtml",
+              "RelativeToolTip": "RunGroupMVC teddy\\Views\\Dashboard\\EditUserProfile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T23:10:57.81Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 151,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241227000304_LastMI.cs",
+              "DocumentMoniker": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Migrations\\20241227000304_LastMI.cs",
+              "RelativeDocumentMoniker": "RunGroupMVC teddy\\Migrations\\20241227000304_LastMI.cs",
+              "ToolTip": "D:\\OneDrive - TUS MM\\GitProjects\\RunGroupMVC teddy\\RunGroupMVC teddy\\Migrations\\20241227000304_LastMI.cs",
+              "RelativeToolTip": "RunGroupMVC teddy\\Migrations\\20241227000304_LastMI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:03:05.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

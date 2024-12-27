@@ -1,0 +1,124 @@
+[
+  {
+    "ContainingType": "FormulaOneApi.Controllers.AchivementsController",
+    "Method": "AddAchivement",
+    "RelativePath": "",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "achivement",
+        "Type": "FormulaOne.Entities.Dtos.Requests.CreateDriverAchivementRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FormulaOneApi.Controllers.AchivementsController",
+    "Method": "GetDriverAchivements",
+    "RelativePath": "{driverId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "driverId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FormulaOneApi.Controllers.AchivementsController",
+    "Method": "UpdateAchivement",
+    "RelativePath": "api/Achivements",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "achivement",
+        "Type": "FormulaOne.Entities.Dtos.Requests.UpdateDriverAchivementsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FormulaOneApi.Controllers.DriverController",
+    "Method": "GetAllDrivers",
+    "RelativePath": "api/Driver",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FormulaOneApi.Controllers.DriverController",
+    "Method": "AddDriver",
+    "RelativePath": "api/Driver",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "driver",
+        "Type": "FormulaOne.Entities.Dtos.Requests.CreateDriverRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FormulaOneApi.Controllers.DriverController",
+    "Method": "UpdateDriver",
+    "RelativePath": "api/Driver",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "driver",
+        "Type": "FormulaOne.Entities.Dtos.Requests.UpdateDriverRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FormulaOneApi.Controllers.DriverController",
+    "Method": "GetDriver",
+    "RelativePath": "api/Driver/{driverId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "driverId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FormulaOneApi.Controllers.DriverController",
+    "Method": "DeleteDriver",
+    "RelativePath": "api/Driver/{driverId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "driverId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

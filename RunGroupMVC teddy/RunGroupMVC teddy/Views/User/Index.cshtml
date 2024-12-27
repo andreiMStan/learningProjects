@@ -1,0 +1,80 @@
+﻿@*@using RunGroupMVC_teddy.ViewModels;
+@model List<UserViewModel>
+
+
+<div class="album py-5 bg-light">
+ <div class="container">
+  <div class="row">
+   @foreach (var item in Model)
+   {
+    <div class="col-md-4">
+     <div class="card mb-4 box-shadow">
+     <img class="card-img-top" src="@item.ProfileImageUrl" width="100%" height="225" alt="Card image cap">
+      <div class="card-body">
+       <p class="card-text">@item.UserName</p>
+       <p class="card-text">Mileage: @item.Milage</p>
+       <p class="card-text">Pace: @item.Pace</p>
+       <div class="d-flex justify-content-between align-items-center">
+        <div class="btn-group">
+         <a type="btn btn-success" asp-controller="User" asp-action="Detail" asp-route-id="@item.Id" class="btn btn-sm btn-outline-secondary">View</a>
+         
+         @if (User.Identity.IsAuthenticated && User.IsInRole("admin"))
+         {
+          <a type="button" asp-controller="User" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-secondary">Edit</a>
+          <a type="button" asp-controller="User" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-secondary">Delete</a>
+         }
+        </div>
+        </div>
+        </div>
+       </div>
+       </div>
+       }
+      </div>
+     </div>
+    </div>
+*@
+
+@using RunGroupMVC_teddy.ViewModels;
+@model List<UserViewModel>
+
+<div class="album py-5 bg-light">
+ <div class="container">
+  <h2 class="fw-light text-center mb-5">User Profiles</h2>
+
+  @if (!Model.Any())
+  {
+   <div class="text-center">
+    <h4 class="fw-light">No user profiles available at the moment. Please check back later.</h4>
+   </div>
+  }
+  else
+  {
+   <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+    @foreach (var item in Model)
+    {
+     <div class="col">
+      <div class="card h-100 shadow-sm">
+       <img src="@item.ProfileImageUrl" class="card-img-top" width="100%" height="225" alt="@item.UserName's profile picture">
+       <div class="card-body">
+        <h5 class="card-title">@item.UserName</h5>
+        <p class="card-text">Mileage: @item.Milage miles</p>
+        <p class="card-text">Pace: @item.Pace min/mile</p>
+        <div class="d-flex justify-content-between align-items-center">
+         <a asp-controller="User" asp-action="Detail" asp-route-id="@item.Id" class="btn btn-success">View Profile</a>
+
+         @if (User.Identity.IsAuthenticated && User.IsInRole("admin"))
+         {
+          <div class="btn-group">
+           <a asp-controller="User" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-warning">Edit</a>
+           <a asp-controller="User" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Delete</a>
+          </div>
+         }
+        </div>
+       </div>
+      </div>
+     </div>
+    }
+   </div>
+  }
+ </div>
+</div>

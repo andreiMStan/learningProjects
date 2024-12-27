@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|d:\\gitprojects\\dotnetapidemo  dotnetapidemo\\dotnetapidemo  dotnetapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|solutionrelative:dotnetapidemo  dotnetapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|d:\\gitprojects\\dotnetapidemo  dotnetapidemo\\dotnetapidemo  dotnetapidemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|solutionrelative:dotnetapidemo  dotnetapidemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|d:\\gitprojects\\dotnetapidemo  dotnetapidemo\\dotnetapidemo  dotnetapidemo\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|solutionrelative:dotnetapidemo  dotnetapidemo\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|d:\\gitprojects\\dotnetapidemo  dotnetapidemo\\dotnetapidemo  dotnetapidemo\\repositories\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|solutionrelative:dotnetapidemo  dotnetapidemo\\repositories\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|d:\\gitprojects\\dotnetapidemo  dotnetapidemo\\dotnetapidemo  dotnetapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|solutionrelative:dotnetapidemo  dotnetapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|d:\\gitprojects\\dotnetapidemo  dotnetapidemo\\dotnetapidemo  dotnetapidemo\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|solutionrelative:dotnetapidemo  dotnetapidemo\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|d:\\gitprojects\\dotnetapidemo  dotnetapidemo\\dotnetapidemo  dotnetapidemo\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|solutionrelative:dotnetapidemo  dotnetapidemo\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|d:\\gitprojects\\dotnetapidemo  dotnetapidemo\\dotnetapidemo  dotnetapidemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|solutionrelative:dotnetapidemo  dotnetapidemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|d:\\gitprojects\\dotnetapidemo  dotnetapidemo\\dotnetapidemo  dotnetapidemo\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B9F5C-6A51-487D-98CE-91ABCB8870B7}|DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo.csproj|solutionrelative:dotnetapidemo  dotnetapidemo\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DotNetApiDemo  DotNetApiDemo\\WeatherForecast.cs",
+              "ToolTip": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\WeatherForecast.cs",
+              "RelativeToolTip": "DotNetApiDemo  DotNetApiDemo\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:17:02.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Repositories\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "DotNetApiDemo  DotNetApiDemo\\Repositories\\IPersonRepository.cs",
+              "ToolTip": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Repositories\\IPersonRepository.cs",
+              "RelativeToolTip": "DotNetApiDemo  DotNetApiDemo\\Repositories\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:16:57.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DotNetApiDemo  DotNetApiDemo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DotNetApiDemo  DotNetApiDemo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:16:47.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "DotNetApiDemo  DotNetApiDemo\\appsettings.json",
+              "ToolTip": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\appsettings.json",
+              "RelativeToolTip": "DotNetApiDemo  DotNetApiDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T12:52:25.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "DotNetApiDemo  DotNetApiDemo\\Models\\ResponseModel.cs",
+              "ToolTip": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Models\\ResponseModel.cs*",
+              "RelativeToolTip": "DotNetApiDemo  DotNetApiDemo\\Models\\ResponseModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:47:51.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "DotNetApiDemo  DotNetApiDemo\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "DotNetApiDemo  DotNetApiDemo\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:43:17.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DotNetApiDemo  DotNetApiDemo\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Program.cs*",
+              "RelativeToolTip": "DotNetApiDemo  DotNetApiDemo\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:41:46.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "DotNetApiDemo  DotNetApiDemo\\Repositories\\PersonRepository.cs",
+              "ToolTip": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "DotNetApiDemo  DotNetApiDemo\\Repositories\\PersonRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:22:16.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "DotNetApiDemo  DotNetApiDemo\\Models\\Person.cs",
+              "ToolTip": "D:\\GitProjects\\DotNetApiDemo  DotNetApiDemo\\DotNetApiDemo  DotNetApiDemo\\Models\\Person.cs*",
+              "RelativeToolTip": "DotNetApiDemo  DotNetApiDemo\\Models\\Person.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:20:00.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

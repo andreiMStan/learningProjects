@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Pf4y5feH/8TmWzKutD5LEVeg1G8BD5FcRBYUcuk9On4=",
+  "Source": "CloudCustomers.Api",
+  "BasePath": "_content/CloudCustomers.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

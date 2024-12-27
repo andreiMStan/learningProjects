@@ -1,0 +1,15 @@
+D:\GitProjects\LinqExamPrep\LinqExamPrep\bin\Debug\net6.0\LinqExamPrep.exe
+D:\GitProjects\LinqExamPrep\LinqExamPrep\bin\Debug\net6.0\LinqExamPrep.deps.json
+D:\GitProjects\LinqExamPrep\LinqExamPrep\bin\Debug\net6.0\LinqExamPrep.runtimeconfig.json
+D:\GitProjects\LinqExamPrep\LinqExamPrep\bin\Debug\net6.0\LinqExamPrep.dll
+D:\GitProjects\LinqExamPrep\LinqExamPrep\bin\Debug\net6.0\LinqExamPrep.pdb
+D:\GitProjects\LinqExamPrep\LinqExamPrep\obj\Debug\net6.0\LinqExamPrep.csproj.AssemblyReference.cache
+D:\GitProjects\LinqExamPrep\LinqExamPrep\obj\Debug\net6.0\LinqExamPrep.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\LinqExamPrep\LinqExamPrep\obj\Debug\net6.0\LinqExamPrep.AssemblyInfoInputs.cache
+D:\GitProjects\LinqExamPrep\LinqExamPrep\obj\Debug\net6.0\LinqExamPrep.AssemblyInfo.cs
+D:\GitProjects\LinqExamPrep\LinqExamPrep\obj\Debug\net6.0\LinqExamPrep.csproj.CoreCompileInputs.cache
+D:\GitProjects\LinqExamPrep\LinqExamPrep\obj\Debug\net6.0\LinqExamPrep.dll
+D:\GitProjects\LinqExamPrep\LinqExamPrep\obj\Debug\net6.0\refint\LinqExamPrep.dll
+D:\GitProjects\LinqExamPrep\LinqExamPrep\obj\Debug\net6.0\LinqExamPrep.pdb
+D:\GitProjects\LinqExamPrep\LinqExamPrep\obj\Debug\net6.0\LinqExamPrep.genruntimeconfig.cache
+D:\GitProjects\LinqExamPrep\LinqExamPrep\obj\Debug\net6.0\ref\LinqExamPrep.dll

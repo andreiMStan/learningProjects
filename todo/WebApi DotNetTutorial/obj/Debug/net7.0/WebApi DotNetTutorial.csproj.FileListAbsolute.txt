@@ -1,0 +1,33 @@
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\WebApi DotNetTutorial.csproj.AssemblyReference.cache
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\WebApi DotNetTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\WebApi DotNetTutorial.AssemblyInfoInputs.cache
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\WebApi DotNetTutorial.AssemblyInfo.cs
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\WebApi DotNetTutorial.csproj.CoreCompileInputs.cache
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\WebApi DotNetTutorial.MvcApplicationPartsAssemblyInfo.cs
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\WebApi DotNetTutorial.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\todo\WebApi DotNetTutorial\bin\Debug\net7.0\appsettings.Development.json
+D:\GitProjects\todo\WebApi DotNetTutorial\bin\Debug\net7.0\appsettings.json
+D:\GitProjects\todo\WebApi DotNetTutorial\bin\Debug\net7.0\WebApi DotNetTutorial.exe
+D:\GitProjects\todo\WebApi DotNetTutorial\bin\Debug\net7.0\WebApi DotNetTutorial.deps.json
+D:\GitProjects\todo\WebApi DotNetTutorial\bin\Debug\net7.0\WebApi DotNetTutorial.runtimeconfig.json
+D:\GitProjects\todo\WebApi DotNetTutorial\bin\Debug\net7.0\WebApi DotNetTutorial.dll
+D:\GitProjects\todo\WebApi DotNetTutorial\bin\Debug\net7.0\WebApi DotNetTutorial.pdb
+D:\GitProjects\todo\WebApi DotNetTutorial\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GitProjects\todo\WebApi DotNetTutorial\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\GitProjects\todo\WebApi DotNetTutorial\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitProjects\todo\WebApi DotNetTutorial\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitProjects\todo\WebApi DotNetTutorial\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\staticwebassets\msbuild.WebApi DotNetTutorial.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi DotNetTutorial.props
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi DotNetTutorial.props
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi DotNetTutorial.props
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\staticwebassets.build.json
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\staticwebassets.development.json
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\scopedcss\bundle\WebApi DotNetTutorial.styles.css
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\WebApi DotNetTutorial.csproj.CopyComplete
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\WebApi DotNetTutorial.dll
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\refint\WebApi DotNetTutorial.dll
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\WebApi DotNetTutorial.pdb
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\WebApi DotNetTutorial.genruntimeconfig.cache
+D:\GitProjects\todo\WebApi DotNetTutorial\obj\Debug\net7.0\ref\WebApi DotNetTutorial.dll

@@ -1,0 +1,14 @@
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\bin\Debug\net6.0\DataStructuresXXAlgoritms.exe
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\bin\Debug\net6.0\DataStructuresXXAlgoritms.deps.json
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\bin\Debug\net6.0\DataStructuresXXAlgoritms.runtimeconfig.json
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\bin\Debug\net6.0\DataStructuresXXAlgoritms.dll
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\bin\Debug\net6.0\DataStructuresXXAlgoritms.pdb
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\obj\Debug\net6.0\DataStructuresXXAlgoritms.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\obj\Debug\net6.0\DataStructuresXXAlgoritms.AssemblyInfoInputs.cache
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\obj\Debug\net6.0\DataStructuresXXAlgoritms.AssemblyInfo.cs
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\obj\Debug\net6.0\DataStructuresXXAlgoritms.csproj.CoreCompileInputs.cache
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\obj\Debug\net6.0\DataStructuresXXAlgoritms.dll
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\obj\Debug\net6.0\refint\DataStructuresXXAlgoritms.dll
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\obj\Debug\net6.0\DataStructuresXXAlgoritms.pdb
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\obj\Debug\net6.0\DataStructuresXXAlgoritms.genruntimeconfig.cache
+D:\GitProjects\DataStructuresXXAlgoritms\DataStructuresXXAlgoritms\obj\Debug\net6.0\ref\DataStructuresXXAlgoritms.dll

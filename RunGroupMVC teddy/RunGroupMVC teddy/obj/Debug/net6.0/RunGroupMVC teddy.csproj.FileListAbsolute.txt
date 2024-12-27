@@ -1,0 +1,216 @@
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\appsettings.Development.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\appsettings.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.staticwebassets.runtime.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.exe
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.deps.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.runtimeconfig.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.pdb
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.csproj.AssemblyReference.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.AssemblyInfoInputs.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.AssemblyInfo.cs
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.csproj.CoreCompileInputs.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.RazorAssemblyInfo.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.RazorAssemblyInfo.cs
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets\msbuild.RunGroupMVC teddy.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets\msbuild.build.RunGroupMVC teddy.props
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RunGroupMVC teddy.props
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RunGroupMVC teddy.props
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\scopedcss\bundle\RunGroupMVC teddy.styles.css
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\scopedcss\projectbundle\RunGroupMVC teddy.bundle.scp.css
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\refint\RunGroupMVC teddy.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.pdb
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.genruntimeconfig.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\ref\RunGroupMVC teddy.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Humanizer.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.csproj.CopyComplete
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\appsettings.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\RunGroupMVC teddy.staticwebassets.runtime.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\RunGroupMVC teddy.exe
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\RunGroupMVC teddy.deps.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\RunGroupMVC teddy.runtimeconfig.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\RunGroupMVC teddy.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\RunGroupMVC teddy.pdb
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Humanizer.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\RunGroupMVC teddy.csproj.AssemblyReference.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\RunGroupMVC teddy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\RunGroupMVC teddy.AssemblyInfoInputs.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\RunGroupMVC teddy.AssemblyInfo.cs
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\RunGroupMVC teddy.csproj.CoreCompileInputs.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\RunGroupMVC teddy.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\RunGroupMVC teddy.RazorAssemblyInfo.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\RunGroupMVC teddy.RazorAssemblyInfo.cs
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\staticwebassets\msbuild.RunGroupMVC teddy.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.RunGroupMVC teddy.props
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RunGroupMVC teddy.props
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RunGroupMVC teddy.props
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\scopedcss\bundle\RunGroupMVC teddy.styles.css
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\scopedcss\projectbundle\RunGroupMVC teddy.bundle.scp.css
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\RunGroupMVC teddy.csproj.CopyComplete
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\RunGroupMVC teddy.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\refint\RunGroupMVC teddy.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\RunGroupMVC teddy.pdb
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\RunGroupMVC teddy.genruntimeconfig.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC\obj\Debug\net6.0\ref\RunGroupMVC teddy.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\CloudinaryDotNet.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\appsettings.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.staticwebassets.runtime.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.staticwebassets.endpoints.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.exe
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.deps.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.runtimeconfig.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\RunGroupMVC teddy.pdb
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\CloudinaryDotNet.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Humanizer.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.csproj.AssemblyReference.cache
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.AssemblyInfoInputs.cache
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.AssemblyInfo.cs
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.csproj.CoreCompileInputs.cache
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.RazorAssemblyInfo.cache
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.RazorAssemblyInfo.cs
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\scopedcss\bundle\RunGroupMVC teddy.styles.css
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\scopedcss\projectbundle\RunGroupMVC teddy.bundle.scp.css
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets\msbuild.RunGroupMVC teddy.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets\msbuild.RunGroupMVC teddy.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets\msbuild.build.RunGroupMVC teddy.props
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RunGroupMVC teddy.props
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RunGroupMVC teddy.props
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroup.59FF698C.Up2Date
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\refint\RunGroupMVC teddy.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.pdb
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\RunGroupMVC teddy.genruntimeconfig.cache
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroupMVC teddy\obj\Debug\net6.0\ref\RunGroupMVC teddy.dll

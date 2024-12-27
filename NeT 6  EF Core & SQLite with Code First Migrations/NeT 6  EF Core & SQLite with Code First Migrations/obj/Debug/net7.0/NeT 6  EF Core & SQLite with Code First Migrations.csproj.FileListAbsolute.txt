@@ -1,0 +1,59 @@
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\appsettings.Development.json
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\appsettings.json
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.exe
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.deps.json
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.runtimeconfig.json
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.pdb
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Humanizer.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.csproj.AssemblyReference.cache
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.AssemblyInfoInputs.cache
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.AssemblyInfo.cs
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.csproj.CoreCompileInputs.cache
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.MvcApplicationPartsAssemblyInfo.cs
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\staticwebassets\msbuild.NeT 6  EF Core & SQLite with Code First Migrations.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\staticwebassets\msbuild.build.NeT 6  EF Core & SQLite with Code First Migrations.props
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NeT 6  EF Core & SQLite with Code First Migrations.props
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NeT 6  EF Core & SQLite with Code First Migrations.props
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\staticwebassets.build.json
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\staticwebassets.development.json
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\scopedcss\bundle\NeT 6  EF Core & SQLite with Code First Migrations.styles.css
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.csproj.CopyComplete
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\refint\NeT 6  EF Core & SQLite with Code First Migrations.dll
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.pdb
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\NeT 6  EF Core & SQLite with Code First Migrations.genruntimeconfig.cache
+D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\obj\Debug\net7.0\ref\NeT 6  EF Core & SQLite with Code First Migrations.dll

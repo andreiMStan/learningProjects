@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RunGroupMVC teddy.props" />
+</Project>

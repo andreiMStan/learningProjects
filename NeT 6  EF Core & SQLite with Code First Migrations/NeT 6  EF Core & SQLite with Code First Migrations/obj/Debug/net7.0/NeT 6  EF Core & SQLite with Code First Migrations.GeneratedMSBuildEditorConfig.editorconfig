@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NeT_6__EF_Core___SQLite_with_Code_First_Migrations
+build_property.RootNamespace = NeT_6__EF_Core___SQLite_with_Code_First_Migrations
+build_property.ProjectDir = D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\GitProjects\NeT 6  EF Core & SQLite with Code First Migrations\NeT 6  EF Core & SQLite with Code First Migrations
+build_property._RazorSourceGeneratorDebug = 

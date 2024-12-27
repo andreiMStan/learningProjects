@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NET 7 - Build CRUD with Web API  EF Core Mohamad.props" />
+</Project>

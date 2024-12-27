@@ -1,0 +1,15 @@
+D:\GitProjects\Hooboo\Hooboo\bin\Debug\net6.0\Hooboo.exe
+D:\GitProjects\Hooboo\Hooboo\bin\Debug\net6.0\Hooboo.deps.json
+D:\GitProjects\Hooboo\Hooboo\bin\Debug\net6.0\Hooboo.runtimeconfig.json
+D:\GitProjects\Hooboo\Hooboo\bin\Debug\net6.0\Hooboo.dll
+D:\GitProjects\Hooboo\Hooboo\bin\Debug\net6.0\Hooboo.pdb
+D:\GitProjects\Hooboo\Hooboo\obj\Debug\net6.0\Hooboo.csproj.AssemblyReference.cache
+D:\GitProjects\Hooboo\Hooboo\obj\Debug\net6.0\Hooboo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\Hooboo\Hooboo\obj\Debug\net6.0\Hooboo.AssemblyInfoInputs.cache
+D:\GitProjects\Hooboo\Hooboo\obj\Debug\net6.0\Hooboo.AssemblyInfo.cs
+D:\GitProjects\Hooboo\Hooboo\obj\Debug\net6.0\Hooboo.csproj.CoreCompileInputs.cache
+D:\GitProjects\Hooboo\Hooboo\obj\Debug\net6.0\Hooboo.dll
+D:\GitProjects\Hooboo\Hooboo\obj\Debug\net6.0\refint\Hooboo.dll
+D:\GitProjects\Hooboo\Hooboo\obj\Debug\net6.0\Hooboo.pdb
+D:\GitProjects\Hooboo\Hooboo\obj\Debug\net6.0\Hooboo.genruntimeconfig.cache
+D:\GitProjects\Hooboo\Hooboo\obj\Debug\net6.0\ref\Hooboo.dll

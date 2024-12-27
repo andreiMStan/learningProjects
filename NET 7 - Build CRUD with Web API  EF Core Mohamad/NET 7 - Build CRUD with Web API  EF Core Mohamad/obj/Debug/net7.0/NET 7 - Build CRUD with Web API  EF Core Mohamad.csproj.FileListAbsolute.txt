@@ -1,0 +1,68 @@
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\appsettings.Development.json
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\appsettings.json
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.exe
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.deps.json
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.runtimeconfig.json
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.pdb
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj.AssemblyReference.cache
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.AssemblyInfoInputs.cache
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.AssemblyInfo.cs
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj.CoreCompileInputs.cache
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.MvcApplicationPartsAssemblyInfo.cs
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\staticwebassets\msbuild.NET 7 - Build CRUD with Web API  EF Core Mohamad.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\staticwebassets\msbuild.build.NET 7 - Build CRUD with Web API  EF Core Mohamad.props
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NET 7 - Build CRUD with Web API  EF Core Mohamad.props
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NET 7 - Build CRUD with Web API  EF Core Mohamad.props
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\staticwebassets.build.json
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\staticwebassets.development.json
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\scopedcss\bundle\NET 7 - Build CRUD with Web API  EF Core Mohamad.styles.css
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.csproj.CopyComplete
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\refint\NET 7 - Build CRUD with Web API  EF Core Mohamad.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.pdb
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\NET 7 - Build CRUD with Web API  EF Core Mohamad.genruntimeconfig.cache
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\obj\Debug\net7.0\ref\NET 7 - Build CRUD with Web API  EF Core Mohamad.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Humanizer.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\System.CodeDom.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\GitProjects\NET 7 - Build CRUD with Web API  EF Core Mohamad\NET 7 - Build CRUD with Web API  EF Core Mohamad\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll

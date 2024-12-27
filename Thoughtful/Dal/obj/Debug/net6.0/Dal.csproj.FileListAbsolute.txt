@@ -1,0 +1,17 @@
+D:\GitProjects\Thoughtful\Dal\bin\Debug\net6.0\Dal.deps.json
+D:\GitProjects\Thoughtful\Dal\bin\Debug\net6.0\Dal.runtimeconfig.json
+D:\GitProjects\Thoughtful\Dal\bin\Debug\net6.0\Dal.dll
+D:\GitProjects\Thoughtful\Dal\bin\Debug\net6.0\Dal.pdb
+D:\GitProjects\Thoughtful\Dal\bin\Debug\net6.0\Thoughtful.Domain.dll
+D:\GitProjects\Thoughtful\Dal\bin\Debug\net6.0\Thoughtful.Domain.pdb
+D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.dll
+D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\refint\Dal.dll
+D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.pdb
+D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\Dal.genruntimeconfig.cache
+D:\GitProjects\Thoughtful\Dal\obj\Debug\net6.0\ref\Dal.dll

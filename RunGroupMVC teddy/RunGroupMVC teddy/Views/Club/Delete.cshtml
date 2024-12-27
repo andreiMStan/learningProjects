@@ -1,0 +1,119 @@
+﻿@*@using RunGroupMVC_teddy.Data.Enum;
+@using RunGroupMVC_teddy.ViewModels;
+@model Club
+
+<h1>Are you sure you want to delete this club ?</h1>
+
+<form method="post" asp-action="Delete" enctype="multipart/form-data">
+ <input type="hidden" value="AddressId" id="AddressId" />
+ <div class="form-group">
+  <label asp-for="Title">Title</label>
+  <input asp-for="Title" class="form-control" placeholder="Enter Title">
+  <span asp-validation-for="Title" class="text-danger"></span>
+ </div>
+ <div class="form-group">
+  <label asp-for="Description">Description</label>
+  <input asp-for="Description" class="form-control" placeholder="Enter Description">
+  <span asp-validation-for="Description" class="text-danger"></span>
+ </div>
+
+ <div class="form-group">
+  <label asp-for="ClubCategory">ClubCategory</label>
+  <option>--Select--</option>
+  <select asp-for="ClubCategory" asp-items="@Html.GetEnumSelectList<ClubCategory>()" class="form-control"></select>
+  <span asp-validation-for="ClubCategory" class="text-danger"></span>
+ </div>
+ <div class="form-group">
+  <label asp-for="Address.Street">Street</label>
+  <input asp-for="Address.Street" class="form-control" placeholder="Enter Street">
+  <span asp-validation-for="Address.Street" class="text-danger"></span>
+ </div>
+ <div class="form-group">
+  <label asp-for="Address.City">Street</label>
+  <input asp-for="Address.City" class="form-control" placeholder="Enter City">
+  <span asp-validation-for="Address.City" class="text-danger"></span>
+ </div>
+ <div class="form-group">
+  <label asp-for="Address.State">State</label>
+  <input asp-for="Address.State" class="form-control" placeholder="Enter State">
+  <span asp-validation-for="Address.State" class="text-danger"></span>
+ </div>
+ <div class="form-group">
+  <label asp-for="Image">Image</label>
+  <input asp-for="Image" type="file" class="form-control" placeholder="Enter Image">
+  <span asp-validation-for="Image" class="text-danger"></span>
+ </div>
+
+ <div class="form-group">
+     <form action="Delete" method="post">
+         <input type="hidden" asp-for="Id" />
+         <input type="Submit" value="Confirm" class="btn btn-danger float-right mt-3"/>
+
+     </form>
+
+ </div>
+
+
+</form>*@
+
+
+@using RunGroupMVC_teddy.Data.Enum;
+@using RunGroupMVC_teddy.ViewModels;
+@model Club
+
+<div class="container my-5">
+ <h1 class="text-danger mb-4">Are you sure you want to delete this club?</h1>
+
+ <div class="alert alert-warning" role="alert">
+  This action cannot be undone. Please confirm if you want to permanently delete the following club details.
+ </div>
+
+ <form method="post" asp-action="Delete" enctype="multipart/form-data">
+  <input type="hidden" asp-for="Id" />
+
+  <div class="form-group mb-3">
+   <label asp-for="Title" class="form-label">Title</label>
+   <input asp-for="Title" class="form-control" readonly />
+  </div>
+
+  <div class="form-group mb-3">
+   <label asp-for="Description" class="form-label">Description</label>
+   <textarea asp-for="Description" class="form-control" rows="3" readonly></textarea>
+  </div>
+
+  <div class="form-group mb-3">
+   <label asp-for="ClubCategory" class="form-label">Club Category</label>
+   <select asp-for="ClubCategory" asp-items="@Html.GetEnumSelectList<ClubCategory>()" class="form-control" disabled>
+    <option>--Select--</option>
+   </select>
+  </div>
+
+  <div class="form-group mb-3">
+   <label asp-for="Address.Street" class="form-label">Street</label>
+   <input asp-for="Address.Street" class="form-control" readonly />
+  </div>
+
+  <div class="form-group mb-3">
+   <label asp-for="Address.City" class="form-label">City</label>
+   <input asp-for="Address.City" class="form-control" readonly />
+  </div>
+
+  <div class="form-group mb-3">
+   <label asp-for="Address.State" class="form-label">State</label>
+   <input asp-for="Address.State" class="form-control" readonly />
+  </div>
+
+  <div class="form-group mb-3">
+   <label asp-for="Image" class="form-label">Club Image</label>
+   <div>
+    <img src="@Model.Image" alt="Club Image" class="img-fluid rounded mb-2" width="200" height="100" />
+   </div>
+   <input asp-for="Image" type="file" class="form-control" readonly disabled />
+  </div>
+
+  <div class="d-flex justify-content-end">
+   <a asp-action="Index" class="btn btn-secondary me-2">Cancel</a>
+   <button type="submit" class="btn btn-danger">Confirm Delete</button>
+  </div>
+ </form>
+</div>

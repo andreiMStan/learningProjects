@@ -1,0 +1,77 @@
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\appsettings.Development.json
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\appsettings.json
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\WeblearnApi Nihira.exe
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\WeblearnApi Nihira.deps.json
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\WeblearnApi Nihira.runtimeconfig.json
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\WeblearnApi Nihira.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\WeblearnApi Nihira.pdb
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Azure.Core.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Azure.Identity.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Humanizer.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\System.CodeDom.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\System.Memory.Data.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi Nihira.csproj.AssemblyReference.cache
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi Nihira.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi Nihira.AssemblyInfoInputs.cache
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi Nihira.AssemblyInfo.cs
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi Nihira.csproj.CoreCompileInputs.cache
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi Nihira.MvcApplicationPartsAssemblyInfo.cs
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi Nihira.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebassets\msbuild.WeblearnApi Nihira.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebassets\msbuild.build.WeblearnApi Nihira.props
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WeblearnApi Nihira.props
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WeblearnApi Nihira.props
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebassets.build.json
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\staticwebassets.development.json
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\scopedcss\bundle\WeblearnApi Nihira.styles.css
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi Nihira.csproj.CopyComplete
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi Nihira.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\refint\WeblearnApi Nihira.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi Nihira.pdb
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\WeblearnApi Nihira.genruntimeconfig.cache
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\obj\Debug\net7.0\ref\WeblearnApi Nihira.dll
+D:\GitProjects\SendEmail Nihira\WeblearnApi Nihira\bin\Debug\net7.0\AutoMapper.dll

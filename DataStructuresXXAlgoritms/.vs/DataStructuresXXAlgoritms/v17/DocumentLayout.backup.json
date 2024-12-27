@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\DataStructuresXXAlgoritms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{464F5CDE-6DE4-46C1-A54F-060DC3AB3CB2}|DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms.csproj|d:\\gitprojects\\datastructuresxxalgoritms\\datastructuresxxalgoritms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464F5CDE-6DE4-46C1-A54F-060DC3AB3CB2}|DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms.csproj|solutionrelative:datastructuresxxalgoritms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464F5CDE-6DE4-46C1-A54F-060DC3AB3CB2}|DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms.csproj|d:\\gitprojects\\datastructuresxxalgoritms\\datastructuresxxalgoritms\\binarytree\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464F5CDE-6DE4-46C1-A54F-060DC3AB3CB2}|DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms.csproj|solutionrelative:datastructuresxxalgoritms\\binarytree\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464F5CDE-6DE4-46C1-A54F-060DC3AB3CB2}|DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms.csproj|d:\\gitprojects\\datastructuresxxalgoritms\\datastructuresxxalgoritms\\hashtables\\hashtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464F5CDE-6DE4-46C1-A54F-060DC3AB3CB2}|DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms.csproj|solutionrelative:datastructuresxxalgoritms\\hashtables\\hashtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464F5CDE-6DE4-46C1-A54F-060DC3AB3CB2}|DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms.csproj|d:\\gitprojects\\datastructuresxxalgoritms\\datastructuresxxalgoritms\\recursion\\recursivefactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464F5CDE-6DE4-46C1-A54F-060DC3AB3CB2}|DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms.csproj|solutionrelative:datastructuresxxalgoritms\\recursion\\recursivefactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "D:\\GitProjects\\DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms\\BinaryTree\\TreeNode.cs",
+              "RelativeDocumentMoniker": "DataStructuresXXAlgoritms\\BinaryTree\\TreeNode.cs",
+              "ToolTip": "D:\\GitProjects\\DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms\\BinaryTree\\TreeNode.cs",
+              "RelativeToolTip": "DataStructuresXXAlgoritms\\BinaryTree\\TreeNode.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:24:18.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms\\Program.cs",
+              "RelativeDocumentMoniker": "DataStructuresXXAlgoritms\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms\\Program.cs",
+              "RelativeToolTip": "DataStructuresXXAlgoritms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:47:24.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HashTables.cs",
+              "DocumentMoniker": "D:\\GitProjects\\DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms\\HashTables\\HashTables.cs",
+              "RelativeDocumentMoniker": "DataStructuresXXAlgoritms\\HashTables\\HashTables.cs",
+              "ToolTip": "D:\\GitProjects\\DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms\\HashTables\\HashTables.cs",
+              "RelativeToolTip": "DataStructuresXXAlgoritms\\HashTables\\HashTables.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAxwBQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:37:47.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecursiveFactorial.cs",
+              "DocumentMoniker": "D:\\GitProjects\\DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms\\Recursion\\RecursiveFactorial.cs",
+              "RelativeDocumentMoniker": "DataStructuresXXAlgoritms\\Recursion\\RecursiveFactorial.cs",
+              "ToolTip": "D:\\GitProjects\\DataStructuresXXAlgoritms\\DataStructuresXXAlgoritms\\Recursion\\RecursiveFactorial.cs",
+              "RelativeToolTip": "DataStructuresXXAlgoritms\\Recursion\\RecursiveFactorial.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAMBFwCkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T17:11:01.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

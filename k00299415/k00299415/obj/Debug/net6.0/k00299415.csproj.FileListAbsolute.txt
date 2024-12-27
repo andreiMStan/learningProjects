@@ -1,0 +1,15 @@
+D:\GitProjects\k00299415\k00299415\bin\Debug\net6.0\k00299415.exe
+D:\GitProjects\k00299415\k00299415\bin\Debug\net6.0\k00299415.deps.json
+D:\GitProjects\k00299415\k00299415\bin\Debug\net6.0\k00299415.runtimeconfig.json
+D:\GitProjects\k00299415\k00299415\bin\Debug\net6.0\k00299415.dll
+D:\GitProjects\k00299415\k00299415\bin\Debug\net6.0\k00299415.pdb
+D:\GitProjects\k00299415\k00299415\obj\Debug\net6.0\k00299415.csproj.AssemblyReference.cache
+D:\GitProjects\k00299415\k00299415\obj\Debug\net6.0\k00299415.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\k00299415\k00299415\obj\Debug\net6.0\k00299415.AssemblyInfoInputs.cache
+D:\GitProjects\k00299415\k00299415\obj\Debug\net6.0\k00299415.AssemblyInfo.cs
+D:\GitProjects\k00299415\k00299415\obj\Debug\net6.0\k00299415.csproj.CoreCompileInputs.cache
+D:\GitProjects\k00299415\k00299415\obj\Debug\net6.0\k00299415.dll
+D:\GitProjects\k00299415\k00299415\obj\Debug\net6.0\refint\k00299415.dll
+D:\GitProjects\k00299415\k00299415\obj\Debug\net6.0\k00299415.pdb
+D:\GitProjects\k00299415\k00299415\obj\Debug\net6.0\k00299415.genruntimeconfig.cache
+D:\GitProjects\k00299415\k00299415\obj\Debug\net6.0\ref\k00299415.dll

@@ -1,0 +1,14 @@
+D:\GitProjects\anot\anot\bin\Debug\net6.0\anot.exe
+D:\GitProjects\anot\anot\bin\Debug\net6.0\anot.deps.json
+D:\GitProjects\anot\anot\bin\Debug\net6.0\anot.runtimeconfig.json
+D:\GitProjects\anot\anot\bin\Debug\net6.0\anot.dll
+D:\GitProjects\anot\anot\bin\Debug\net6.0\anot.pdb
+D:\GitProjects\anot\anot\obj\Debug\net6.0\anot.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\anot\anot\obj\Debug\net6.0\anot.AssemblyInfoInputs.cache
+D:\GitProjects\anot\anot\obj\Debug\net6.0\anot.AssemblyInfo.cs
+D:\GitProjects\anot\anot\obj\Debug\net6.0\anot.csproj.CoreCompileInputs.cache
+D:\GitProjects\anot\anot\obj\Debug\net6.0\anot.dll
+D:\GitProjects\anot\anot\obj\Debug\net6.0\refint\anot.dll
+D:\GitProjects\anot\anot\obj\Debug\net6.0\anot.pdb
+D:\GitProjects\anot\anot\obj\Debug\net6.0\anot.genruntimeconfig.cache
+D:\GitProjects\anot\anot\obj\Debug\net6.0\ref\anot.dll

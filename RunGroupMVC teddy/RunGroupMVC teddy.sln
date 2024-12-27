@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunGroupMVC teddy", "RunGroupMVC teddy\RunGroupMVC teddy.csproj", "{AC92B95F-6174-455B-A9E5-675B5B78926D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunGroopWebApp.Test", "RunGroopWebApp.Test\RunGroopWebApp.Test.csproj", "{967BB25E-79DB-4A75-9FFD-5EE3EE549AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC92B95F-6174-455B-A9E5-675B5B78926D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC92B95F-6174-455B-A9E5-675B5B78926D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC92B95F-6174-455B-A9E5-675B5B78926D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC92B95F-6174-455B-A9E5-675B5B78926D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967BB25E-79DB-4A75-9FFD-5EE3EE549AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967BB25E-79DB-4A75-9FFD-5EE3EE549AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967BB25E-79DB-4A75-9FFD-5EE3EE549AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967BB25E-79DB-4A75-9FFD-5EE3EE549AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA09113D-0D9D-4265-8AB5-44ED98B659E7}
+	EndGlobalSection
+EndGlobal

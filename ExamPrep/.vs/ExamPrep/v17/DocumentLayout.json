@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\ExamPrep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|d:\\gitprojects\\examprep\\examprep\\written.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|solutionrelative:examprep\\written.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|d:\\gitprojects\\examprep\\examprep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|solutionrelative:examprep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|d:\\gitprojects\\examprep\\examprep\\proctored.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|solutionrelative:examprep\\proctored.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|d:\\gitprojects\\examprep\\examprep\\oral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|solutionrelative:examprep\\oral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|d:\\gitprojects\\examprep\\examprep\\online.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|solutionrelative:examprep\\online.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|d:\\gitprojects\\examprep\\examprep\\iautomated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|solutionrelative:examprep\\iautomated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|d:\\gitprojects\\examprep\\examprep\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|solutionrelative:examprep\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|d:\\gitprojects\\examprep\\examprep\\openbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F4CAE1-2FBB-43BF-8276-29FF6B819203}|ExamPrep\\ExamPrep.csproj|solutionrelative:examprep\\openbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAutomated.cs",
+              "DocumentMoniker": "D:\\GitProjects\\ExamPrep\\ExamPrep\\IAutomated.cs",
+              "RelativeDocumentMoniker": "ExamPrep\\IAutomated.cs",
+              "ToolTip": "D:\\GitProjects\\ExamPrep\\ExamPrep\\IAutomated.cs",
+              "RelativeToolTip": "ExamPrep\\IAutomated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:09:18.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\GitProjects\\ExamPrep\\ExamPrep\\Exam.cs",
+              "RelativeDocumentMoniker": "ExamPrep\\Exam.cs",
+              "ToolTip": "D:\\GitProjects\\ExamPrep\\ExamPrep\\Exam.cs",
+              "RelativeToolTip": "ExamPrep\\Exam.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:01:50.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Online.cs",
+              "DocumentMoniker": "D:\\GitProjects\\ExamPrep\\ExamPrep\\Online.cs",
+              "RelativeDocumentMoniker": "ExamPrep\\Online.cs",
+              "ToolTip": "D:\\GitProjects\\ExamPrep\\ExamPrep\\Online.cs",
+              "RelativeToolTip": "ExamPrep\\Online.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:05:38.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\ExamPrep\\ExamPrep\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPrep\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\ExamPrep\\ExamPrep\\Program.cs",
+              "RelativeToolTip": "ExamPrep\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:34:22.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oral.cs",
+              "DocumentMoniker": "D:\\GitProjects\\ExamPrep\\ExamPrep\\Oral.cs",
+              "RelativeDocumentMoniker": "ExamPrep\\Oral.cs",
+              "ToolTip": "D:\\GitProjects\\ExamPrep\\ExamPrep\\Oral.cs",
+              "RelativeToolTip": "ExamPrep\\Oral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:12:11.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OpenBook.cs",
+              "DocumentMoniker": "D:\\GitProjects\\ExamPrep\\ExamPrep\\OpenBook.cs",
+              "RelativeDocumentMoniker": "ExamPrep\\OpenBook.cs",
+              "ToolTip": "D:\\GitProjects\\ExamPrep\\ExamPrep\\OpenBook.cs",
+              "RelativeToolTip": "ExamPrep\\OpenBook.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:08:09.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proctored.cs",
+              "DocumentMoniker": "D:\\GitProjects\\ExamPrep\\ExamPrep\\Proctored.cs",
+              "RelativeDocumentMoniker": "ExamPrep\\Proctored.cs",
+              "ToolTip": "D:\\GitProjects\\ExamPrep\\ExamPrep\\Proctored.cs",
+              "RelativeToolTip": "ExamPrep\\Proctored.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:06:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Written.cs",
+              "DocumentMoniker": "D:\\GitProjects\\ExamPrep\\ExamPrep\\Written.cs",
+              "RelativeDocumentMoniker": "ExamPrep\\Written.cs",
+              "ToolTip": "D:\\GitProjects\\ExamPrep\\ExamPrep\\Written.cs",
+              "RelativeToolTip": "ExamPrep\\Written.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:11:17.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

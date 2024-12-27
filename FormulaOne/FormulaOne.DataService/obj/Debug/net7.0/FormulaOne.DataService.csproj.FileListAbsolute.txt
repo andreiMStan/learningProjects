@@ -1,0 +1,17 @@
+D:\GitProjects\FormulaOne\FormulaOne.DataService\bin\Debug\net7.0\FormulaOne.DataService.deps.json
+D:\GitProjects\FormulaOne\FormulaOne.DataService\bin\Debug\net7.0\FormulaOne.DataService.runtimeconfig.json
+D:\GitProjects\FormulaOne\FormulaOne.DataService\bin\Debug\net7.0\FormulaOne.DataService.dll
+D:\GitProjects\FormulaOne\FormulaOne.DataService\bin\Debug\net7.0\FormulaOne.DataService.pdb
+D:\GitProjects\FormulaOne\FormulaOne.DataService\bin\Debug\net7.0\FormulaOne.Entities.dll
+D:\GitProjects\FormulaOne\FormulaOne.DataService\bin\Debug\net7.0\FormulaOne.Entities.pdb
+D:\GitProjects\FormulaOne\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.csproj.AssemblyReference.cache
+D:\GitProjects\FormulaOne\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\FormulaOne\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.AssemblyInfoInputs.cache
+D:\GitProjects\FormulaOne\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.AssemblyInfo.cs
+D:\GitProjects\FormulaOne\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.csproj.CoreCompileInputs.cache
+D:\GitProjects\FormulaOne\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.dll
+D:\GitProjects\FormulaOne\FormulaOne.DataService\obj\Debug\net7.0\refint\FormulaOne.DataService.dll
+D:\GitProjects\FormulaOne\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.pdb
+D:\GitProjects\FormulaOne\FormulaOne.DataService\obj\Debug\net7.0\FormulaOne.DataService.genruntimeconfig.cache
+D:\GitProjects\FormulaOne\FormulaOne.DataService\obj\Debug\net7.0\ref\FormulaOne.DataService.dll
+D:\GitProjects\FormulaOne\FormulaOne.DataService\obj\Debug\net7.0\FormulaO.1F042CB4.Up2Date

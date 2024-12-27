@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CloudCustomers.Api.Controllers.UsersController",
+    "Method": "Get",
+    "RelativePath": "Users/GetUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

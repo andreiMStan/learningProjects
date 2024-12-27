@@ -1,0 +1,12 @@
+D:\GitProjects\FormulaOne\FormulaOne.Entities\bin\Debug\net7.0\FormulaOne.Entities.deps.json
+D:\GitProjects\FormulaOne\FormulaOne.Entities\bin\Debug\net7.0\FormulaOne.Entities.dll
+D:\GitProjects\FormulaOne\FormulaOne.Entities\bin\Debug\net7.0\FormulaOne.Entities.pdb
+D:\GitProjects\FormulaOne\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.csproj.AssemblyReference.cache
+D:\GitProjects\FormulaOne\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\FormulaOne\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.AssemblyInfoInputs.cache
+D:\GitProjects\FormulaOne\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.AssemblyInfo.cs
+D:\GitProjects\FormulaOne\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.csproj.CoreCompileInputs.cache
+D:\GitProjects\FormulaOne\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.dll
+D:\GitProjects\FormulaOne\FormulaOne.Entities\obj\Debug\net7.0\refint\FormulaOne.Entities.dll
+D:\GitProjects\FormulaOne\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.pdb
+D:\GitProjects\FormulaOne\FormulaOne.Entities\obj\Debug\net7.0\ref\FormulaOne.Entities.dll

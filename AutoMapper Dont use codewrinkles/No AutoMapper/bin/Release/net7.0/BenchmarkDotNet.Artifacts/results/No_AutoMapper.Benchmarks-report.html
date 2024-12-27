@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>No_AutoMapper.Benchmarks-20240703-232216</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.13.12, Windows 10 (10.0.19045.4529/22H2/2022Update)
+Intel Core i5-7200U CPU 2.50GHz (Kaby Lake), 1 CPU, 4 logical and 2 physical cores
+.NET SDK 7.0.203
+  [Host]     : .NET 7.0.5 (7.0.523.17405), X64 RyuJIT AVX2 [AttachedDebugger]
+  DefaultJob : .NET 7.0.5 (7.0.523.17405), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method          </th><th>NumberOfElements</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th>
+</tr>
+</thead><tbody><tr><td>With_AutoMapper</td><td>10</td><td>2.055 &mu;s</td><td>0.0314 &mu;s</td><td>0.0293 &mu;s</td><td>2.048 &mu;s</td>
+</tr><tr><td>With_Direct_Assignemet</td><td>10</td><td>1.087 &mu;s</td><td>0.0652 &mu;s</td><td>0.1902 &mu;s</td><td>1.005 &mu;s</td>
+</tr><tr><td>With_AutoMapper</td><td>100</td><td>20.663 &mu;s</td><td>0.4073 &mu;s</td><td>0.4182 &mu;s</td><td>20.598 &mu;s</td>
+</tr><tr><td>With_AutoMapper</td><td>100</td><td>24.801 &mu;s</td><td>1.0530 &mu;s</td><td>3.0381 &mu;s</td><td>24.401 &mu;s</td>
+</tr><tr><td>With_Direct_Assignemet</td><td>100</td><td>11.205 &mu;s</td><td>0.2069 &mu;s</td><td>0.2463 &mu;s</td><td>11.232 &mu;s</td>
+</tr><tr><td>With_Direct_Assignemet</td><td>100</td><td>11.288 &mu;s</td><td>0.2161 &mu;s</td><td>0.2402 &mu;s</td><td>11.272 &mu;s</td>
+</tr></tbody></table>
+</body>
+</html>

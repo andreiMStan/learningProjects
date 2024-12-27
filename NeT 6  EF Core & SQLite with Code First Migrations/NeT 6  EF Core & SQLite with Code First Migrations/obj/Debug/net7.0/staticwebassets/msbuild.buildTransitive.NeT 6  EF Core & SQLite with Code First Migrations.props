@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NeT 6  EF Core &amp; SQLite with Code First Migrations.props" />
+</Project>

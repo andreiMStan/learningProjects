@@ -1,0 +1,301 @@
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\testhost.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\testhost.exe
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroopWebApp.Test.deps.json
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroopWebApp.Test.runtimeconfig.json
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroopWebApp.Test.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroopWebApp.Test.pdb
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Castle.Core.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\FakeItEasy.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\FluentAssertions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.abstractions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.assert.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.core.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.csproj.AssemblyReference.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.AssemblyInfoInputs.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.AssemblyInfo.cs
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.csproj.CoreCompileInputs.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.csproj.CopyComplete
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\refint\RunGroopWebApp.Test.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.pdb
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.genruntimeconfig.cache
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\ref\RunGroopWebApp.Test.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.deps.json
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.runtimeconfig.json
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\appsettings.Development.json
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\appsettings.json
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.staticwebassets.runtime.json
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.exe
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\CloudinaryDotNet.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.dll
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.pdb
+D:\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\appsettings.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\testhost.exe
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\testhost.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.deps.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.runtimeconfig.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.staticwebassets.runtime.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.staticwebassets.endpoints.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.exe
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroopWebApp.Test.deps.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroopWebApp.Test.runtimeconfig.json
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroopWebApp.Test.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroopWebApp.Test.pdb
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Castle.Core.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\CloudinaryDotNet.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\FakeItEasy.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\FluentAssertions.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.abstractions.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.assert.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.core.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\bin\Debug\net6.0\RunGroupMVC teddy.pdb
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.csproj.AssemblyReference.cache
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.AssemblyInfoInputs.cache
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.AssemblyInfo.cs
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.csproj.CoreCompileInputs.cache
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroop.31703BE8.Up2Date
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\refint\RunGroopWebApp.Test.dll
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.pdb
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\RunGroopWebApp.Test.genruntimeconfig.cache
+D:\OneDrive - TUS MM\GitProjects\RunGroupMVC teddy\RunGroopWebApp.Test\obj\Debug\net6.0\ref\RunGroopWebApp.Test.dll

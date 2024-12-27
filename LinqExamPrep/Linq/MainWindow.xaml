@@ -1,0 +1,13 @@
+﻿<Window x:Class="Linq.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sales Report" Height="300" Width="400">
+    <Grid>
+        <TextBlock Name="SalesTextBlock" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" 
+                   TextWrapping="Wrap"
+                   FontSize="16"
+                   Text="Sales will display here."/>
+    </Grid>
+</Window>

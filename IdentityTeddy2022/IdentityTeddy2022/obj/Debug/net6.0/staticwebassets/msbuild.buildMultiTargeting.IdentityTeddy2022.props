@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IdentityTeddy2022.props" />
+</Project>

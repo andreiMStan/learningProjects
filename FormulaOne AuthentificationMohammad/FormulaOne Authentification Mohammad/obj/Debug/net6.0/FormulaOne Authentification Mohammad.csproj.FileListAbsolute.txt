@@ -1,0 +1,79 @@
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\appsettings.Development.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\appsettings.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\FormulaOne Authentification Mohammad.exe
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\FormulaOne Authentification Mohammad.deps.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\FormulaOne Authentification Mohammad.runtimeconfig.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\FormulaOne Authentification Mohammad.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\FormulaOne Authentification Mohammad.pdb
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\FormulaOne Authentification Mohammad.csproj.AssemblyReference.cache
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\FormulaOne Authentification Mohammad.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\FormulaOne Authentification Mohammad.AssemblyInfoInputs.cache
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\FormulaOne Authentification Mohammad.AssemblyInfo.cs
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\FormulaOne Authentification Mohammad.csproj.CoreCompileInputs.cache
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\FormulaOne Authentification Mohammad.MvcApplicationPartsAssemblyInfo.cs
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\FormulaOne Authentification Mohammad.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\staticwebassets\msbuild.FormulaOne Authentification Mohammad.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\staticwebassets\msbuild.build.FormulaOne Authentification Mohammad.props
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FormulaOne Authentification Mohammad.props
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FormulaOne Authentification Mohammad.props
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\scopedcss\bundle\FormulaOne Authentification Mohammad.styles.css
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\FormulaOne Authentification Mohammad.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\refint\FormulaOne Authentification Mohammad.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\FormulaOne Authentification Mohammad.pdb
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\FormulaOne Authentification Mohammad.genruntimeconfig.cache
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\ref\FormulaOne Authentification Mohammad.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Humanizer.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\FormulaOne Authentification Mohammad.staticwebassets.runtime.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\System.Web.Http.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\bin\Debug\net6.0\FormulaOne Authentification Mohammad.staticwebassets.endpoints.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\staticwebassets\msbuild.FormulaOne Authentification Mohammad.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\GitProjects\FormulaOne AuthentificationMohammad\FormulaOne Authentification Mohammad\obj\Debug\net6.0\FormulaO.FB24D6FC.Up2Date

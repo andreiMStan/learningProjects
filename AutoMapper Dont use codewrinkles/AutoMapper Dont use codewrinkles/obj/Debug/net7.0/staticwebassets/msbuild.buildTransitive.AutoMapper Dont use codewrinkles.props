@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AutoMapper Dont use codewrinkles.props" />
+</Project>

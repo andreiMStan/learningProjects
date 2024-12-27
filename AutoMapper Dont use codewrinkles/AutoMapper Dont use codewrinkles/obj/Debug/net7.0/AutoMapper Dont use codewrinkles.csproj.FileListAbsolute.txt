@@ -1,0 +1,26 @@
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\bin\Debug\net7.0\appsettings.Development.json
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\bin\Debug\net7.0\appsettings.json
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\bin\Debug\net7.0\AutoMapper Dont use codewrinkles.exe
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\bin\Debug\net7.0\AutoMapper Dont use codewrinkles.deps.json
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\bin\Debug\net7.0\AutoMapper Dont use codewrinkles.runtimeconfig.json
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\bin\Debug\net7.0\AutoMapper Dont use codewrinkles.dll
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\bin\Debug\net7.0\AutoMapper Dont use codewrinkles.pdb
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\AutoMapper Dont use codewrinkles.csproj.AssemblyReference.cache
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\AutoMapper Dont use codewrinkles.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\AutoMapper Dont use codewrinkles.AssemblyInfoInputs.cache
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\AutoMapper Dont use codewrinkles.AssemblyInfo.cs
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\AutoMapper Dont use codewrinkles.csproj.CoreCompileInputs.cache
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\AutoMapper Dont use codewrinkles.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\staticwebassets\msbuild.AutoMapper Dont use codewrinkles.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\staticwebassets\msbuild.build.AutoMapper Dont use codewrinkles.props
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AutoMapper Dont use codewrinkles.props
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AutoMapper Dont use codewrinkles.props
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\staticwebassets.build.json
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\staticwebassets.development.json
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\scopedcss\bundle\AutoMapper Dont use codewrinkles.styles.css
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\AutoMapper Dont use codewrinkles.dll
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\refint\AutoMapper Dont use codewrinkles.dll
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\AutoMapper Dont use codewrinkles.pdb
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\AutoMapper Dont use codewrinkles.genruntimeconfig.cache
+D:\GitProjects\AutoMapper Dont use codewrinkles\AutoMapper Dont use codewrinkles\obj\Debug\net7.0\ref\AutoMapper Dont use codewrinkles.dll

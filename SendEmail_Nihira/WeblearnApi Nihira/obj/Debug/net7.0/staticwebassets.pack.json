@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\wwwroot\\Upload\\product\\012342\\124314.jpg",
+      "PackagePath": "staticwebassets\\Upload\\product\\012342\\124314.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WeblearnApi_Nihira.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WeblearnApi_Nihira.props",
+      "PackagePath": "build\\WeblearnApi_Nihira.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WeblearnApi_Nihira.props",
+      "PackagePath": "buildMultiTargeting\\WeblearnApi_Nihira.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WeblearnApi_Nihira.props",
+      "PackagePath": "buildTransitive\\WeblearnApi_Nihira.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

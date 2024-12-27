@@ -1,0 +1,110 @@
+﻿@*@*@using RunGroupMVC_teddy.Data.Enum;
+@using RunGroupMVC_teddy.Data.Enum;
+@using RunGroupMVC_teddy.ViewModels;
+@model CreateClubViewModel
+
+<form method="post" asp-action="Create" enctype="multipart/form-data">
+ <input type="hidden" id="AppUserId" name="AppUserId" asp-for="AppUserId" />
+    
+    <div class="form-group">
+  <label asp-for="Title">Title</label>
+  <input asp-for="Title" class="form-control" placeholder="Enter Title">
+  <span asp-validation-for="Title" class="text-danger"></span>
+ </div>
+ <div class="form-group">
+  <label asp-for="Description">Description</label>
+  <input asp-for="Description" class="form-control" placeholder="Enter Description">
+  <span asp-validation-for="Description" class="text-danger"></span>
+ </div>
+
+ <div class="form-group">
+  <label asp-for="ClubCategory">ClubCategory</label>
+  <option>--Select--</option>
+  <select asp-for="ClubCategory" asp-items="@Html.GetEnumSelectList<ClubCategory>()" class="form-control"
+  ></select>
+  <span asp-validation-for="ClubCategory" class="text-danger"></span>
+ </div>
+ <div class="form-group">
+  <label asp-for="Address.Street">Street</label>
+  <input asp-for="Address.Street" class="form-control" placeholder="Enter Street">
+  <span asp-validation-for="Address.Street" class="text-danger"></span>
+ </div>
+ <div class="form-group">
+  <label asp-for="Address.City">Street</label>
+  <input asp-for="Address.City" class="form-control" placeholder="Enter City">
+  <span asp-validation-for="Address.City" class="text-danger"></span>
+ </div>
+  <div class="form-group">
+  <label asp-for="Address.State">State</label>
+  <input asp-for="Address.State" class="form-control" placeholder="Enter State">
+  <span asp-validation-for="Address.State" class="text-danger"></span>
+ </div>
+ <div class="form-group">
+  <label asp-for="Image">Image</label>
+  <input asp-for="Image" type="file" class ="form-control" placeholder="Enter Image">
+  <span asp-validation-for="Image" class="text-danger"></span>
+ </div>
+ <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+@*
+@using RunGroupMVC_teddy.Data.Enum;
+@using RunGroupMVC_teddy.ViewModels;
+@model Club
+
+<div class="container my-5">
+ <h1 class="text-primary mb-4">Create a New Club</h1>
+
+ <form method="post" asp-action="Create" enctype="multipart/form-data">
+  <div class="form-group mb-3">
+   <label asp-for="Title" class="form-label">Title</label>
+   <input asp-for="Title" class="form-control" placeholder="Enter the club title" />
+   <span asp-validation-for="Title" class="text-danger"></span>
+  </div>
+
+  <div class="form-group mb-3">
+   <label asp-for="Description" class="form-label">Description</label>
+   <textarea asp-for="Description" class="form-control" rows="4" placeholder="Enter the club description"></textarea>
+   <span asp-validation-for="Description" class="text-danger"></span>
+  </div>
+
+  <div class="form-group mb-3">
+   <label asp-for="ClubCategory" class="form-label">Club Category</label>
+   <select asp-for="ClubCategory" asp-items="@Html.GetEnumSelectList<ClubCategory>()" class="form-control">
+    <option value="">--Select--</option>
+   </select>
+   <span asp-validation-for="ClubCategory" class="text-danger"></span>
+  </div>
+
+  <h3 class="my-4">Club Location</h3>
+
+  <div class="form-group mb-3">
+   <label asp-for="Address.Street" class="form-label">Street</label>
+   <input asp-for="Address.Street" class="form-control" placeholder="Enter the street address" />
+   <span asp-validation-for="Address.Street" class="text-danger"></span>
+  </div>
+
+  <div class="form-group mb-3">
+   <label asp-for="Address.City" class="form-label">City</label>
+   <input asp-for="Address.City" class="form-control" placeholder="Enter the city" />
+   <span asp-validation-for="Address.City" class="text-danger"></span>
+  </div>
+
+  <div class="form-group mb-3">
+   <label asp-for="Address.State" class="form-label">State</label>
+   <input asp-for="Address.State" class="form-control" placeholder="Enter the state" />
+   <span asp-validation-for="Address.State" class="text-danger"></span>
+  </div>
+
+  <div class="form-group mb-4">
+   <label asp-for="Image" class="form-label">Club Image</label>
+   <input asp-for="Image" type="file" class="form-control" />
+   <span asp-validation-for="Image" class="text-danger"></span>
+  </div>
+
+  <div class="d-flex justify-content-end">
+   <a asp-action="Index" class="btn btn-secondary me-2">Cancel</a>
+   <button type="submit" class="btn btn-primary">Create Club</button>
+  </div>
+ </form>
+</div>
+*@

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "7ppCoJ71zlfwFqT8dArZObIguDgTXuGJJFejhgKwwOM=",
+  "Source": "WeblearnApi_Nihira",
+  "BasePath": "_content/WeblearnApi_Nihira",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeblearnApi_Nihira\\wwwroot",
+      "Source": "WeblearnApi_Nihira",
+      "ContentRoot": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\wwwroot\\",
+      "BasePath": "_content/WeblearnApi_Nihira",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\wwwroot\\Upload\\product\\012342\\124314.jpg",
+      "SourceId": "WeblearnApi_Nihira",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitProjects\\SendEmail_Nihira\\WeblearnApi Nihira\\wwwroot\\",
+      "BasePath": "_content/WeblearnApi_Nihira",
+      "RelativePath": "Upload/product/012342/124314.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\product\\012342\\124314.jpg"
+    }
+  ]
+}

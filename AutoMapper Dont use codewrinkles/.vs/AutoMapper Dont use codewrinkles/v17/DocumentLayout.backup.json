@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD80855-880B-4022-AF29-FB1E52965034}|No AutoMapper\\No AutoMapper.csproj|d:\\gitprojects\\automapper dont use codewrinkles\\no automapper\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD80855-880B-4022-AF29-FB1E52965034}|No AutoMapper\\No AutoMapper.csproj|solutionrelative:no automapper\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD80855-880B-4022-AF29-FB1E52965034}|No AutoMapper\\No AutoMapper.csproj|d:\\gitprojects\\automapper dont use codewrinkles\\no automapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD80855-880B-4022-AF29-FB1E52965034}|No AutoMapper\\No AutoMapper.csproj|solutionrelative:no automapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD80855-880B-4022-AF29-FB1E52965034}|No AutoMapper\\No AutoMapper.csproj|d:\\gitprojects\\automapper dont use codewrinkles\\no automapper\\benchmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD80855-880B-4022-AF29-FB1E52965034}|No AutoMapper\\No AutoMapper.csproj|solutionrelative:no automapper\\benchmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD80855-880B-4022-AF29-FB1E52965034}|No AutoMapper\\No AutoMapper.csproj|d:\\gitprojects\\automapper dont use codewrinkles\\no automapper\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD80855-880B-4022-AF29-FB1E52965034}|No AutoMapper\\No AutoMapper.csproj|solutionrelative:no automapper\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF30D22-EFB0-409C-99F7-954210788441}|AutoMapper Dont use codewrinkles\\AutoMapper Dont use codewrinkles.csproj|d:\\gitprojects\\automapper dont use codewrinkles\\automapper dont use codewrinkles\\automapper dont use codewrinkles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8AF30D22-EFB0-409C-99F7-954210788441}|AutoMapper Dont use codewrinkles\\AutoMapper Dont use codewrinkles.csproj|solutionrelative:automapper dont use codewrinkles\\automapper dont use codewrinkles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF30D22-EFB0-409C-99F7-954210788441}|AutoMapper Dont use codewrinkles\\AutoMapper Dont use codewrinkles.csproj|d:\\gitprojects\\automapper dont use codewrinkles\\automapper dont use codewrinkles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF30D22-EFB0-409C-99F7-954210788441}|AutoMapper Dont use codewrinkles\\AutoMapper Dont use codewrinkles.csproj|solutionrelative:automapper dont use codewrinkles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD80855-880B-4022-AF29-FB1E52965034}|No AutoMapper\\No AutoMapper.csproj|d:\\gitprojects\\automapper dont use codewrinkles\\no automapper\\no automapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0BD80855-880B-4022-AF29-FB1E52965034}|No AutoMapper\\No AutoMapper.csproj|solutionrelative:no automapper\\no automapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\No AutoMapper\\Product.cs",
+              "RelativeDocumentMoniker": "No AutoMapper\\Product.cs",
+              "ToolTip": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\No AutoMapper\\Product.cs",
+              "RelativeToolTip": "No AutoMapper\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAtwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:45:11.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Benchmarks.cs",
+              "DocumentMoniker": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\No AutoMapper\\Benchmarks.cs",
+              "RelativeDocumentMoniker": "No AutoMapper\\Benchmarks.cs",
+              "ToolTip": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\No AutoMapper\\Benchmarks.cs",
+              "RelativeToolTip": "No AutoMapper\\Benchmarks.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:51:27.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\No AutoMapper\\Program.cs",
+              "RelativeDocumentMoniker": "No AutoMapper\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\No AutoMapper\\Program.cs",
+              "RelativeToolTip": "No AutoMapper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:44:34.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\No AutoMapper\\ProductDto.cs",
+              "RelativeDocumentMoniker": "No AutoMapper\\ProductDto.cs",
+              "ToolTip": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\No AutoMapper\\ProductDto.cs",
+              "RelativeToolTip": "No AutoMapper\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:46:42.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapper Dont use codewrinkles.csproj",
+              "DocumentMoniker": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\AutoMapper Dont use codewrinkles\\AutoMapper Dont use codewrinkles.csproj",
+              "RelativeDocumentMoniker": "AutoMapper Dont use codewrinkles\\AutoMapper Dont use codewrinkles.csproj",
+              "ToolTip": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\AutoMapper Dont use codewrinkles\\AutoMapper Dont use codewrinkles.csproj",
+              "RelativeToolTip": "AutoMapper Dont use codewrinkles\\AutoMapper Dont use codewrinkles.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T19:15:39.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\AutoMapper Dont use codewrinkles\\Program.cs",
+              "RelativeDocumentMoniker": "AutoMapper Dont use codewrinkles\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\AutoMapper Dont use codewrinkles\\Program.cs",
+              "RelativeToolTip": "AutoMapper Dont use codewrinkles\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:02:35.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "No AutoMapper.csproj",
+              "DocumentMoniker": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\No AutoMapper\\No AutoMapper.csproj",
+              "RelativeDocumentMoniker": "No AutoMapper\\No AutoMapper.csproj",
+              "ToolTip": "D:\\GitProjects\\AutoMapper Dont use codewrinkles\\No AutoMapper\\No AutoMapper.csproj",
+              "RelativeToolTip": "No AutoMapper\\No AutoMapper.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T19:15:39.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
